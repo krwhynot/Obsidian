@@ -1,27 +1,34 @@
-updated: {{date}} {{time}} tags: [active-focus, kitchen-pantry-crm]
+﻿---
+updated: {{date}} {{time}}
+tags: [active-focus, kitchen-pantry-crm]
+---
 
-🎯 Current Focus: Kitchen Pantry CRM
+# 🎯 Current Focus: Kitchen Pantry CRM
 
 ## 🚦 Right Now
-Working On: {{feature/bug/concept}}
-File: [[{{current-file}}]]
-Specific Task:
-
+**Working On**: {{feature/bug/concept}}
+**File**: [[{{current-file}}]]
+**Specific Task**: 
 ```typescript
 // Last code I was writing
 ```
 
 ## 🧠 Context Brain Dump
-What was I thinking?
+*What was I thinking?*
+- 
+- 
 
 ## ⏭️ Next Actions
-[ ] Immediate:
-[ ] Then:
-[ ] Later:
+1. [ ] Immediate: 
+2. [ ] Then: 
+3. [ ] Later: 
 
 ## 🚧 Blockers
+- 
 
 ## 💡 Ideas While Away
-Add ideas here when not actively coding
+> Add ideas here when not actively coding
+- 
 
-Last Updated: {{time}}
+---
+*Last Updated: {{time}}*

@@ -1,4 +1,4 @@
----
+﻿---
 created: {{date:YYYY-MM-DD}} {{time}}
 tags: [daily, {{date:YYYY-MM}}]
 energy: 🔥/🌊/🌙
@@ -22,20 +22,20 @@ energy: 🔥/🌊/🌙
 ### 📦 Snippets Found
 - #snippet-capture 
 ```typescript
-// Code here
+
 ```
 
 ## 🔄 Process Queue
-Move these at day end!
-
-[ ] → Rough Notes:
-[ ] → Full Notes:
-[ ] → Code Snippets:
+> Move these at day end!
+- [ ] → Rough Notes: 
+- [ ] → Full Notes: 
+- [ ] → Code Snippets: 
 
 ## 📍 Left Off At
-Project: [[Kitchen Pantry CRM]]
-File: [[]]
-Line:
-Context:
+**Project**: [[Kitchen Pantry CRM]]
+**File**: [[]]
+**Line**: 
+**Context**: 
 
-## Process Timer: ⏱️ 5 min at day end
+---
+*Process Timer: ⏱️ 5 min at day end*
