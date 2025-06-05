@@ -1,0 +1,24 @@
+# 🔧 Obsidian-specific files
+.obsidian/cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+
+# 🔌 Optional: Ignore all plugin settings (keep if syncing across devices)
+# .obsidian/plugins/
+
+# 💾 System-specific clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 💭 Backup / temp files
+*.tmp
+*.bak
+*.swp
+
+# 🚫 Node.js / Python / build folders (if you code in your vault)
+node_modules/
+dist/
+.env
+__pycache__/
