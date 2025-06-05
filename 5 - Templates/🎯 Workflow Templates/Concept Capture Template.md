@@ -1,4 +1,4 @@
-﻿created: {{date}} {{time}} 
+created: {{date}} {{time}} 
 stage: rough 
 tags: [{{cursor}}, concept-journey] 
 confidence: 🔴 low 

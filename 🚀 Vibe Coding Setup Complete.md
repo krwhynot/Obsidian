@@ -1,4 +1,4 @@
-﻿🚀 Obsidian Vibe Coding Setup - COMPLETE!
+🚀 Obsidian Vibe Coding Setup - COMPLETE!
 
 ✅ What Was Created
 

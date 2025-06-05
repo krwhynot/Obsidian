@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8a142d356dd34c1a",
+        "id": "9449dcb45ab095fc",
         "type": "tabs",
         "children": [
           {
-            "id": "088ca360459f3610",
+            "id": "128eb23d00b4e498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "5 -Templates/Index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "a4a43232399d61aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Concept Capture Template"
-            }
-          },
-          {
-            "id": "f03b8caaa6e38b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,12 +193,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f03b8caaa6e38b48",
+  "active": "128eb23d00b4e498",
   "lastOpenFiles": [
-    "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
-    "Untitled 2.md",
-    "Daily Notes/Jun  04, 2025.md",
+    "5 -Templates/Project-Setup.md",
+    "5 -Templates/Project.md",
+    "5 -Templates/Tag.md",
     "🚀 Vibe Coding Setup Complete.md",
+    "Untitled 2.md",
+    "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
+    "Daily Notes/Jun  04, 2025.md",
     "7 - Projects/Kitchen Pantry CRM/🎯 Current Focus.md",
     "7 - Projects/Kitchen Pantry CRM",
     "5 - Templates/🎯 Workflow Templates/Code Pattern Template.md",
@@ -257,9 +231,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2025-05-16 09.10.51.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-09 10.25.28.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-05 13.55.13.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-02 15.44.27.excalidraw.md",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
