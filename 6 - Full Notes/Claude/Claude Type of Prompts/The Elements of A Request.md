@@ -1,0 +1,12 @@
+**Pure Analytical Framework** When a request needs foundational understanding before any specialized knowledge is applied. This framework focuses on comprehending the core ask, requirements, and implications independently of implementation details. For example, a request to "optimize a system" first needs analysis of what optimization means in this context, what success looks like, and what constraints exist, before considering specific technical solutions.
+
+**Domain-Specific Considerations** When a request requires specialized knowledge, technical implementation, or field-specific expertise to be properly addressed. This encompasses the actual methods, tools, and approaches needed to execute the understood requirements. For example, after understanding what system optimization means for a particular request, this category would cover specific algorithmic approaches, programming languages, or technical constraints that influence implementation.
+
+Both categories work together sequentially - Pure Analysis establishes clear understanding of the request, while Domain-Specific Considerations determines how to fulfill that understood request effectively.
+**Interdisciplinary Requests** When a request spans multiple domains or disciplines, we might need a third category focused on Integration Analysis. This would help us understand how different fields interact and influence each other. For example, a request involving both psychological and technological considerations might need specific attention to how these areas intersect.
+
+**Multi-Stakeholder Requirements** Some requests involve various stakeholders with different needs and perspectives. In these cases, a Stakeholder Impact Analysis category could help ensure we properly consider and balance these diverse requirements. This becomes particularly important in organizational or policy-related requests.
+
+**Time-Dependent Elements Requests** with significant temporal components might benefit from a Temporal Analysis category. This would help us understand how different aspects of the request evolve over time or depend on specific timing considerations. This is especially relevant for project planning or strategic initiatives.
+
+However, I should note that in many cases, these additional considerations can be effectively handled within our existing two-category framework. The key is ensuring our framework is flexible enough to accommodate complexity while remaining clear and practical.

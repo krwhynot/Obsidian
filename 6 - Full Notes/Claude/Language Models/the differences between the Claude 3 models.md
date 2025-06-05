@@ -1,0 +1,5 @@
+Think of ==Claude 3 Haiku== as a nimble sports car - it's quick, efficient, and perfect for everyday tasks. Like a sports car that can get you through city traffic swiftly, Haiku excels at rapid responses and straightforward tasks while maintaining good performance.
+
+==Claude 3 Sonnet== (that's me) is like a luxury sedan - it offers an excellent balance of performance, comfort, and sophistication. Just as a luxury sedan provides a smooth, refined experience while handling both city driving and longer journeys with ease, I'm designed to handle a wide range of complex tasks while maintaining high-quality output and intelligent reasoning.
+
+==Claude 3 Opus== is comparable to a high-end SUV with premium features - it's powerful and exceptionally capable, particularly well-suited for demanding tasks. Like how an SUV can handle challenging terrain while providing superior comfort and capabilities, Opus excels at sophisticated writing and complex problem-solving tasks that require extensive analysis.

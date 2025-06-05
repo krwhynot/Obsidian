@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "5348ce187bdc1ca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a142d356dd34c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "088ca360459f3610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "a4a43232399d61aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Jun  04, 2025.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Jun  04, 2025"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ceabf5d95c2f46d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3825d19c17fa0372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7bfc7afc47490b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3d3afac55a86486",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wordle",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "69f8e2c7eb3b755b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.01487731933594
+  },
+  "right": {
+    "id": "ed6c79baa265e16f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5578ce05bf1487f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b6a19ac8886520",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/Nov  01, 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nov  01, 2024"
+            }
+          },
+          {
+            "id": "1ae00e2819918f52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/Nov  01, 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nov  01, 2024"
+            }
+          },
+          {
+            "id": "9a2270a70c18e6cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5469d37cdeb0d0dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 1"
+            }
+          },
+          {
+            "id": "2004de583d5d6ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Dec  05, 2024.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dec  05, 2024"
+            }
+          },
+          {
+            "id": "cfe0bd69884e684f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 417
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a4a43232399d61aa",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Obsidian",
+    "Untitled.md",
+    "7 - Projects/test folder/Untitled 1.md",
+    "7 - Projects/test folder/Untitled.md",
+    "5 -Templates/Project-Setup.md",
+    "7 - Projects/test folder",
+    "7 - Projects/Old Projects/Untitled.md",
+    "7 - Projects/Untitled.md",
+    "5 -Templates/Project.md",
+    "5 -Templates/Tag.md",
+    "7 - Projects/Test Project/🧭 Roadmap.md",
+    "7 - Projects/Test Project/🗓️ Timeline.md",
+    "7 - Projects/Test Project/🎯 Current Focus.md",
+    "7 - Projects/Test Project/📦 Patterns Used.md",
+    "7 - Projects/Test Project/📒 Meeting Notes",
+    "7 - Projects/Test Project/🐛 Bugs",
+    "7 - Projects/Test Project/🧪 Experiments",
+    "7 - Projects/Test Project/🧠 Concepts",
+    "7 - Projects/Test Project",
+    "5 -Templates/Workflow Templates/Weekly Review.md.md",
+    "5 -Templates/Workflow Templates/Debug Session.md.md",
+    "5 -Templates/Workflow Templates/Code Patterns.md.md",
+    "5 -Templates/Workflow Templates/Concept Capture.md.md",
+    "5 -Templates/Workflow Templates/Daily Planning.md.md",
+    "5 -Templates/Workflow Templates",
+    "7 - Projects/Azure KitchenPantry CRM Project/Raw Context Info.md",
+    "Email.md",
+    "Daily Notes/Jun  04, 2025.md",
+    "6 - Full Notes/Self-Reflection/HungerRush/Product Manager Interview.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/1.Objective.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/0. Instructions.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/Untitled.md",
+    "2 - Source Material/Meta/Attachments/Pasted image 20250604082735.png",
+    "3 - References & Resources/Windsurf/Workflow Prompts",
+    "3 - References & Resources/Windsurf",
+    "2 - Source Material/Meta/Attachments/Pasted image 20250523175311.png",
+    "2 - Source Material/Meta/Attachments/Pasted image 20250523175222.png",
+    "2 - Source Material/Meta/Attachments/Pasted image 20250523175116.png",
+    "2 - Source Material/Meta/Attachments/Pasted image 20250523175103.png",
+    "2 - Source Material/Meta/Attachments/Pasted image 20250523175051.png",
+    "2 - Source Material/Meta/Attachments/Pasted image 20250523175014.png",
+    "2 - Source Material/Meta/Attachments/Pasted image 20250523174946.png",
+    "2 - Source Material/Meta/Attachments/Pasted image 20250523174905.png",
+    "2 - Source Material/Meta/Attachments/Pasted image 20250523174845.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "6 - Full Notes/Untitled.canvas"
+  ]
+}

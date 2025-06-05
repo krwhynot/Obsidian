@@ -1,0 +1,88 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 300,
+    "embed_model": {
+      "model_key": "None",
+      "None": {
+        "api_key": "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"
+      }
+    }
+  },
+  "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": "300",
+    "embed_model": {
+      "adapter": "openai",
+      "transformers": {
+        "legacy_transformers": true,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "model_key": "TaylorAI/bge-micro-v2",
+      "legacy_transformers": true,
+      "openai": {
+        "model_key": "text-embedding-3-large",
+        "api_key": "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"
+      },
+      "text-embedding-3-small": {},
+      "text-embedding-3-large": {}
+    },
+    "smart_change": {
+      "active": true
+    }
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false,
+    "expanded_view": false,
+    "results_limit": "20"
+  },
+  "excluded_headings": "",
+  "language": "en",
+  "new_user": false,
+  "smart_chat_threads": {
+    "chat_model": {
+      "adapter": "ollama",
+      "ollama": {}
+    },
+    "active_thread_key": "",
+    "system_prompt": "",
+    "detect_self_referential": true,
+    "review_context": true,
+    "stream": true,
+    "language": "en",
+    "modifier_key_to_send": "shift",
+    "use_tool_calls": true
+  },
+  "smart_notices": {
+    "muted": {
+      "done_import": true,
+      "embedding_complete": true
+    }
+  },
+  "version": "",
+  "smart_chats_folder": "smart-chats",
+  "smart_directories": {},
+  "smart_threads": {
+    "chat_model": {
+      "adapter": "anthropic",
+      "openai": {
+        "model_key": "gpt-4o"
+      },
+      "anthropic": {
+        "model_key": "claude-3.5-sonnet-20241022",
+        "api_key": "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"
+      }
+    },
+    "embed_model": {
+      "model_key": "None"
+    },
+    "language": "en",
+    "review_context": false,
+    "lookup_limit": "10",
+    "send_tool_output_in_user_message": true
+  }
+}
