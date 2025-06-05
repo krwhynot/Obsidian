@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Jun  05, 2025.md",
+                "file": "7 - Projects/Azure KitchenPantry CRM Project/Checklist.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jun  05, 2025"
+              "title": "Checklist"
             }
           }
         ]
@@ -193,10 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "128eb23d00b4e498",
+  "active": "f7bfc7afc47490b8",
   "lastOpenFiles": [
-    "5 -Templates/Index.md",
     "Daily Notes/Jun  05, 2025.md",
+    "5 -Templates/Index.md",
     "5 -Templates/Project-Setup.md",
     "5 -Templates/Project.md",
     "5 -Templates/Tag.md",
