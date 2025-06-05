@@ -21,21 +21,3 @@ energy: 🔥/🌊/🌙
 
 ### 📦 Snippets Found
 - #snippet-capture 
-```typescript
-
-```
-
-## 🔄 Process Queue
-> Move these at day end!
-- [ ] → Rough Notes: 
-- [ ] → Full Notes: 
-- [ ] → Code Snippets: 
-
-## 📍 Left Off At
-**Project**: [[Kitchen Pantry CRM]]
-**File**: [[]]
-**Line**: 
-**Context**: 
-
----
-*Process Timer: ⏱️ 5 min at day end*
