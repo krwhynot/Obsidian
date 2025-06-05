@@ -25,14 +25,14 @@
             "id": "a4a43232399d61aa",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Concept Capture Template"
             }
           }
         ],
@@ -208,8 +208,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfe0bd69884e684f",
+  "active": "a4a43232399d61aa",
   "lastOpenFiles": [
+    "Daily Notes/Jun  04, 2025.md",
     "🚀 Vibe Coding Setup Complete.md",
     "7 - Projects/Kitchen Pantry CRM/🎯 Current Focus.md",
     "7 - Projects/Kitchen Pantry CRM",
@@ -238,7 +239,6 @@
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/Claude Task Master.md",
     "Daily Notes/Apr  03, 2025.md",
     "Daily Notes/Dec  30, 2024.md",
-    "Daily Notes/Jun  04, 2025.md",
     "Untitled.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2025-05-16 09.10.51.excalidraw.md",
