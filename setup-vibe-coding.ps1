@@ -28,37 +28,37 @@ Write-Host "`n📁 Creating folder structure..." -ForegroundColor Cyan
 # Define folder structure (emoji and non-emoji versions)
 if ($NoEmoji) {
     $folders = @(
-        "1 - Rough Notes\_Inbox",
-        "1 - Rough Notes\Ideas", 
-        "1 - Rough Notes\Bugs",
-        "1 - Rough Notes\Experiments",
-        "3 - References & Resources\Code Snippets",
-        "3 - References & Resources\Code Snippets\Azure Patterns",
-        "3 - References & Resources\Code Snippets\NextJS Patterns", 
-        "3 - References & Resources\Code Snippets\Prisma Patterns",
-        "3 - References & Resources\Code Snippets\TypeScript Tricks",
-        "3 - References & Resources\Code Snippets\Quick Copies",
-        "5 - Templates\Workflow Templates",
-        "6 - Full Notes\Concepts",
-        "6 - Full Notes\Concepts\By Project",
-        "6 - Full Notes\Concepts\By Technology"
+        '1 - Rough Notes\_Inbox',
+        '1 - Rough Notes\Ideas', 
+        '1 - Rough Notes\Bugs',
+        '1 - Rough Notes\Experiments',
+        '3 - References & Resources\Code Snippets',
+        '3 - References & Resources\Code Snippets\Azure Patterns',
+        '3 - References & Resources\Code Snippets\NextJS Patterns', 
+        '3 - References & Resources\Code Snippets\Prisma Patterns',
+        '3 - References & Resources\Code Snippets\TypeScript Tricks',
+        '3 - References & Resources\Code Snippets\Quick Copies',
+        '5 - Templates\Workflow Templates',
+        '6 - Full Notes\Concepts',
+        '6 - Full Notes\Concepts\By Project',
+        '6 - Full Notes\Concepts\By Technology'
     )
 } else {
     $folders = @(
-        "1 - Rough Notes\_Inbox",
-        "1 - Rough Notes\💡 Ideas", 
-        "1 - Rough Notes\🐛 Bugs",
-        "1 - Rough Notes\🧪 Experiments",
-        "3 - References & Resources\📦 Code Snippets",
-        "3 - References & Resources\📦 Code Snippets\Azure Patterns",
-        "3 - References & Resources\📦 Code Snippets\NextJS Patterns", 
-        "3 - References & Resources\📦 Code Snippets\Prisma Patterns",
-        "3 - References & Resources\📦 Code Snippets\TypeScript Tricks",
-        "3 - References & Resources\📦 Code Snippets\Quick Copies",
-        "5 - Templates\🎯 Workflow Templates",
-        "6 - Full Notes\🧠 Concepts",
-        "6 - Full Notes\🧠 Concepts\By Project",
-        "6 - Full Notes\🧠 Concepts\By Technology"
+        '1 - Rough Notes\_Inbox',
+        '1 - Rough Notes\💡 Ideas', 
+        '1 - Rough Notes\🐛 Bugs',
+        '1 - Rough Notes\🧪 Experiments',
+        '3 - References & Resources\📦 Code Snippets',
+        '3 - References & Resources\📦 Code Snippets\Azure Patterns',
+        '3 - References & Resources\📦 Code Snippets\NextJS Patterns', 
+        '3 - References & Resources\📦 Code Snippets\Prisma Patterns',
+        '3 - References & Resources\📦 Code Snippets\TypeScript Tricks',
+        '3 - References & Resources\📦 Code Snippets\Quick Copies',
+        '5 - Templates\🎯 Workflow Templates',
+        '6 - Full Notes\🧠 Concepts',
+        '6 - Full Notes\🧠 Concepts\By Project',
+        '6 - Full Notes\🧠 Concepts\By Technology'
     )
 }
 
@@ -89,8 +89,8 @@ Write-Host "`n📝 Creating template files..." -ForegroundColor Cyan
 # Determine template folder name based on emoji setting
 $templateFolderName = if ($NoEmoji) { "Workflow Templates" } else { "🎯 Workflow Templates" }
 
-# Daily Note Template
-$dailyNoteTemplate = @"
+# Define template content with proper PowerShell escaping
+$dailyNoteTemplate = @'
 ---
 created: {{date:YYYY-MM-DD}} {{time}}
 tags: [daily, {{date:YYYY-MM}}]
@@ -100,7 +100,7 @@ energy: 🔥/🌊/🌙
 # 📅 {{date:dddd, MMMM Do}}
 
 ## 🎯 Current Focus
-![[7 - Projects/$ProjectName/🎯 Current Focus]]
+![[7 - Projects/Kitchen Pantry CRM/🎯 Current Focus]]
 
 ## 💭 Quick Captures
 ### 🧠 Concepts Discovered
@@ -125,23 +125,23 @@ energy: 🔥/🌊/🌙
 - [ ] → Code Snippets: 
 
 ## 📍 Left Off At
-**Project**: [[$ProjectName]]
+**Project**: [[Kitchen Pantry CRM]]
 **File**: [[]]
 **Line**: 
 **Context**: 
 
 ---
 *Process Timer: ⏱️ 5 min at day end*
-"@
+'@
 
 # Current Focus Template
-$currentFocusTemplate = @"
+$currentFocusTemplate = @'
 ---
 updated: {{date}} {{time}}
 tags: [active-focus, kitchen-pantry-crm]
 ---
 
-# 🎯 Current Focus: $ProjectName
+# 🎯 Current Focus: Kitchen Pantry CRM
 
 ## 🚦 Right Now
 **Working On**: {{feature/bug/concept}}
@@ -170,10 +170,10 @@ tags: [active-focus, kitchen-pantry-crm]
 
 ---
 *Last Updated: {{time}}*
-"@
+'@
 
 # Concept Capture Template
-$conceptCaptureTemplate = @"
+$conceptCaptureTemplate = @'
 ---
 created: {{date}} {{time}}
 stage: rough
@@ -215,10 +215,10 @@ project: [[]]
 - 🟡 **Refined**: [date] - [what changed]
 - 🟢 **Full**: [date] - [[Link to Full Note]]
 - 📦 **Snippet**: [date] - [[Link to Snippet]]
-"@
+'@
 
 # Code Pattern Template
-$codePatternTemplate = @"
+$codePatternTemplate = @'
 ---
 created: {{date}}
 type: pattern
@@ -231,7 +231,7 @@ snippet: [[3 - References & Resources/📦 Code Snippets/{{name}}]]
 # 🏗️ Pattern: {{title}}
 
 ## Why This Pattern Exists
-*Problem it solves in $ProjectName:*
+*Problem it solves in Kitchen Pantry CRM:*
 
 ## Core Implementation
 ```typescript
@@ -241,7 +241,7 @@ snippet: [[3 - References & Resources/📦 Code Snippets/{{name}}]]
 
 ## Real Usage Example
 ```typescript
-// From: [[$ProjectName/{{file}}]]
+// From: [[Kitchen Pantry CRM/{{file}}]]
 {{real-code}}
 ```
 
@@ -263,7 +263,7 @@ snippet: [[3 - References & Resources/📦 Code Snippets/{{name}}]]
 ## Related Patterns
 - [[]]
 - [[]]
-"@
+'@
 
 # Write template files with UTF-8 encoding
 $templateFiles = @{
@@ -293,9 +293,12 @@ foreach ($templateFile in $templateFiles.GetEnumerator()) {
 # Create Current Focus file with error handling
 Write-Host "`n🎯 Creating Current Focus file..." -ForegroundColor Cyan
 
+$currentDateTime = Get-Date -Format 'yyyy-MM-dd HH:mm'
+$currentTime = Get-Date -Format 'HH:mm'
+
 $currentFocusFile = @"
 ---
-updated: $(Get-Date -Format 'yyyy-MM-dd HH:mm')
+updated: $currentDateTime
 tags: [active-focus, kitchen-pantry-crm]
 ---
 
@@ -326,7 +329,7 @@ tags: [active-focus, kitchen-pantry-crm]
 - Think about integration with VS Code
 
 ---
-*Last Updated: $(Get-Date -Format 'HH:mm')*
+*Last Updated: $currentTime*
 "@
 
 $projectDir = Join-Path $VaultPath "7 - Projects\$ProjectName"
@@ -347,7 +350,7 @@ catch {
 }
 
 # Create Quick Setup README
-$setupReadme = @"
+$setupReadme = @'
 # 🚀 Obsidian Vibe Coding Setup - COMPLETE!
 
 ## ✅ What Was Created
@@ -368,7 +371,7 @@ $setupReadme = @"
 - **Code Pattern Template** - Reusable documentation
 
 ### 🎯 Project Files
-- **Current Focus for $ProjectName** - Ready to use!
+- **Current Focus for Kitchen Pantry CRM** - Ready to use!
 
 ## ⚡ Next Steps (5 minutes)
 
@@ -400,7 +403,7 @@ $setupReadme = @"
 - `#kitchen-pantry-crm` → Project-specific
 
 **Happy Vibe Coding! 🚀**
-"@
+'@
 
 $readmePath = Join-Path $VaultPath "🚀 Vibe Coding Setup Complete.md"
 try {
