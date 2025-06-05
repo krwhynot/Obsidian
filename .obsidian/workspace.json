@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Concept Capture Template"
             }
+          },
+          {
+            "id": "f03b8caaa6e38b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,14 +222,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4a43232399d61aa",
+  "active": "f03b8caaa6e38b48",
   "lastOpenFiles": [
+    "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
+    "Untitled 2.md",
     "Daily Notes/Jun  04, 2025.md",
     "🚀 Vibe Coding Setup Complete.md",
     "7 - Projects/Kitchen Pantry CRM/🎯 Current Focus.md",
     "7 - Projects/Kitchen Pantry CRM",
     "5 - Templates/🎯 Workflow Templates/Code Pattern Template.md",
-    "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
     "5 - Templates/🎯 Workflow Templates/Current Focus Template.md",
     "5 - Templates/🎯 Workflow Templates/Daily Note Template.md",
     "6 - Full Notes/🧠 Concepts/By Technology",
@@ -245,7 +260,6 @@
     "Excalidraw/Drawing 2025-05-09 10.25.28.excalidraw.md",
     "Excalidraw/Drawing 2025-05-05 13.55.13.excalidraw.md",
     "Excalidraw/Drawing 2025-05-02 15.44.27.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-01 14.26.54.excalidraw.md",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
