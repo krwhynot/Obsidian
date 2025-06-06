@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Azure KitchenPantry CRM Project/1.Objective.md",
+                "file": "7 - Projects/Kitchen Pantry CRM/PRD File.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1.Objective"
+              "title": "PRD File"
             }
           }
         ]
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417
+    "width": 417,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,6 +196,8 @@
   },
   "active": "128eb23d00b4e498",
   "lastOpenFiles": [
+    "7 - Projects/Azure KitchenPantry CRM Project/1.Objective.md",
+    "7 - Projects/Kitchen Pantry CRM/PRD File.md",
     "7 - Projects/Azure KitchenPantry CRM Project/0. Instructions.md",
     "7 - Projects/Azure KitchenPantry CRM Project/Tasks.md",
     "7 - Projects/Azure KitchenPantry CRM Project/Raw Context Info.md",
@@ -229,8 +232,6 @@
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/magic-ui.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/Exa-MCP-Server.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/FileSystem.md",
-    "7 - Projects/MCP Tool Discovery Project/MCP Tools/Context7.md",
-    "7 - Projects/MCP Tool Discovery Project/MCP Tools/CloudFlare Workers.md",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
