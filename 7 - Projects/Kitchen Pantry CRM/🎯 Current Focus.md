@@ -1,4 +1,4 @@
-﻿updated: 2025-06-04 21:08 tags: [active-focus, kitchen-pantry-crm]
+updated: 2025-06-04 21:08 tags: [active-focus, kitchen-pantry-crm]
 🎯 Current Focus: Kitchen Pantry CRM
 🚦 Right Now
 Working On: Setting up vibe coding workflow

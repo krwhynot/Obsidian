@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Azure KitchenPantry CRM Project/Checklist.md",
+                "file": "7 - Projects/Azure KitchenPantry CRM Project/1.Objective.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Checklist"
+              "title": "1.Objective"
             }
           }
         ]
@@ -193,8 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7bfc7afc47490b8",
+  "active": "128eb23d00b4e498",
   "lastOpenFiles": [
+    "7 - Projects/Azure KitchenPantry CRM Project/0. Instructions.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/Tasks.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/Raw Context Info.md",
+    "7 - Projects/Kitchen Pantry CRM/🎯 Current Focus.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/Checklist.md",
     "Daily Notes/Jun  05, 2025.md",
     "5 -Templates/Index.md",
     "5 -Templates/Project-Setup.md",
@@ -204,7 +209,6 @@
     "Untitled 2.md",
     "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
     "Daily Notes/Jun  04, 2025.md",
-    "7 - Projects/Kitchen Pantry CRM/🎯 Current Focus.md",
     "7 - Projects/Kitchen Pantry CRM",
     "5 - Templates/🎯 Workflow Templates/Code Pattern Template.md",
     "5 - Templates/🎯 Workflow Templates/Current Focus Template.md",
@@ -227,10 +231,6 @@
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/FileSystem.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/Context7.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/CloudFlare Workers.md",
-    "7 - Projects/MCP Tool Discovery Project/MCP Tools/Claude Task Master.md",
-    "Daily Notes/Apr  03, 2025.md",
-    "Daily Notes/Dec  30, 2024.md",
-    "Untitled.md",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
