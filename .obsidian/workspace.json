@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Untitled.md",
+                "file": "6 - Full Notes/Project Planning/Visual Templates/Templates list.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Templates list"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.01487731933594
+    "width": 402.01487731933594,
+    "collapsed": true
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -196,8 +197,11 @@
   },
   "active": "128eb23d00b4e498",
   "lastOpenFiles": [
-    "7 - Projects/Kitchen Pantry CRM/PRD File.md",
     "7 - Projects/Kitchen Pantry CRM/Untitled.md",
+    "6 - Full Notes/Project Planning/Visual Templates/Templates list.md",
+    "6 - Full Notes/Project Planning/Visual Templates",
+    "6 - Full Notes/Project Planning",
+    "7 - Projects/Kitchen Pantry CRM/PRD File.md",
     "5 - Templates/PRD-Template.md",
     "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
     "Daily Notes/Jun  07, 2025.md",
@@ -226,12 +230,9 @@
     "5 - Templates",
     "3 - References & Resources/📦 Code Snippets/Quick Copies",
     "3 - References & Resources/📦 Code Snippets/TypeScript Tricks",
-    "3 - References & Resources/📦 Code Snippets/Prisma Patterns",
-    "3 - References & Resources/📦 Code Snippets/NextJS Patterns",
     "7 - Projects/Old Projects/----CustomerDB Project----/Overall Notes.md",
     "7 - Projects/Old Projects/----CustomerDB Project----/Excel Script Checklist.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/Untitled.md",
-    "7 - Projects/MCP Tool Discovery Project/MCP Tools/Untitled 1.md",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
