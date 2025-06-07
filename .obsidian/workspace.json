@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
+                "file": "7 - Projects/Azure KitchenPantry CRM Project/1.Objective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Detailed Fresh PRD file"
+              "title": "1.Objective"
             }
           }
         ]
@@ -194,10 +194,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "128eb23d00b4e498",
+  "active": "f7bfc7afc47490b8",
   "lastOpenFiles": [
-    "6 - Full Notes/Project Planning/Project Workflow.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/0. Instructions.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/File Structure/Product Context and System Patterns.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/1.Objective.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/Checklist.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/Raw Context Info.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/User Walkthrough.md",
+    "7 - Projects/Azure KitchenPantry CRM Project/Tasks.md",
     "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
+    "6 - Full Notes/Project Planning/Project Workflow.md",
     "7 - Projects/Kitchen Pantry CRM/PRD File.md",
     "6 - Full Notes/Project Planning/Visual Templates/Templates list.md",
     "6 - Full Notes/Project Planning/Visual Templates",
@@ -205,12 +212,7 @@
     "5 - Templates/PRD-Template.md",
     "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
     "Daily Notes/Jun  07, 2025.md",
-    "7 - Projects/Azure KitchenPantry CRM Project/1.Objective.md",
-    "7 - Projects/Azure KitchenPantry CRM Project/0. Instructions.md",
-    "7 - Projects/Azure KitchenPantry CRM Project/Tasks.md",
-    "7 - Projects/Azure KitchenPantry CRM Project/Raw Context Info.md",
     "7 - Projects/Kitchen Pantry CRM/🎯 Current Focus.md",
-    "7 - Projects/Azure KitchenPantry CRM Project/Checklist.md",
     "Daily Notes/Jun  05, 2025.md",
     "5 -Templates/Index.md",
     "5 -Templates/Project-Setup.md",
@@ -230,8 +232,6 @@
     "5 - Templates",
     "3 - References & Resources/📦 Code Snippets/Quick Copies",
     "3 - References & Resources/📦 Code Snippets/TypeScript Tricks",
-    "7 - Projects/Old Projects/----CustomerDB Project----/Overall Notes.md",
-    "7 - Projects/Old Projects/----CustomerDB Project----/Excel Script Checklist.md",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
