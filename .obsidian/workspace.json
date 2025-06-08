@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - References & Resources/Windsurf/Workflows.md",
+                "file": "Daily Notes/Jun  08, 2025.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Workflows"
+              "title": "Jun  08, 2025"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wordle",
+                "query": "tcp:kitchenpantrycrm-server.database.windows.net,1433;Initi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417,
-    "collapsed": true
+    "width": 417
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,6 +239,8 @@
   },
   "active": "be82e4f60b26e596",
   "lastOpenFiles": [
+    "3 - References & Resources/Windsurf/Workflows.md",
+    "Daily Notes/Jun  08, 2025.md",
     "3 - References & Resources/Windsurf/Creating Rules.md",
     "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
@@ -265,8 +266,6 @@
     "7 - Projects/Azure KitchenPantry CRM Project/Raw Context Info.md",
     "7 - Projects/Azure KitchenPantry CRM Project/User Walkthrough.md",
     "7 - Projects/Azure KitchenPantry CRM Project/Tasks.md",
-    "6 - Full Notes/Project Planning/Project Workflow.md",
-    "7 - Projects/Kitchen Pantry CRM/PRD File.md",
     "6 - Full Notes/Project Planning/Visual Templates",
     "6 - Full Notes/Project Planning",
     "7 - Projects/Kitchen Pantry CRM",
