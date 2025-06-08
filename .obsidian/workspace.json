@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "NEEDS"
             }
+          },
+          {
+            "id": "d6a0027f2e564e3f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "7 - Projects/Kitchen Pantry CRM/Diagrams/Drawing 2025-06-07 19.56.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-07 19.56.14.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,14 +204,16 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "f7bfc7afc47490b8",
   "lastOpenFiles": [
+    "7 - Projects/Kitchen Pantry CRM/NEEDS.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/Drawing 2025-06-07 19.56.14.excalidraw.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams",
     "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
-    "7 - Projects/Kitchen Pantry CRM/NEEDS.md",
     "7 - Projects/Azure KitchenPantry CRM Project/1.Objective.md",
     "7 - Projects/Azure KitchenPantry CRM Project/0. Instructions.md",
     "7 - Projects/Azure KitchenPantry CRM Project/File Structure/Product Context and System Patterns.md",
@@ -231,7 +246,6 @@
     "5 - Templates/🎯 Workflow Templates",
     "5 - Templates",
     "3 - References & Resources/📦 Code Snippets/Quick Copies",
-    "3 - References & Resources/📦 Code Snippets/TypeScript Tricks",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
