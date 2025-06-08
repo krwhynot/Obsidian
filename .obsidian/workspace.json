@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
+                "file": "7 - Projects/Kitchen Pantry CRM/NEEDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Detailed Fresh PRD file"
+              "title": "NEEDS"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "128eb23d00b4e498",
+  "active": "f7bfc7afc47490b8",
   "lastOpenFiles": [
+    "7 - Projects/Kitchen Pantry CRM/Diagrams",
+    "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
     "7 - Projects/Kitchen Pantry CRM/NEEDS.md",
     "7 - Projects/Azure KitchenPantry CRM Project/1.Objective.md",
     "7 - Projects/Azure KitchenPantry CRM Project/0. Instructions.md",
@@ -204,7 +206,6 @@
     "7 - Projects/Azure KitchenPantry CRM Project/Raw Context Info.md",
     "7 - Projects/Azure KitchenPantry CRM Project/User Walkthrough.md",
     "7 - Projects/Azure KitchenPantry CRM Project/Tasks.md",
-    "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
     "6 - Full Notes/Project Planning/Project Workflow.md",
     "7 - Projects/Kitchen Pantry CRM/PRD File.md",
     "6 - Full Notes/Project Planning/Visual Templates/Templates list.md",
@@ -224,7 +225,6 @@
     "Daily Notes/Jun  04, 2025.md",
     "7 - Projects/Kitchen Pantry CRM",
     "5 - Templates/🎯 Workflow Templates/Code Pattern Template.md",
-    "5 - Templates/🎯 Workflow Templates/Current Focus Template.md",
     "6 - Full Notes/🧠 Concepts/By Technology",
     "6 - Full Notes/🧠 Concepts/By Project",
     "6 - Full Notes/🧠 Concepts",
