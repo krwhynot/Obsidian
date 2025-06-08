@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - References & Resources/Windsurf/Creating Rules.md",
+                "file": "3 - References & Resources/Windsurf/Workflows.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Creating Rules"
+              "title": "Workflows"
             }
           }
         ],
@@ -240,8 +240,8 @@
   },
   "active": "be82e4f60b26e596",
   "lastOpenFiles": [
-    "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
     "3 - References & Resources/Windsurf/Creating Rules.md",
+    "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
     "🚀 Vibe Coding Setup Complete.md",
     "Excalidraw/Drawing 2024-12-28 16.06.28.excalidraw.md",

@@ -1,278 +1,569 @@
-# 5 Windsurf Rules for Kitchen Pantry CRM Development
+# Complete Guide: Creating Workspace Rules for Any Coding Project
 
-## 🏗️ **Rule 1: Architecture-First Development**
+## 🎯 **Core Methodology: The 5-Rule Framework**
 
-_Reference File: `@architecture.md`_
+Every coding project benefits from these 5 essential rule types:
 
-### **When to Use:**
-
-- Starting any new feature implementation
-- Troubleshooting performance issues
-- Planning component integrations
-- Azure infrastructure questions
-
-### **Rule Pattern:**
-
-```
-**System Context:** @architecture.md
-**Request:** [Your specific development ask]
-**Focus:** [Azure constraints/NextCRM integration/Performance optimization]
-**Output:** [Code/Configuration/Optimization strategy]
-```
-
-### **Example Usage:**
-
-```
-**System Context:** @architecture.md
-**Request:** Implement organization search with auto-complete
-**Focus:** Azure SQL Basic tier limitations (5 DTU) and sub-second response target
-**Output:** TypeScript component with optimized Prisma queries
-```
-
-### **Benefits:**
-
-- AI understands your complete tech stack instantly
-- Azure budget constraints ($18/month) always considered
-- NextCRM foundation integration patterns followed
-- Performance targets (sub-second search) never overlooked
+1. **Architecture Rule** - Tech stack, constraints, infrastructure
+2. **Data Rule** - Database schema, API design, data relationships
+3. **Performance Rule** - Speed targets, optimization constraints
+4. **Timeline Rule** - Project phases, dependencies, deadlines
+5. **User Rule** - User flows, UX requirements, workflows
 
 ---
 
-## 📊 **Rule 2: Database-Driven Feature Development**
+## 📋 **Step 1: Project Analysis & Documentation Creation**
 
-_Reference File: `@erd.md`_
+### **Initial Project Assessment Questions:**
 
-### **When to Use:**
+**Technical Foundation:**
 
-- Building CRUD operations
-- Creating new API endpoints
-- Planning data relationships
-- Implementing search functionality
+- What's your tech stack? (Framework, database, hosting)
+- What are your resource constraints? (Budget, performance, team size)
+- What platforms do you need to support? (Web, mobile, desktop)
 
-### **Rule Pattern:**
+**Business Context:**
+
+- Who are your users? (Roles, devices, workflows)
+- What are your performance requirements? (Speed, scale, uptime)
+- What's your timeline? (Launch date, milestones, dependencies)
+
+**Complexity Level:**
+
+- Simple (Single feature/component)
+- Medium (Full application)
+- Complex (Multi-service system)
+- Enterprise (Multiple teams/systems)
+
+### **Required Documentation Files:**
+
+Create these files in `/docs/workspace-rules/`:
 
 ```
-**Schema Context:** @erd.md
-**Entity Focus:** [Organization/Contact/Interaction/Product/Opportunity]
-**Request:** [Specific database operation or API endpoint]
-**Validation:** Include Zod schemas and error handling
+/docs/workspace-rules/
+├── architecture.md      # Tech stack, constraints, infrastructure
+├── data-schema.md      # Database/API design, relationships
+├── performance.md      # Speed targets, optimization requirements
+├── timeline.md         # Project phases, milestones, dependencies
+├── user-flows.md       # User journeys, workflows, UX requirements
+└── templates/
+    ├── conversation-starters.md
+    ├── feature-request.md
+    └── troubleshooting.md
 ```
-
-### **Example Usage:**
-
-```
-**Schema Context:** @erd.md
-**Entity Focus:** Organization with Settings relationships
-**Request:** Create organization search API with priority/segment filtering
-**Validation:** Include Zod schemas and error handling
-```
-
-### **Benefits:**
-
-- AI knows all your foreign key relationships
-- Settings-driven configuration automatically considered
-- Food service industry fields (priority A-D, segments, distributors) included
-- Audit trail and user tracking built into suggestions
 
 ---
 
-## ⚡ **Rule 3: Performance-Critical Implementation**
+## 🏗️ **Step 2: Architecture Rule Creation**
 
-_Reference File: `@implementation_guide.md`_
+### **What to Include:**
 
-### **When to Use:**
+**Tech Stack Section:**
 
-- Optimizing slow operations
-- Meeting specific performance targets
-- Azure DTU optimization
-- Mobile/touch interface development
-
-### **Rule Pattern:**
-
-```
-**Performance Guide:** @implementation_guide.md
-**Target:** [30-second entry/Sub-second search/<10s reports]
-**Constraint:** [Azure Basic tier/Mobile touch/4 concurrent users]
-**Request:** [Specific optimization or implementation]
+```markdown
+## Technology Stack
+- **Frontend:** [React/Vue/Angular + version]
+- **Backend:** [Node.js/Python/Java + framework]
+- **Database:** [PostgreSQL/MongoDB/MySQL + version]
+- **Hosting:** [AWS/Azure/Vercel + specific services]
+- **Key Libraries:** [List 5-10 most important dependencies]
 ```
 
-### **Example Usage:**
+**Constraints Section:**
 
+```markdown
+## Project Constraints
+- **Budget:** $[amount]/month for infrastructure
+- **Performance:** [Response time targets]
+- **Scale:** [Expected users/traffic]
+- **Platform Support:** [Web/Mobile/Desktop requirements]
+- **Team Size:** [Number of developers]
 ```
-**Performance Guide:** @implementation_guide.md
-**Target:** 30-second interaction entry from start to save
-**Constraint:** Windows touch laptop with 44px minimum touch targets
-**Request:** Design interaction entry form with auto-complete and quick-select
+
+**Infrastructure Diagram:**
+
+```mermaid
+graph TB
+    Client[Client Layer] --> App[Application Layer]
+    App --> DB[Database Layer]
+    App --> External[External Services]
 ```
 
-### **Benefits:**
+### **Activation Mode:** `Always On`
 
-- All performance targets clearly defined upfront
-- Touch interface requirements (44px targets) automatically included
-- Azure SQL DTU optimization strategies applied
-- Mobile-first design principles followed
+**Why:** Architecture constraints affect every development decision
+
+### **Example for Different Project Types:**
+
+**Web App:**
+
+```markdown
+## Architecture Context
+- **Framework:** Next.js 14 with TypeScript
+- **Database:** PostgreSQL with Prisma ORM
+- **Hosting:** Vercel (Frontend) + Railway (Database)
+- **Budget:** $25/month total
+- **Performance:** < 2s page loads, < 500ms API responses
+```
+
+**Mobile App:**
+
+```markdown
+## Architecture Context
+- **Framework:** React Native 0.72
+- **Backend:** Firebase/Supabase
+- **Platforms:** iOS + Android
+- **Performance:** < 1s screen transitions, offline-first
+- **App Store:** Compliance with store guidelines
+```
+
+**API Service:**
+
+```markdown
+## Architecture Context
+- **Framework:** Express.js + TypeScript
+- **Database:** PostgreSQL with Redis cache
+- **Hosting:** Docker on AWS ECS
+- **Scale:** 1000 requests/minute
+- **Security:** JWT auth, rate limiting, CORS
+```
 
 ---
 
-## 📅 **Rule 4: Timeline-Aware Development Planning**
+## 📊 **Step 3: Data Schema Rule Creation**
 
-_Reference File: `@roadmap.md`_
+### **What to Include:**
 
-### **When to Use:**
+**Entity Relationship Diagram:**
 
-- Planning development sprints
-- Prioritizing features
-- Understanding dependencies
-- Estimating implementation effort
-
-### **Rule Pattern:**
-
-```
-**Project Timeline:** @roadmap.md
-**Current Phase:** [Phase 2: Core CRM/Phase 3: Enhanced Features]
-**Dependencies:** [What must be completed first]
-**Request:** [Feature planning or implementation guidance]
-```
-
-### **Example Usage:**
-
-```
-**Project Timeline:** @roadmap.md
-**Current Phase:** Phase 2: Core CRM (Weeks 3-5)
-**Dependencies:** Organization Management must be complete before Contact Management
-**Request:** Plan the Contact Management implementation approach
+```mermaid
+erDiagram
+    User {
+        uuid id PK
+        string email
+        string name
+        datetime createdAt
+    }
+    
+    Project {
+        uuid id PK
+        uuid userId FK
+        string title
+        text description
+        datetime createdAt
+    }
+    
+    User ||--o{ Project : "owns"
 ```
 
-### **Benefits:**
+**API Design Patterns:**
 
-- AI understands where you are in the 16-week timeline
-- Critical path dependencies respected
-- Phase-appropriate feature scope maintained
-- Resource allocation aligned with current priorities
+```markdown
+## API Conventions
+- **RESTful endpoints:** /api/v1/[resource]
+- **Error handling:** Standard HTTP codes + error objects
+- **Pagination:** Cursor-based for performance
+- **Authentication:** JWT tokens with refresh
+```
+
+### **Activation Mode:** `Model Decision`
+
+**Description:** "Apply when discussing database operations, CRUD functionality, API endpoints, schema design, data relationships, or any work involving [your main entities]."
+
+### **Trigger Keywords to Include:**
+
+- Database, schema, table, relationship
+- CRUD, API endpoint, query
+- Your specific entity names
+- ORM operations (Prisma, Sequelize, etc.)
 
 ---
 
-## 🎯 **Rule 5: User-Centered Feature Development**
+## ⚡ **Step 4: Performance Rule Creation**
 
-_Reference File: `@user_flows.md`_
+### **What to Include:**
 
-### **When to Use:**
+**Performance Targets:**
 
-- Designing user interfaces
-- Implementing user interactions
-- Optimizing user experience
-- Building mobile-responsive features
-
-### **Rule Pattern:**
-
-```
-**User Experience:** @user_flows.md
-**Flow Focus:** [Interaction Entry/Organization Management/Search/Pipeline]
-**User Type:** [Field Sales Rep/Office Admin/Manager]
-**Request:** [UI component or user experience implementation]
+```markdown
+## Performance Requirements
+- **Page Load:** < 2 seconds (3G connection)
+- **API Response:** < 500ms (95th percentile)
+- **Database Queries:** < 100ms average
+- **Bundle Size:** < 1MB compressed
+- **Lighthouse Score:** > 90 (Performance)
 ```
 
-### **Example Usage:**
+**Resource Constraints:**
 
+```markdown
+## Infrastructure Limits
+- **Database:** [Connection limits, storage, compute]
+- **CDN:** [Bandwidth limits, edge locations]
+- **Server:** [Memory, CPU, concurrent connections]
+- **Budget:** [Cost per month/user]
 ```
-**User Experience:** @user_flows.md
-**Flow Focus:** 30-second interaction entry flow
-**User Type:** Field Sales Rep on iPad Safari
-**Request:** Build the interaction type selection component with touch optimization
+
+**Common Optimization Strategies:**
+
+```markdown
+## Optimization Checklist
+- [ ] Database indexing strategy
+- [ ] Caching layers (Redis, CDN)
+- [ ] Image optimization
+- [ ] Code splitting and lazy loading
+- [ ] Database query optimization
 ```
 
-### **Benefits:**
+### **Activation Mode:** `Model Decision`
 
-- AI understands the complete user journey context
-- 30-second entry target drives all UX decisions
-- Multi-device compatibility (Windows touch + iPad) considered
-- Food service industry workflow patterns followed
+**Description:** "Apply when discussing performance optimization, slow operations, [specific constraints], caching strategies, or any speed/efficiency concerns."
 
 ---
 
-## 🔄 **Rule Combination Strategies**
+## 📅 **Step 5: Timeline Rule Creation**
 
-### **Complex Feature Development:**
+### **What to Include:**
 
+**Project Phases:**
+
+```mermaid
+gantt
+    title Project Timeline
+    dateFormat YYYY-MM-DD
+    
+    section Phase 1: Foundation
+    Setup & Architecture     :2024-01-01, 2024-01-14
+    Database Design         :2024-01-07, 2024-01-21
+    
+    section Phase 2: Core Features
+    User Management         :2024-01-15, 2024-01-28
+    Main Functionality      :2024-01-22, 2024-02-11
+    
+    section Phase 3: Polish
+    Testing & Optimization  :2024-02-05, 2024-02-18
+    Deployment & Launch     :2024-02-12, 2024-02-25
 ```
+
+**Dependencies & Critical Path:**
+
+```markdown
+## Critical Dependencies
+- **Database setup** → Core feature development
+- **Authentication system** → User-specific features
+- **Payment integration** → Monetization features
+- **Testing framework** → Quality assurance
+```
+
+### **Activation Mode:** `Manual`
+
+**Why:** Timeline context only needed for planning discussions, not daily coding
+
+---
+
+## 👥 **Step 6: User Experience Rule Creation**
+
+### **What to Include:**
+
+**User Personas:**
+
+```markdown
+## Primary Users
+- **Role:** [Primary user type]
+- **Device:** [Mobile/Desktop/Tablet preferences]
+- **Technical Level:** [Beginner/Intermediate/Advanced]
+- **Key Goals:** [What they want to accomplish]
+- **Pain Points:** [Current frustrations]
+```
+
+**User Journey Maps:**
+
+```mermaid
+flowchart TD
+    Start[User Opens App] --> Auth{Authenticated?}
+    Auth -->|No| Login[Login Flow]
+    Auth -->|Yes| Dashboard[Dashboard]
+    Login --> Dashboard
+    Dashboard --> Feature1[Main Feature]
+    Dashboard --> Feature2[Secondary Feature]
+```
+
+**UX Requirements:**
+
+```markdown
+## UX Standards
+- **Mobile-First:** Design for mobile, enhance for desktop
+- **Accessibility:** WCAG 2.1 AA compliance
+- **Touch Targets:** 44px minimum on mobile
+- **Loading States:** Always show progress indicators
+- **Error Handling:** Clear, actionable error messages
+```
+
+### **Activation Mode:** `Model Decision`
+
+**Description:** "Apply when designing UI components, user interfaces, user experience flows, forms, or any frontend development involving user interactions."
+
+---
+
+## 🔧 **Step 7: Activation Mode Strategy**
+
+### **Decision Matrix:**
+
+|Rule Type|Always On|Model Decision|Manual|Use Case|
+|---|---|---|---|---|
+|**Architecture**|✅ Best|Possible|No|Universal constraints|
+|**Data Schema**|Overwhelming|✅ Best|OK|CRUD operations|
+|**Performance**|Overwhelming|✅ Best|OK|Optimization work|
+|**Timeline**|Distracting|OK|✅ Best|Project planning|
+|**User Experience**|Context-dependent|✅ Best|OK|UI development|
+
+### **Project Size Considerations:**
+
+**Small Projects (1-2 developers, <3 months):**
+
+- Architecture: `Always On`
+- Others: `Model Decision`
+
+**Medium Projects (3-5 developers, 3-6 months):**
+
+- Architecture: `Always On`
+- Data + Performance: `Model Decision`
+- Timeline: `Manual`
+- UX: `Model Decision`
+
+**Large Projects (5+ developers, 6+ months):**
+
+- Consider multiple specialized rules
+- Some rules might need `Always On`
+- Team-specific rule sets
+
+---
+
+## 📝 **Step 8: Rule Content Templates**
+
+### **Simple Project Template:**
+
+```markdown
+**Context:** @architecture.md
+**Request:** [Specific development task]
+**Constraints:** [Budget/Performance/Platform limitations]
+**Output:** [Expected deliverable]
+```
+
+### **Feature Development Template:**
+
+```markdown
 **Architecture:** @architecture.md
-**Schema:** @erd.md
-**Performance:** @implementation_guide.md
-**Request:** Build complete organization management CRUD system
+**Data:** @data-schema.md
+**UX:** @user-flows.md
+**Request:** Build [specific feature]
+**Requirements:** [Specific needs]
 ```
 
-### **Sprint Planning:**
+### **Performance Troubleshooting Template:**
 
-```
-**Timeline:** @roadmap.md
-**User Flows:** @user_flows.md
-**Request:** Plan Week 1 development tasks for Phase 2
-```
-
-### **Performance Optimization:**
-
-```
-**Architecture:** @architecture.md
-**Performance Guide:** @implementation_guide.md
-**Issue:** Search queries taking 3+ seconds on Azure SQL Basic tier
+```markdown
+**System:** @architecture.md
+**Performance Guide:** @performance.md
+**Issue:** [Specific performance problem]
+**Target:** [Performance goal]
 ```
 
 ---
 
-## 📋 **Quick Reference Guide**
+## 🎯 **Step 9: Project-Type Specific Examples**
 
-|Scenario|Primary Rule|Secondary Context|
-|---|---|---|
-|**New Feature**|Rule 1 (Architecture)|Rule 2 (ERD)|
-|**Database Work**|Rule 2 (ERD)|Rule 3 (Performance)|
-|**Performance Issue**|Rule 3 (Performance)|Rule 1 (Architecture)|
-|**Sprint Planning**|Rule 4 (Timeline)|Rule 5 (User Flows)|
-|**UI Development**|Rule 5 (User Flows)|Rule 3 (Performance)|
-|**API Development**|Rule 2 (ERD)|Rule 1 (Architecture)|
-|**Mobile Optimization**|Rule 5 (User Flows)|Rule 3 (Performance)|
-|**Azure Configuration**|Rule 1 (Architecture)|Rule 3 (Performance)|
+### **E-commerce Project Rules:**
+
+**Architecture Focus:**
+
+- Payment processing constraints
+- Security requirements (PCI compliance)
+- Inventory management systems
+- Third-party integrations (Stripe, shipping APIs)
+
+**Performance Focus:**
+
+- Product search speed (< 500ms)
+- Cart operations (< 200ms)
+- Checkout flow optimization
+- Image loading performance
+
+**User Experience Focus:**
+
+- Mobile shopping flow
+- Accessibility for diverse users
+- Multi-step checkout process
+- Product discovery patterns
+
+### **SaaS Application Rules:**
+
+**Architecture Focus:**
+
+- Multi-tenancy considerations
+- Authentication & authorization
+- Subscription management
+- API rate limiting
+
+**Data Focus:**
+
+- Tenant data isolation
+- Analytics and reporting
+- User management hierarchies
+- Feature flag systems
+
+**Performance Focus:**
+
+- Dashboard load times
+- Real-time updates
+- Data export performance
+- API response times
+
+### **Mobile App Rules:**
+
+**Architecture Focus:**
+
+- Platform-specific considerations (iOS/Android)
+- Offline functionality
+- Push notification systems
+- App store compliance
+
+**Performance Focus:**
+
+- App startup time
+- Battery usage optimization
+- Network request efficiency
+- Memory management
+
+**User Experience Focus:**
+
+- Touch interface design
+- Platform-specific UX patterns
+- Offline user experience
+- Accessibility on mobile
 
 ---
 
-## 💡 **Pro Tips for Maximum Effectiveness**
+## 🧪 **Step 10: Testing & Optimization**
 
-### **Stack Multiple Rules for Complex Tasks:**
+### **Rule Effectiveness Testing:**
 
-```
-**Full Context Approach:**
-@architecture.md @erd.md @implementation_guide.md
-**Request:** Implement complete interaction tracking system
-**Priority:** 30-second entry target with offline sync
-```
+**Week 1: Baseline Testing**
 
-### **Version Your Files:**
+- Track conversation length without rules
+- Note how often you repeat context
+- Measure time spent explaining constraints
 
-- Update file versions when major changes occur
-- Reference specific versions in conversations
-- Keep rule patterns consistent across versions
+**Week 2: Rules Implementation**
 
-### **Conversation Efficiency:**
+- Test each activation mode
+- Monitor AI response quality
+- Track character usage per conversation
 
-- Start with the most relevant rule for your task
-- Add secondary context only when needed
-- Use consistent formatting for AI recognition
+**Week 3: Optimization**
 
-### **Performance Monitoring:**
+- Refine trigger keywords
+- Adjust activation modes if needed
+- Update rule content based on usage
 
-- Track which rule combinations work best
-- Refine file contents based on AI response quality
-- Update rules as project evolves
+### **Success Metrics:**
+
+**Efficiency Gains:**
+
+- [ ] 80%+ reduction in context-setting time
+- [ ] Fewer clarification questions from AI
+- [ ] More accurate first responses
+- [ ] Consistent consideration of constraints
+
+**Quality Improvements:**
+
+- [ ] AI suggestions align with architecture
+- [ ] Performance considerations automatic
+- [ ] User experience patterns followed
+- [ ] Timeline awareness in planning
 
 ---
 
-## 🎯 **Success Metrics**
+## 🚀 **Quick Start Checklist**
 
-These rules should help you achieve:
+### **For Any New Project:**
 
-- **90% reduction** in context-setting time with Windsurf Cascade
-- **Consistent consideration** of Azure constraints and performance targets
-- **Faster development cycles** through clear architectural guidance
-- **Better code quality** through comprehensive context understanding
-- **Aligned implementation** with project timeline and user needs
+**Day 1: Analysis**
 
-Each rule transforms your Windsurf conversations from lengthy explanations into focused, efficient development sessions while ensuring the AI always understands your unique project constraints and requirements.
+- [ ] Complete project assessment questions
+- [ ] Identify 3-5 main constraints
+- [ ] List primary user types and workflows
+
+**Day 2: Documentation**
+
+- [ ] Create architecture.md with tech stack + constraints
+- [ ] Create basic user-flows.md with main journeys
+- [ ] Draft performance.md with speed targets
+
+**Day 3: Rules Setup**
+
+- [ ] Create Architecture rule (Always On)
+- [ ] Create UX rule (Model Decision)
+- [ ] Test with simple development questions
+
+**Day 4: Expansion**
+
+- [ ] Add data schema rule if database-heavy
+- [ ] Add performance rule if optimization-critical
+- [ ] Add timeline rule for project management
+
+**Day 5: Optimization**
+
+- [ ] Test all activation modes
+- [ ] Refine trigger descriptions
+- [ ] Document rule usage patterns
+
+---
+
+## 💡 **Advanced Techniques**
+
+### **Rule Inheritance:**
+
+Create base rules for common patterns across projects:
+
+- `base-web-app.md` - Common web application patterns
+- `base-api.md` - Standard API development practices
+- `base-mobile.md` - Mobile development considerations
+
+### **Team Rules:**
+
+For multi-developer teams:
+
+- `team-coding-standards.md` - Shared coding conventions
+- `team-review-checklist.md` - Code review requirements
+- `team-deployment.md` - Deployment and DevOps practices
+
+### **Industry-Specific Rules:**
+
+- `healthcare-compliance.md` - HIPAA, medical device standards
+- `finance-security.md` - PCI DSS, financial regulations
+- `education-accessibility.md` - ADA compliance, student privacy
+
+---
+
+## 🎯 **Success Patterns from Real Projects**
+
+### **What Works:**
+
+✅ **Architecture Always On** - Universal constraints always matter  
+✅ **Specific Entity Names** - Include your actual table/model names  
+✅ **Measurable Targets** - "< 2 seconds" vs "fast"  
+✅ **Platform Specifics** - iOS vs Android, mobile vs desktop  
+✅ **Budget Constraints** - Concrete dollar amounts and limits
+
+### **What Doesn't Work:**
+
+❌ **Too Many Always On Rules** - Overwhelming context  
+❌ **Vague Descriptions** - "Apply for frontend work"  
+❌ **Missing Trigger Words** - AI can't detect relevance  
+❌ **Outdated Content** - Rules become stale over time  
+❌ **Generic Templates** - One-size-fits-all rarely works
+
+---
+
+This methodology transforms your development workflow with any AI coding assistant, ensuring consistent, context-aware assistance that understands your project's unique constraints and requirements.
