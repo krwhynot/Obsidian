@@ -25,16 +25,46 @@
             "id": "d6a0027f2e564e3f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Diagrams/Drawing 2025-06-07 19.56.14.excalidraw.md"
+                "file": "7 - Projects/Kitchen Pantry CRM/Diagrams/Wireframes & Interface Mockups.html.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-07 19.56.14.excalidraw"
+              "icon": "lucide-file",
+              "title": "Wireframes & Interface Mockups.html"
+            }
+          },
+          {
+            "id": "267828aa90199e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🚀 Vibe Coding Setup Complete.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "🚀 Vibe Coding Setup Complete"
+            }
+          },
+          {
+            "id": "be82e4f60b26e596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Detailed Fresh PRD file"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,10 +238,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f7bfc7afc47490b8",
+  "active": "be82e4f60b26e596",
   "lastOpenFiles": [
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
+    "🚀 Vibe Coding Setup Complete.md",
+    "Excalidraw/Drawing 2024-12-28 16.06.28.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-24 20.59.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-24 21.40.08.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-01 14.26.54.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-02 15.44.27.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-05 13.55.13.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-09 10.25.28.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-16 09.10.51.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-07 22.41.17.excalidraw.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/Wireframes & Interface Mockups.html.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
     "7 - Projects/Kitchen Pantry CRM/NEEDS.md",
-    "7 - Projects/Kitchen Pantry CRM/Diagrams/Drawing 2025-06-07 19.56.14.excalidraw.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams",
     "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
     "7 - Projects/Azure KitchenPantry CRM Project/1.Objective.md",
@@ -226,20 +269,7 @@
     "6 - Full Notes/Project Planning/Visual Templates/Templates list.md",
     "6 - Full Notes/Project Planning/Visual Templates",
     "6 - Full Notes/Project Planning",
-    "5 - Templates/PRD-Template.md",
-    "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
-    "Daily Notes/Jun  07, 2025.md",
-    "7 - Projects/Kitchen Pantry CRM/🎯 Current Focus.md",
-    "Daily Notes/Jun  05, 2025.md",
-    "5 -Templates/Index.md",
-    "5 -Templates/Project-Setup.md",
-    "5 -Templates/Project.md",
-    "5 -Templates/Tag.md",
-    "🚀 Vibe Coding Setup Complete.md",
-    "Untitled 2.md",
-    "Daily Notes/Jun  04, 2025.md",
     "7 - Projects/Kitchen Pantry CRM",
-    "5 - Templates/🎯 Workflow Templates/Code Pattern Template.md",
     "6 - Full Notes/🧠 Concepts/By Technology",
     "6 - Full Notes/🧠 Concepts/By Project",
     "6 - Full Notes/🧠 Concepts",
