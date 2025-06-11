@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Project Analysis/Testing Prompts.md",
+                "file": "7 - Projects/Kitchen Pantry CRM/Project Analysis/-Testing Prompts.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Testing Prompts"
+              "title": "-Testing Prompts"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "be82e4f60b26e596",
   "lastOpenFiles": [
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/Untitled.md",
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/Testing Prompts.md",
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/1. Comprehensive Code Review & Architecture Analysis.md",
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/-Testing Prompts.md",
     "Daily Notes/Jun  11, 2025.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis",
     "6 - Full Notes/Claude/MCP Tools/magic-ui.md",
