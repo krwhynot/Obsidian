@@ -70,5 +70,8 @@
   "anuppuccin-theme-settings@@anp-card-layout-actions": true,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
   "anuppuccin-theme-settings@@anp-border-radius": 16,
-  "anuppuccin-theme-settings@@anp-border-padding": 20
+  "anuppuccin-theme-settings@@anp-border-padding": 20,
+  "anuppuccin-theme-settings@@anp-toggle-preview": true,
+  "anuppuccin-theme-settings@@file-margins": 32,
+  "anuppuccin-theme-settings@@file-line-width": 1000
 }
