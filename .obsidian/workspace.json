@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
+                "file": "7 - Projects/Kitchen Pantry CRM/Project Analysis/results.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25 Prompt to Evaluation the Project"
+              "title": "results"
+            }
+          },
+          {
+            "id": "94fdb479f710d79f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Projects/Kitchen Pantry CRM/Project Analysis/Comprehensive Security Audit Report- PantryCRM.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Comprehensive Security Audit Report- PantryCRM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,9 +211,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "be82e4f60b26e596",
+  "active": "94fdb479f710d79f",
   "lastOpenFiles": [
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/results.md",
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/Comprehensive Security Audit Report- PantryCRM.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/1. Comprehensive Code Review & Architecture Analysis.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/-Testing Prompts.md",
@@ -224,7 +240,6 @@
     "7 - Projects/Kitchen Pantry CRM/PRD File.md",
     "7 - Projects/Kitchen Pantry CRM/Detailed Fresh PRD file.md",
     "7 - Projects/Kitchen Pantry CRM/🎯 Current Focus.md",
-    "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
     "6 - Full Notes/Claude-Code",
     "7 - Projects/Kitchen Pantry CRM/Diagrams",
     "6 - Full Notes/Project Planning/Visual Templates",
