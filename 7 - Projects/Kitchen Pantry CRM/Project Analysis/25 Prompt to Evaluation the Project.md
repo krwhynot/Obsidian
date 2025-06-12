@@ -139,7 +139,7 @@ The recommended order follows established software testing best practices[8](htt
 
 ## Project Overview Prompts
 
-### 1. Project Architecture Analysis
+### x1. Project Architecture Analysis
 
 ```
 You are an expert software architect analyzing a food service CRM system. Use sequential thinking to break down the following architecture:
@@ -159,7 +159,7 @@ Specific requirements to validate:
 ```
 
 
-### 2. Performance Requirements Validation
+### x2. Performance Requirements Validation
 
 ```
 Act as a performance engineer using sequential thinking to analyze these requirements:
@@ -175,7 +175,7 @@ Use Context7 to get current Azure App Service Basic B1 specifications. Then use 
 
 ## Code Quality \& Security Prompts
 
-### 3. TypeScript Code Review
+### x3. TypeScript Code Review
 
 ```
 You are a senior TypeScript developer conducting a comprehensive code review. Use sequential thinking to analyze this code systematically:
@@ -209,7 +209,7 @@ Use **Context7** to refer to the latest official documentation for TypeScript an
 ```
 
 
-### 4. Security Vulnerability Assessment
+### x4. Security Vulnerability Assessment
 
 ```
 As a cybersecurity expert, use sequential thinking to perform a comprehensive security audit:
@@ -225,7 +225,7 @@ Focus on food service industry compliance requirements.
 ```
 
 
-### 5. Prisma ORM Security \& Performance Review
+### x5. Prisma ORM Security \& Performance Review
 
 ```
 You are a database security specialist. Use sequential thinking to analyze Prisma ORM implementation:
@@ -241,7 +241,7 @@ Use Context7 to get current Prisma documentation and security best practices. Cr
 
 ## Frontend Development Prompts
 
-### 6. React 19 RC Compatibility Check
+### x6. React 19 RC Compatibility Check
 
 ```
 As a React expert, use sequential thinking to validate React 19 RC implementation:
@@ -255,7 +255,7 @@ Use Context7 to retrieve React 19 RC documentation and migration guides. Use Exa
 ```
 
 
-### 7. Touch Target Accessibility Validation
+### x7. Touch Target Accessibility Validation
 
 ```
 You are a UX accessibility expert. Use sequential thinking to validate 44px minimum touch targets:
@@ -269,7 +269,7 @@ Use Context7 to get current WCAG accessibility guidelines. Use Exa Search for iP
 ```
 
 
-### 8. shadcn/ui Component Integration Review
+### x8. shadcn/ui Component Integration Review
 
 ```
 As a component library specialist, use sequential thinking to review shadcn/ui integration:
@@ -299,7 +299,7 @@ Use Context7 to retrieve Tremor documentation and performance guidelines. Use Ex
 
 ## Backend Development Prompts
 
-### 10. Node.js API Security Review
+### x10. Node.js API Security Review
 
 ```
 As a backend security specialist, use sequential thinking to audit Node.js API endpoints:
