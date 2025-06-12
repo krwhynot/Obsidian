@@ -56,6 +56,23 @@ Steps to follow:
 Use Context7 to get the latest TypeScript and React 19 RC documentation. Cross-validate your findings using Exa Search for TypeScript code review best practices. Cite official TypeScript handbook and React documentation for each recommendation.
 ```
 
+```
+<Task> Conduct a deep code review of a TypeScript project. </Task> <Inputs> <codebase></codebase> </Inputs> <Instructions> You are a senior TypeScript developer reviewing a large codebase. Systematically analyze the code with the following priorities:
+
+1. Use sequential thinking to review type safety and adherence to TypeScript best practices.
+    
+2. Identify any patterns that could lead to runtime errors in real-world usage.
+    
+3. Confirm compatibility with React 19 RC, noting deprecated APIs or unsupported patterns.
+    
+4. Evaluate performance optimizations, such as render bottlenecks, unnecessary re-renders, or large bundle sizes.
+    
+
+Use **Context7** to refer to the latest official documentation for TypeScript and React 19 RC. Use **Exa Search** to validate code review best practices.  
+**For every recommendation, cite the source from the TypeScript Handbook or React documentation.** Present your findings inside `<review>` tags.  
+</Instructions>
+```
+
 
 ### 4. Security Vulnerability Assessment
 
