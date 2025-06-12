@@ -313,7 +313,7 @@ Use Context7 to get current Node.js security best practices. Use Exa Search for 
 ```
 
 
-### 11. Database Query Optimization
+### x11. Database Query Optimization
 
 ```
 You are a database performance expert. Use sequential thinking to optimize database queries:
