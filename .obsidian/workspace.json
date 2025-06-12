@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Claude-Code/claude-changelog.md.md",
+                "file": "7 - Projects/Kitchen Pantry CRM/Project Analysis/-Testing Prompts.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "claude-changelog.md"
+              "title": "-Testing Prompts"
             }
           }
         ]
@@ -197,10 +197,12 @@
   },
   "active": "be82e4f60b26e596",
   "lastOpenFiles": [
-    "6 - Full Notes/Claude-Code/claude-global-config.md.md",
-    "6 - Full Notes/Claude-Code/claude-changelog.md.md",
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/-Testing Prompts.md",
     "6 - Full Notes/Claude-Code/claude-performance.md.md",
+    "6 - Full Notes/Claude-Code/claude-global-config.md.md",
+    "6 - Full Notes/Claude-Code/Claude-debug.md.md",
+    "6 - Full Notes/Claude-Code/claude-changelog.md.md",
+    "6 - Full Notes/Claude-Code/CheatSheet.md",
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/-Testing Prompts.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/1. Comprehensive Code Review & Architecture Analysis.md",
     "Daily Notes/Jun  11, 2025.md",
@@ -210,7 +212,6 @@
     "6 - Full Notes/Claude/MCP Tools/Context7.md",
     "6 - Full Notes/Claude/MCP Tools/CloudFlare Workers.md",
     "6 - Full Notes/Claude/MCP Tools/Claude Task Master.md",
-    "6 - Full Notes/Claude-Code/CheatSheet.md",
     "6 - Full Notes/Vibe Coding/Architecture Brainstorming Template.md",
     "6 - Full Notes/Vibe Coding/Feature Specification.md",
     "7 - Projects/Kitchen Pantry CRM/Untitled.md",
@@ -224,7 +225,6 @@
     "7 - Projects/Kitchen Pantry CRM/Diagrams/Wireframes & Interface Mockups.html.md",
     "🚀 Vibe Coding Setup Complete.md",
     "6 - Full Notes/Claude-Code",
-    "7 - Projects/Kitchen Pantry CRM/NEEDS.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams",
     "6 - Full Notes/Project Planning/Visual Templates",
     "6 - Full Notes/Project Planning",
