@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Project Analysis/-Testing Prompts.md",
+                "file": "6 - Full Notes/Claude-Code/git-standards.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "-Testing Prompts"
+              "title": "git-standards.md"
             }
           }
         ]
@@ -197,12 +197,13 @@
   },
   "active": "be82e4f60b26e596",
   "lastOpenFiles": [
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/-Testing Prompts.md",
+    "6 - Full Notes/Claude-Code/git-standards.md.md",
     "6 - Full Notes/Claude-Code/claude-performance.md.md",
     "6 - Full Notes/Claude-Code/claude-global-config.md.md",
     "6 - Full Notes/Claude-Code/Claude-debug.md.md",
     "6 - Full Notes/Claude-Code/claude-changelog.md.md",
     "6 - Full Notes/Claude-Code/CheatSheet.md",
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/-Testing Prompts.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/1. Comprehensive Code Review & Architecture Analysis.md",
     "Daily Notes/Jun  11, 2025.md",
@@ -223,7 +224,6 @@
     "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/Wireframes & Interface Mockups.html.md",
-    "🚀 Vibe Coding Setup Complete.md",
     "6 - Full Notes/Claude-Code",
     "7 - Projects/Kitchen Pantry CRM/Diagrams",
     "6 - Full Notes/Project Planning/Visual Templates",
