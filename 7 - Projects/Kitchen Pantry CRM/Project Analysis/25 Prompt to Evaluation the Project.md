@@ -1,6 +1,141 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+# Software Testing Order for Food Service CRM Development
 
-# 25 Essential Claude Prompts for Full-Stack Food Service CRM Development
+Based on the comprehensive testing prompts provided for your food service CRM system, here's the recommended testing sequence that follows industry best practices and the software testing pyramid methodology[8](https://ieeexplore.ieee.org/document/8048644/)[12](https://ieeexplore.ieee.org/document/9660999/).
+
+## Phase 1: Foundation Testing (Weeks 1-2)
+
+## Code Quality & Security Assessment
+
+Start with these fundamental tests that establish the foundation for all subsequent testing:
+
+- **TypeScript Code Review** (Prompt #3) - Validates type safety and React 19 RC compatibility before any functional testing[8](https://ieeexplore.ieee.org/document/8048644/)[11](https://dl.acm.org/doi/10.1145/3439961.3439991)
+    
+- **Security Vulnerability Assessment** (Prompt #4) - Critical for food service industry compliance requirements[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+- **Prisma ORM Security & Performance Review** (Prompt #5) - Database security must be validated early in the process[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)
+    
+
+## Architecture Validation
+
+- **Project Architecture Analysis** (Prompt #1) - Ensures the tech stack foundation is solid[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+- **Performance Requirements Validation** (Prompt #2) - Confirms Azure Basic B1 can meet sub-second response requirements[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+
+## Phase 2: Unit & Component Testing (Weeks 3-4)
+
+## Frontend Component Testing
+
+Following the testing pyramid approach, unit tests form the base layer[8](https://ieeexplore.ieee.org/document/8048644/)[12](https://ieeexplore.ieee.org/document/9660999/):
+
+- **React 19 RC Compatibility Check** (Prompt #6) - Validates component-level compatibility[4](https://ieeexplore.ieee.org/document/10847365/)
+    
+- **shadcn/ui Component Integration Review** (Prompt #8) - Tests individual UI component functionality[4](https://ieeexplore.ieee.org/document/10847365/)
+    
+- **Touch Target Accessibility Validation** (Prompt #7) - Ensures 44px minimum touch targets for iPad interface[4](https://ieeexplore.ieee.org/document/10847365/)
+    
+
+## Backend Unit Testing
+
+- **Node.js API Security Review** (Prompt #10) - Tests individual API endpoint security[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)[11](https://dl.acm.org/doi/10.1145/3439961.3439991)
+    
+- **Jest Test Coverage Analysis** (Prompt #13) - Validates unit test completeness and quality[4](https://ieeexplore.ieee.org/document/10847365/)[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+
+## Phase 3: Integration Testing (Weeks 5-6)
+
+Integration testing addresses component interactions and data flow[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)[8](https://ieeexplore.ieee.org/document/8048644/):
+
+- **Database Query Optimization** (Prompt #11) - Tests database integration performance[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)
+    
+- **API Rate Limiting & Caching Strategy** (Prompt #12) - Validates API integration under load[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)
+    
+- **Tremor Charts Performance Analysis** (Prompt #9) - Tests chart rendering integration[5](https://onlinelibrary.wiley.com/doi/10.1002/smr.2714)
+    
+- **Data Validation & Integrity Checks** (Prompt #20) - Ensures data consistency across system components[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)
+    
+
+## Phase 4: System & Data Migration Testing (Weeks 7-8)
+
+## Data Migration Validation
+
+Critical for ensuring 100% data migration accuracy:
+
+- **Excel Data Migration Strategy** (Prompt #19) - Tests complete data migration process[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)
+    
+- **Data Validation & Integrity Checks** (Prompt #20) - Validates migrated data accuracy[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)
+    
+
+## System-Level Testing
+
+- **Performance Testing Validation** (Prompt #15) - Tests complete system under 4 concurrent user load[5](https://onlinelibrary.wiley.com/doi/10.1002/smr.2714)[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+- **Database Performance Optimization** (Prompt #24) - Validates system-wide database performance[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)
+    
+
+## Phase 5: User Experience & Workflow Testing (Weeks 9-10)
+
+## UX Validation
+
+- **Mobile-First Design Validation** (Prompt #21) - Tests complete iPad-first user experience[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+- **Food Service Workflow Optimization** (Prompt #22) - Validates industry-specific workflows[29](https://ijssrr.com/journal/article/view/141)
+    
+
+## End-to-End Testing
+
+Following the testing pyramid, E2E tests form the top layer with fewer but comprehensive tests[5](https://onlinelibrary.wiley.com/doi/10.1002/smr.2714)[8](https://ieeexplore.ieee.org/document/8048644/):
+
+- **End-to-End Testing Strategy** (Prompt #14) - Tests complete user journeys and business workflows[5](https://onlinelibrary.wiley.com/doi/10.1002/smr.2714)[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+
+## Phase 6: Deployment & Infrastructure Testing (Weeks 11-12)
+
+## DevOps & Security
+
+- **Azure Deployment Configuration Review** (Prompt #16) - Validates production deployment setup[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+- **GitHub Actions CI/CD Pipeline Design** (Prompt #17) - Tests automated deployment processes[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+- **Environment Configuration Security** (Prompt #18) - Validates production security configurations[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+
+## System Architecture Assessment
+
+- **System Architecture Scalability Review** (Prompt #23) - Tests scaling within Azure Basic tier limitations[8](https://ieeexplore.ieee.org/document/8048644/)[12](https://ieeexplore.ieee.org/document/9660999/)
+    
+
+## Phase 7: Comprehensive System Validation (Week 13)
+
+## Final System Assessment
+
+- **Comprehensive System Health Check** (Prompt #25) - Complete end-to-end system validation[8](https://ieeexplore.ieee.org/document/8048644/)[11](https://dl.acm.org/doi/10.1145/3439961.3439991)
+    
+
+This testing sequence ensures all success criteria are met:
+
+- 100% data migration accuracy through early data validation testing[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)
+    
+- Sub-second search performance through progressive performance testing[5](https://onlinelibrary.wiley.com/doi/10.1002/smr.2714)[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+- 50% faster data entry through UX workflow optimization[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+- 80% faster report generation through performance optimization testing[5](https://onlinelibrary.wiley.com/doi/10.1002/smr.2714)
+    
+
+## Key Testing Principles Applied
+
+The recommended order follows established software testing best practices[8](https://ieeexplore.ieee.org/document/8048644/)[11](https://dl.acm.org/doi/10.1145/3439961.3439991):
+
+1. **Test Pyramid Structure** - More unit tests at the base, fewer integration tests in the middle, and focused E2E tests at the top[8](https://ieeexplore.ieee.org/document/8048644/)[12](https://ieeexplore.ieee.org/document/9660999/)
+    
+2. **Shift-Left Testing** - Critical security and architecture validation occurs early in the process[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+3. **Risk-Based Prioritization** - High-risk areas like security and data migration are tested first[8](https://ieeexplore.ieee.org/document/8048644/)[11](https://dl.acm.org/doi/10.1145/3439961.3439991)
+    
+4. **Progressive Complexity** - Testing moves from simple components to complex system interactions[7](http://ksiresearchorg.ipage.com/seke/seke18paper/seke18paper_128.pdf)[8](https://ieeexplore.ieee.org/document/8048644/)
+    
+
 
 ## Project Overview Prompts
 
