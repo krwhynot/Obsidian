@@ -283,7 +283,7 @@ Use Context7 to get latest shadcn/ui documentation. Cross-validate using Exa Sea
 ```
 
 
-### x9. Tremor Charts Performance Analysis
+### xappl9. Tremor Charts Performance Analysis
 
 ```
 You are a data visualization expert. Use sequential thinking to analyze Tremor charts implementation:
