@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/old user.md",
+                "file": "6 - Full Notes/Coding Project Planning/Visual Templates/Templates list.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "old user"
+              "title": "Templates list"
             }
           }
         ],
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,32 +227,32 @@
   },
   "active": "d10dd246bae00491",
   "lastOpenFiles": [
-    "Daily Notes/Nov  11, 2024.md",
+    "7 - Projects/---Mobile LogoCraft project---/Technical Design Document.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
+    "3 - References & Resources/MCP Tools/shrimp task manager MCP.md",
+    "Daily Notes/Sep  03, 2024.md",
+    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/Roadmap 12-7-24.md",
+    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/Transcribing/Brainstorming/revent1.md",
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/results.md",
+    "7 - Projects/---Mobile LogoCraft project---/Requirements Specification.md",
+    "7 - Projects/----LogoCraft Azure Static Web App/NOTES/Recap.md",
+    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/GUI/readme.md",
+    "7 - Projects/Kitchen Pantry CRM/Raw Context Info.md",
+    "6 - Full Notes/Prompts/Prompt Examples.md",
+    "6 - Full Notes/Claude/Claude Projects Tips & Tricks/Project Structure/project documentation VS artifacts.md",
+    "7 - Projects/Kitchen Pantry CRM/PRD File.md",
+    "6 - Full Notes/Claude/Prompts/Planning a Coding Project.md",
+    "7 - Projects/----LogoCraft Azure Static Web App/New Project/Planning.md",
+    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/The Plan/Phases.md",
+    "7 - Projects/---Wordle Project---/Phases/Phase 1 - Frontend Foundations.md",
+    "6 - Full Notes/Claude/Claude Projects Tips & Tricks/Project Structure/Personal Project -Creating a Describe and Naming it.md",
+    "7 - Projects/Old Projects/----CustomerDB Project----/Overall Notes.md",
+    "7 - Projects/---Wordle Project---/Phases/One AZ App.md",
     "7 - Projects/Kitchen Pantry CRM/old user.md",
+    "Daily Notes/Oct  03, 2024.md",
+    "Daily Notes/Oct  02, 2024.md",
+    "Daily Notes/Nov  11, 2024.md",
     "Daily Notes/Oct  01, 2024.md",
-    "Daily Notes/Nov  04, 2024.md",
-    "Daily Notes/Nov  01, 2024.md",
-    "6 - Full Notes/Claude/Claude Personal Preferences/My Personal Preferences/MY Interaction Preference Profile.md",
-    "6 - Full Notes/Prompts/MY Prompts.md",
-    "6 - Full Notes/Self-Reflection/Helpful PROMPTS.md",
-    "6 - Full Notes/Self-Reflection/Learning.md",
-    "7 - Projects/---LogoCraft Project---/Misc Notes.md",
-    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/C++/Migration Checklist.md",
-    "6 - Full Notes/Claude/MCP Tools.md",
-    "Daily Notes/May  28, 2025.md",
-    "Daily Notes/May  19, 2025.md",
-    "Daily Notes/Mar  01, 2025.md",
-    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/Transcribing/Brainstorming/Laptop transcribing.md",
-    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/The Plan/GUIDE.md",
-    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/GUI/GUI and Database Integration Implementation Guide.md",
-    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/Transcribing/Brainstorming/Goal of each call.md",
-    "6 - Full Notes/Claude-Code/git-standards.md.md",
-    "6 - Full Notes/Claude/MCP Tools/FileSystem.md",
-    "7 - Projects/MCP Tool Discovery Project/MCP Tools/FileSystem.md",
-    "3 - References & Resources/Windsurf/Workflow Prompts/Feedback and Review Loops.md",
-    "Daily Notes/Feb  27, 2025.md",
-    "Daily Notes/Feb  26, 2025.md",
-    "Daily Notes/Feb  25, 2025.md",
     "6 - Full Notes/Perplexity - Space",
     "6 - Full Notes/Coding NOTES/Code Review",
     "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD",
