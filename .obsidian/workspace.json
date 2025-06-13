@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.01487731933594
+    "width": 402.01487731933594,
+    "collapsed": true
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -212,10 +213,10 @@
   },
   "active": "94fdb479f710d79f",
   "lastOpenFiles": [
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/Comprehensive Security Audit Report- PantryCRM.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/results.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
     "Daily Notes/Jun  12, 2025.md",
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/Comprehensive Security Audit Report- PantryCRM.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/1. Comprehensive Code Review & Architecture Analysis.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/-Testing Prompts.md",
     "6 - Full Notes/Claude-Code/claude-setup.md.md",
