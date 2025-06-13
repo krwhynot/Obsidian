@@ -35,7 +35,7 @@ I need help modifying my project's GUI to match this reference image. Here's wha
 
 1. Reference Image Analysis:
    Please analyze this GUI image and list out:
-   - Layout structure
+   - Layout tructure
    - All visible components
    - Control arrangements
    - Status display elements

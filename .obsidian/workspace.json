@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/User Walkthrough.md",
+                "file": "6 - Full Notes/Claude/Claude Personal Preferences/My Personal Preferences/MY Interaction Preference Profile.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "User Walkthrough"
+              "title": "MY Interaction Preference Profile"
             }
           },
           {
@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Guide"
             }
+          },
+          {
+            "id": "d10dd246bae00491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Projects/Kitchen Pantry CRM/old user.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "old user"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tcp:kitchenpantrycrm-server.database.windows.net,1433;Initi",
+                "query": "file structure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.01487731933594,
-    "collapsed": true
+    "width": 415.01487731933594
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -211,36 +224,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "83b8cee66ac5eedc",
+  "active": "d10dd246bae00491",
   "lastOpenFiles": [
-    "7 - Projects/Kitchen Pantry CRM/CRM.md",
-    "7 - Projects/Kitchen Pantry CRM/User Walkthrough.md",
-    "7 - Projects/Kitchen Pantry CRM/Untitled.md",
-    "7 - Projects/Kitchen Pantry CRM/PRD File.md",
-    "6 - Full Notes/Perplexity - Space/Guide.md",
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
+    "Daily Notes/Nov  11, 2024.md",
+    "7 - Projects/Kitchen Pantry CRM/old user.md",
+    "Daily Notes/Oct  01, 2024.md",
+    "Daily Notes/Nov  04, 2024.md",
+    "Daily Notes/Nov  01, 2024.md",
+    "6 - Full Notes/Claude/Claude Personal Preferences/My Personal Preferences/MY Interaction Preference Profile.md",
+    "6 - Full Notes/Prompts/MY Prompts.md",
+    "6 - Full Notes/Self-Reflection/Helpful PROMPTS.md",
+    "6 - Full Notes/Self-Reflection/Learning.md",
+    "7 - Projects/---LogoCraft Project---/Misc Notes.md",
+    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/C++/Migration Checklist.md",
+    "6 - Full Notes/Claude/MCP Tools.md",
+    "Daily Notes/May  28, 2025.md",
+    "Daily Notes/May  19, 2025.md",
+    "Daily Notes/Mar  01, 2025.md",
+    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/Transcribing/Brainstorming/Laptop transcribing.md",
+    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/The Plan/GUIDE.md",
+    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/GUI/GUI and Database Integration Implementation Guide.md",
+    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/Transcribing/Brainstorming/Goal of each call.md",
+    "6 - Full Notes/Claude-Code/git-standards.md.md",
+    "6 - Full Notes/Claude/MCP Tools/FileSystem.md",
+    "7 - Projects/MCP Tool Discovery Project/MCP Tools/FileSystem.md",
+    "3 - References & Resources/Windsurf/Workflow Prompts/Feedback and Review Loops.md",
+    "Daily Notes/Feb  27, 2025.md",
+    "Daily Notes/Feb  26, 2025.md",
+    "Daily Notes/Feb  25, 2025.md",
     "6 - Full Notes/Perplexity - Space",
-    "6 - Full Notes/Coding NOTES/Code Review/Principles.md",
-    "6 - Full Notes/Cheat Sheet  for Formatting in Obsidian.md",
     "6 - Full Notes/Coding NOTES/Code Review",
-    "1- Rough Notes/Audio Processing and Silence Detection.md",
-    "6 - Full Notes/Pioneering Applications for Claude Sonnet 3.7.md",
-    "5 -Templates/Index.md",
-    "5 -Templates/Tag.md",
-    "6 - Full Notes/AI Prompts/Version changes.md",
-    "6 - Full Notes/AI Prompts/PROMPT to Improve Prompt.md",
-    "6 - Full Notes/AI Prompts/Project Planning Prompt Template.md",
-    "6 - Full Notes/AI Prompts/Claude Project Instructions.md",
-    "5 -Templates/Coding Project Template/Project-Setup.md",
-    "1- Rough Notes/Install portable Node.js.md",
-    "5 - Templates/PRD-Template.md",
-    "2 - Source Material/Project Links/Audio Processing and Silence Detection/Creds.md",
-    "6 - Full Notes/Claude/Claude Templates/Model Context Protocol (MCP) Server Integration Guidelines.md",
-    "5 -Templates/Coding Project Template/0.Instructions.md",
-    "Untitled 2.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "README.md",
     "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD",
     "6 - Full Notes/Coding Project Planning/Vibe Coding/Steps",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis",

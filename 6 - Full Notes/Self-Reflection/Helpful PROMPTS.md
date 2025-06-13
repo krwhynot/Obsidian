@@ -28,7 +28,7 @@ Review all the code files in this project and provide the following:
 5. Detect any **broken or outdated dependencies**, and flag related files.
 6. Suggest **next steps** for completion of the project and achieving the intended goals.
 
-Provide the results in a clear and structured format with actionable recommendations.
+In a report .md file Provide the results in a clear and structured format with actionable recommendations.
 
 
 # CLAUDE PROMPT
