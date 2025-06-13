@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Vibe Coding/Steps/Phase 1- Define & Scope.md",
+                "file": "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Phase 1- Define & Scope"
+              "title": "25 Prompt to Evaluation the Project"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.01487731933594
+    "width": 415.01487731933594,
+    "collapsed": true
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -212,13 +213,15 @@
   },
   "active": "94fdb479f710d79f",
   "lastOpenFiles": [
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/results.md",
+    "6 - Full Notes/Azure/Resource Planning Guide.md",
+    "6 - Full Notes/Azure/bicep files.md",
+    "6 - Full Notes/Vibe Coding/Steps/Phase 1- Define & Scope.md",
     "6 - Full Notes/Vibe Coding/OLD/Feature Specification.md",
     "6 - Full Notes/Vibe Coding/OLD/Architecture Brainstorming Template.md",
     "6 - Full Notes/Vibe Coding/Pillars of Vibe Coding.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/results.md",
     "6 - Full Notes/Vibe Coding/OLD",
-    "6 - Full Notes/Vibe Coding/Steps/Phase 1- Define & Scope.md",
     "6 - Full Notes/Vibe Coding/Steps/Phase 2 - Design & Blueprint.md",
     "6 - Full Notes/Vibe Coding/Steps/Phase 3 - Build & Iterate.md",
     "6 - Full Notes/Vibe Coding/Steps/Phase 4 - Polish & Deploy.md",
@@ -239,7 +242,6 @@
     "7 - Projects/Kitchen Pantry CRM/Project Analysis",
     "6 - Full Notes/Claude/MCP Tools/magic-ui.md",
     "6 - Full Notes/Claude/MCP Tools/FileSystem.md",
-    "6 - Full Notes/Claude/MCP Tools/Context7.md",
     "6 - Full Notes/Claude-Code",
     "7 - Projects/Kitchen Pantry CRM/Diagrams",
     "6 - Full Notes/Project Planning/Visual Templates",
