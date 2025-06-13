@@ -1,3 +1,16 @@
+our GitHub Actions were failing due to:
+
+  1. Dependency conflict: @tremor/react@3.18.7 required React 18, but you're using React 19
+  2. Missing peer dependency handling: GitHub Actions wasn't handling the OpenTelemetry peer dependency conflicts
+
+  Fixed:
+  - ✅ Upgraded @tremor/react to 4.0.0-beta-tremor-v4.4 (supports React 19)
+  - ✅ Added --legacy-peer-deps flag to GitHub Actions workflow
+  - ✅ Changed to use build:azure command optimized for Azure deployment
+  - ✅ Pushed fixes to trigger new workflow run
+
+  The new workflow should now pass. You can monitor it with gh run list or check GitHub Actions in your repository.
+
 Security Audit Remediation Complete
 
   Successfully implemented all security recommendations from the environment
