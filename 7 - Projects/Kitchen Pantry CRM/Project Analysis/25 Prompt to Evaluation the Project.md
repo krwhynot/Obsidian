@@ -431,7 +431,7 @@ Use Context7 to get Azure Key Vault documentation. Use Exa Search for Node.js se
 
 ## Data Migration \& Validation Prompts
 
-### 19. Excel Data Migration Strategy
+### x19. Excel Data Migration Strategy
 
 ```
 You are a data migration specialist. Use sequential thinking to plan Excel migration:
