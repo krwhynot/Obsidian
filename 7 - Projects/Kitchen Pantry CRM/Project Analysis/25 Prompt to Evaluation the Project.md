@@ -475,7 +475,7 @@ Use Context7 to get mobile design guidelines. Use Exa Search for iPad-specific i
 ```
 
 
-### 22. Food Service Workflow Optimization
+### 22. xFood Service Workflow Optimization
 
 ```
 As a food broker industry expert, use sequential thinking to optimize user workflows:
