@@ -385,9 +385,9 @@ Use Context7 to get performance testing best practices. Use Exa Search for Node.
 ```
 
 
-## Deployment \& DevOps Prompts
+## Deployment & DevOps Prompts
 
-### 16. Azure Deployment Configuration Review
+### x16. Azure Deployment Configuration Review
 
 ```
 As a DevOps specialist, use sequential thinking to review Azure deployment:
