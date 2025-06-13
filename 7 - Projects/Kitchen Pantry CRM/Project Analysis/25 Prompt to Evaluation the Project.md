@@ -327,7 +327,7 @@ Use Context7 to get Azure SQL Server optimization documentation. Cross-validate 
 ```
 
 
-### 12. API Rate Limiting \& Caching Strategy
+### x12. API Rate Limiting \& Caching Strategy
 
 ```
 As a performance architect, use sequential thinking to design caching and rate limiting:
@@ -343,7 +343,7 @@ Use Context7 to retrieve caching best practices documentation. Use Exa Search fo
 
 ## Testing \& Quality Assurance Prompts
 
-### 13. Jest Test Coverage Analysis
+### x13. Jest Test Coverage Analysis
 
 ```
 You are a testing specialist. Use sequential thinking to analyze test coverage:
