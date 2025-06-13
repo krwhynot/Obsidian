@@ -401,7 +401,7 @@ Use Context7 to get current Azure App Service documentation. Use Exa Search for 
 ```
 
 
-### 17. GitHub Actions CI/CD Pipeline Design
+### x17. GitHub Actions CI/CD Pipeline Design
 
 ```
 You are a CI/CD expert. Use sequential thinking to design GitHub Actions workflow:
@@ -415,7 +415,7 @@ Use Context7 to retrieve GitHub Actions documentation. Use Exa Search for Next.j
 ```
 
 
-### 18. Environment Configuration Security
+###x18. Environment Configuration Security
 
 ```
 As a security engineer, use sequential thinking to audit environment configurations:
