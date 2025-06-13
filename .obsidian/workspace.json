@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
+                "file": "6 - Full Notes/Vibe Coding/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25 Prompt to Evaluation the Project"
+              "title": "Untitled"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.01487731933594,
-    "collapsed": true
+    "width": 415.01487731933594
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -213,17 +212,18 @@
   },
   "active": "94fdb479f710d79f",
   "lastOpenFiles": [
+    "6 - Full Notes/Vibe Coding/OLD/Architecture Brainstorming Template.md",
+    "6 - Full Notes/Vibe Coding/Untitled.md",
+    "6 - Full Notes/Vibe Coding/OLD",
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/results.md",
     "6 - Full Notes/Vibe Coding/Steps/Phase 1- Define & Scope.md",
     "6 - Full Notes/Vibe Coding/Steps/Phase 2 - Design & Blueprint.md",
     "6 - Full Notes/Vibe Coding/Steps/Phase 3 - Build & Iterate.md",
     "6 - Full Notes/Vibe Coding/Steps/Phase 4 - Polish & Deploy.md",
     "6 - Full Notes/Vibe Coding/Steps/Untitled.md",
-    "6 - Full Notes/Vibe Coding/Feature Specification.md",
+    "6 - Full Notes/Vibe Coding/OLD/Feature Specification.md",
     "6 - Full Notes/Vibe Coding/Steps",
-    "6 - Full Notes/Vibe Coding/Untitled.md",
-    "6 - Full Notes/Vibe Coding/Architecture Brainstorming Template.md",
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/Comprehensive Security Audit Report- PantryCRM.md",
     "Daily Notes/Jun  12, 2025.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/1. Comprehensive Code Review & Architecture Analysis.md",
@@ -240,7 +240,6 @@
     "6 - Full Notes/Claude/MCP Tools/magic-ui.md",
     "6 - Full Notes/Claude/MCP Tools/FileSystem.md",
     "6 - Full Notes/Claude/MCP Tools/Context7.md",
-    "6 - Full Notes/Claude/MCP Tools/CloudFlare Workers.md",
     "6 - Full Notes/Claude-Code",
     "7 - Projects/Kitchen Pantry CRM/Diagrams",
     "6 - Full Notes/Project Planning/Visual Templates",
@@ -248,7 +247,6 @@
     "7 - Projects/Kitchen Pantry CRM",
     "6 - Full Notes/🧠 Concepts/By Technology",
     "6 - Full Notes/🧠 Concepts/By Project",
-    "6 - Full Notes/🧠 Concepts",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
