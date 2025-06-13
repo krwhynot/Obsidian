@@ -478,7 +478,7 @@ Use Context7 to get mobile design guidelines. Use Exa Search for iPad-specific i
 ### 22. Food Service Workflow Optimization
 
 ```
-As a food service industry expert, use sequential thinking to optimize user workflows:
+As a food broker industry expert, use sequential thinking to optimize user workflows:
 
 1. Analyze typical food service operations
 2. Design efficient data entry patterns
