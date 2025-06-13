@@ -461,7 +461,7 @@ Use Context7 to retrieve database validation best practices. Use Exa Search for 
 
 ## User Experience \& Interface Prompts
 
-### 21. Mobile-First Design Validation
+### x21. Mobile-First Design Validation
 
 ```
 You are a mobile UX expert. Use sequential thinking to validate mobile-first design:
