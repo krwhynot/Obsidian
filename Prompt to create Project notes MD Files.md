@@ -75,4 +75,23 @@ Review all the code files in this project and provide the following:
   - Maintain clarity and conciseness while ensuring completeness.
 
 
+TODO.md
+<Task>
+Create a TODO.md file including intelligent task suggestions based on project scope.
+</Task>
+
+<Inputs>
+<project_scope>Summary of the project's goals and system components (e.g., emulator, compiler, drivers).</project_scope>
+<existing_tasks>List of already identified tasks (can be partial).</existing_tasks>
+</Inputs>
+
+<Instructions>
+Based on the project scope and any provided existing tasks, generate a well-structured TODO.md file divided into:
+- **Todo**
+- **In Progress ···**
+- **Done ✓**
+
+For each section, list appropriate tasks in imperative voice. If existing tasks are missing components (like testing or documentation), use your judgment to add realistic tasks. Aim for a balanced TODO list that reflects early-to-late stage dev work.
+Wrap your output inside <todo_output> tags.
+</Instructions>
 
