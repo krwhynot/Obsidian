@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.01487731933594
+    "width": 415.01487731933594,
+    "collapsed": true
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -212,8 +213,12 @@
   },
   "active": "83b8cee66ac5eedc",
   "lastOpenFiles": [
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
+    "7 - Projects/Kitchen Pantry CRM/CRM.md",
+    "7 - Projects/Kitchen Pantry CRM/User Walkthrough.md",
+    "7 - Projects/Kitchen Pantry CRM/Untitled.md",
+    "7 - Projects/Kitchen Pantry CRM/PRD File.md",
     "6 - Full Notes/Perplexity - Space/Guide.md",
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
     "6 - Full Notes/Perplexity - Space",
     "6 - Full Notes/Coding NOTES/Code Review/Principles.md",
     "6 - Full Notes/Cheat Sheet  for Formatting in Obsidian.md",
@@ -236,10 +241,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "README.md",
-    "🚀 Vibe Coding Setup Complete.md",
-    "7 - Projects/Kitchen Pantry CRM/1.Objective.md",
-    "7 - Projects/Kitchen Pantry CRM/User Walkthrough.md",
-    "7 - Projects/Kitchen Pantry CRM/Raw Context Info.md",
     "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD",
     "6 - Full Notes/Coding Project Planning/Vibe Coding/Steps",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis",
