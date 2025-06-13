@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Templates list"
             }
+          },
+          {
+            "id": "7035cf4e6353b5f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt to create Project notes MD Files.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prompt to create Project notes MD Files"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,8 +239,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d10dd246bae00491",
+  "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
+    "Prompt to create Project notes MD Files.md",
+    "6 - Full Notes/Coding Project Planning/Visual Templates/Templates list.md",
     "7 - Projects/---Mobile LogoCraft project---/Technical Design Document.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
     "3 - References & Resources/MCP Tools/shrimp task manager MCP.md",
@@ -251,8 +267,6 @@
     "7 - Projects/Kitchen Pantry CRM/old user.md",
     "Daily Notes/Oct  03, 2024.md",
     "Daily Notes/Oct  02, 2024.md",
-    "Daily Notes/Nov  11, 2024.md",
-    "Daily Notes/Oct  01, 2024.md",
     "6 - Full Notes/Perplexity - Space",
     "6 - Full Notes/Coding NOTES/Code Review",
     "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD",
