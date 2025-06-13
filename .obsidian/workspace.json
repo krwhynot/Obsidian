@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Project Analysis/🔍 GitHub Actions Workflow Audit Report.md",
+                "file": "6 - Full Notes/SQL/Single User mode.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "🔍 GitHub Actions Workflow Audit Report"
+              "title": "Single User mode"
             }
           }
         ],
@@ -212,10 +212,10 @@
   },
   "active": "94fdb479f710d79f",
   "lastOpenFiles": [
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/results.md",
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/🔍 GitHub Actions Workflow Audit Report.md",
-    "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
     "6 - Full Notes/Vibe Coding/Steps/Untitled.md",
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/🔍 GitHub Actions Workflow Audit Report.md",
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/results.md",
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/Food Broker Industry Workflow Optimization Analysis.md",
     "6 - Full Notes/Azure/Resource Planning Guide.md",
     "6 - Full Notes/Azure/bicep files.md",
