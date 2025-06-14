@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Project Analysis/GitHub Actions Testing and Validation.md",
+                "file": "7 - Projects/Kitchen Pantry CRM/Verify no TypeScript errors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Actions Testing and Validation"
+              "title": "Verify no TypeScript errors"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "helpful",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.01487731933594,
-    "collapsed": true
+    "width": 415.01487731933594
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -212,6 +211,12 @@
   },
   "active": "83b8cee66ac5eedc",
   "lastOpenFiles": [
+    "6 - Full Notes/Self-Reflection/Helpful PROMPTS.md",
+    "7 - Projects/Kitchen Pantry CRM/Verify no TypeScript errors.md",
+    "6 - Full Notes/Pioneering Applications for Claude Sonnet 3.7.md",
+    "6 - Full Notes/Coding Project Planning/Vibe Coding/Pillars of Vibe Coding.md",
+    "6 - Full Notes/Coding Project Planning/Vibe Coding/Steps/Untitled.md",
+    "6 - Full Notes/Claude/Prompts/Planning a Coding Project.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/GitHub Actions Testing and Validation.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/Azure Testing.md",
@@ -232,12 +237,6 @@
     "7 - Projects/----LogoCraft Azure Static Web App/NOTES/Recap.md",
     "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/GUI/readme.md",
     "7 - Projects/Kitchen Pantry CRM/Raw Context Info.md",
-    "6 - Full Notes/Prompts/Prompt Examples.md",
-    "6 - Full Notes/Claude/Claude Projects Tips & Tricks/Project Structure/project documentation VS artifacts.md",
-    "7 - Projects/Kitchen Pantry CRM/PRD File.md",
-    "6 - Full Notes/Claude/Prompts/Planning a Coding Project.md",
-    "7 - Projects/----LogoCraft Azure Static Web App/New Project/Planning.md",
-    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/The Plan/Phases.md",
     "6 - Full Notes/Perplexity - Space",
     "6 - Full Notes/Coding NOTES/Code Review",
     "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD",
