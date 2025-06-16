@@ -6,7 +6,7 @@
   "templateFolderPath": "",
   "announceUpdates": true,
   "version": "1.13.3",
-  "disableOnlineFeatures": true,
+  "disableOnlineFeatures": false,
   "enableRibbonIcon": false,
   "ai": {
     "defaultModel": "Ask me",
