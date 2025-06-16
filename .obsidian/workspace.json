@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Claude-Code/MCP Setup.md",
+                "file": "7 - Projects/Kitchen Pantry CRM/Creds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCP Setup"
+              "title": "Creds"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.01487731933594
+    "width": 415.01487731933594,
+    "collapsed": true
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -213,6 +214,8 @@
   "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
     "6 - Full Notes/Claude-Code/CheatSheet.md",
+    "7 - Projects/Kitchen Pantry CRM/Creds.md",
+    "6 - Full Notes/Claude-Code/claude-setup.md.md",
     "6 - Full Notes/Claude-Code/MCP Setup.md",
     "Prompt to create Project notes MD Files.md",
     "7 - Projects/Kitchen Pantry CRM/Untitled.md",
@@ -236,8 +239,6 @@
     "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
     "3 - References & Resources/MCP Tools/shrimp task manager MCP.md",
     "Daily Notes/Sep  03, 2024.md",
-    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/Roadmap 12-7-24.md",
-    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/Transcribing/Brainstorming/revent1.md",
     "6 - Full Notes/Perplexity - Space",
     "6 - Full Notes/Coding NOTES/Code Review",
     "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD",
