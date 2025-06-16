@@ -10,4 +10,7 @@ cat .claude/claude_desktop_config.json
 add memories with the `#`
 
 
+npm run setup:mcp
+
+
 
