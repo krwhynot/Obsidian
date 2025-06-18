@@ -12,7 +12,12 @@ add memories with the `#`
 
 npm run setup:mcp
 
-claude mcp remove memory claude mcp remove filesystem claude mcp remove sequential-thinking claude mcp remove exa claude mcp remove Context7 claude mcp remove tavily-mcp
+claude mcp remove memory
+claude mcp remove filesystem
+claude mcp remove sequential-thinking
+claude mcp remove exa
+claude mcp remove Context7
+claude mcp remove tavily-mcp
 
 
 
