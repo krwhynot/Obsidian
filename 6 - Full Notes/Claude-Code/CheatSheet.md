@@ -18,7 +18,8 @@ claude mcp remove sequential-thinking
 claude mcp remove exa
 claude mcp remove Context7
 claude mcp remove tavily-mcp
-
+claude mcp remove brave-search
+claude mcp remove perplexity-ask
 wsl -d Ubuntu
 
 
