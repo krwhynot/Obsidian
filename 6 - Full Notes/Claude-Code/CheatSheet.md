@@ -19,5 +19,6 @@ claude mcp remove exa
 claude mcp remove Context7
 claude mcp remove tavily-mcp
 
+wsl -d Ubuntu
 
 
