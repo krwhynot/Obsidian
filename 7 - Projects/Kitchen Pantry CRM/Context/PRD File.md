@@ -26,6 +26,7 @@ Remembering this is the Food Service CRM project - a NextCRM-based customer rela
 ## Technical Architecture
 
 ### Technology Stack
+'Technology Stack': 'LAMP', 'Frontend': 'React/Vue/Angular', 'Backend': 'PHP/Laravel', 'Database': 'MySQL', 'Pros': 'Mature ecosystem, Cost-effective hosting, Strong SQL support', 'Cons': 'PHP performance limitations, Mixed language stack', 'Best For': 'Traditional web applications, Budget-conscious projects', 'Estimated Development Time': '5-7 months', 'Team Size': '5-7 developers'
 
 
 - **Frontend**: Next.js 15, React 19 , TypeScript, shadcn/ui, Tremor charts
