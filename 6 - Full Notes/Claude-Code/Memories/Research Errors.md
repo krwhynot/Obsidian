@@ -25,6 +25,6 @@ When confidence < 10/10:
 - Only proceed with final answer/action once you've achieved maximum confidence through evidence-based research
 
 **EXAMPLE RESPONSE FORMAT:**
-"Current confidence: 6/10. Researching using perplexity-ask and exa tools to increase confidence... [uses specified tools] ... Research complete. Confidence now: 10/10. Here is my response..."
+"Current confidence: 6/10. Researching using perplexity-ask and exa tools to increase confidence... Research complete. Confidence now: 10/10. Here is my response..."
 
 **NO EXCEPTIONS:** Speculation, assumptions, or "best guesses" are prohibited. Evidence-based, research-validated responses using only `perplexity-ask` or `exa` search MCP tools.
