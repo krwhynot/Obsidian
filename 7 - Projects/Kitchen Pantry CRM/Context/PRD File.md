@@ -27,9 +27,9 @@ Remembering this is the Food Service CRM project - a NextCRM-based customer rela
 
 ### Technology Stack
 
-- **Foundation**: NextCRM (pdovhomilja/nextcrm-app) - heavily modified for food service
-- **Frontend**: Next.js 15, React 19 RC, TypeScript, shadcn/ui, Tremor charts
-- **Backend**: Node.js with Prisma ORM
+
+- **Frontend**: Next.js 15, React 19 , TypeScript, shadcn/ui, Tremor charts
+- **Backend**: Node.js with DRIZZLE ORM
 - **Database**: Azure SQL Server Basic tier ($5/month)
 - **Hosting**: Azure App Service Basic B1 tier ($13/month)
 - **Testing**: Jest + React Testing Library with 44px touch target compliance
@@ -117,9 +117,9 @@ Dynamic configuration system replacing hard-coded values:
 
 ## Database Schema
 
-### Core Models (Prisma Schema)
+### Core Models (DRIZZLE Schema)
 
-```prisma
+```Drizzle
 // Settings Management System
 model Setting {
   id        String   @id @default(cuid())
