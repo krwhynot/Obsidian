@@ -5,16 +5,10 @@ could not change directory to "/home/krwhynot": Permission denied
 psql (14.18 (Ubuntu 14.18-0ubuntu0.22.04.1))
 Type "help" for help.
 
-postgres=#
-postgres=# CREATE DATABASE foodservice_crm;
-CREATE USER crm_user WITHERROR:  database "foodservice_crm" already exists
-postgres=# CREATE USER crm_user WITH PASSWORD '+LFy1QCCpmSlC9Fv';
-RANT ALL PRIVILEGES ON DATABASE foodservice_crm TO crm_user;
-\qCREATE ROLE
-postgres=# GRANT ALL PRIVILEGES ON DATABASE foodservice_crm TO crm_user;
-GRANT
-postgres=# \q
-krwhynot@Revent1:~$
+DATABASE foodservice_crm;
+
+USER crm_user 
+PASSWORD '+LFy1QCCpmSlC9Fv';
 
 
 📋 Deployment Summary
