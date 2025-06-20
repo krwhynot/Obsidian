@@ -11,23 +11,15 @@ USER crm_user
 PASSWORD '+LFy1QCCpmSlC9Fv';
 
 
-📋 Deployment Summary
-
-  ✅ Azure Resources Created:
-  - Resource Group: kitchenpantry-crm-rg (Central US)
-  - PostgreSQL Server: foodservice-crm-db-1750338802.postgres.database.azure.com
-  - Database: foodservice_crm
-  - App Service Plan: kitchenpantry-crm-plan (Linux B1)
-  - App Service: kitchenpantry-crm-app-1750338802.azurewebsites.net
-
-  🔗 Your Application URLs:
-
-  - App Service URL: https://kitchenpantry-crm-app-1750338802.azurewebsites.net
-  - Admin Panel URL: https://kitchenpantry-crm-app-1750338802.azurewebsites.net/admin
-
-  🔐 Database Credentials:
-
-  - Host: foodservice-crm-db-1750338802.postgres.database.azure.com
-  - Database: foodservice_crm
-  - Username: crmadmin
-  - Password: CRM@Admin123!
+az postgres flexible-server create \
+  --resource-group kitchenpantry-crm-rg \
+  --name pantrycrm-pgsql-server \
+  --location centralus \
+  --admin-user crm_admin \
+  --admin-password "P@sswOrd12345!" \
+  --sku-name Standard_B1ms \
+  --tier Burstable \
+  --public-access 0.0.0.0 \
+  --storage-size 32 \
+  --version 14 \
+  --backup-retention-days 7
