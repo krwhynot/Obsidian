@@ -145,3 +145,22 @@ PASSWORD '+LFy1QCCpmSlC9Fv';
     ```
     
      (You should get the full list from the Azure portal under your App Service's "Properties" blade for "Additional Outbound IP Addresses" if needed for more restrictive firewall rules).
+
+ pricing details
+Configuring server firewall rule, 'azure-access', to accept connections from all Azure resources...
+Make a note of your password. If you forget, you would have to reset your password with "az postgres flexible-server update -n pantrycrm-pgsql-server -g kitchenpantry-crm-rg -p <new-password>".
+Try using 'az postgres flexible-server connect' command to test out connection.
+{
+  "connectionString": "postgresql://crm_admin:P@sswOrd12345!@pantrycrm-pgsql-server.postgres.database.azure.com/postgres?sslmode=require",
+  "databaseName": "postgres",
+  "firewallName": "AllowAllAzureServicesAndResourcesWithinAzureIps_2025-6-19_22-27-47",
+  "host": "pantrycrm-pgsql-server.postgres.database.azure.com",
+  "id": "/subscriptions/df8fefaa-16a0-47da-ace7-6eab8b1919cf/resourceGroups/kitchenpantry-crm-rg/providers/Microsoft.DBforPostgreSQL/flexibleServers/pantrycrm-pgsql-server",
+  "location": "Central US",
+  "password": "P@sswOrd12345!",
+  "resourceGroup": "kitchenpantry-crm-rg",
+  "skuname": "Standard_B1ms",
+  "username": "crm_admin",
+  "version": "14"
+}
+krwhynot@Revent1:/mnt/r/Projects/PantryCRM-Fresh$ 
