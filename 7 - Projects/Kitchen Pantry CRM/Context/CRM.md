@@ -21,4 +21,4 @@ The KitchenPantry CRM is a custom Customer Relationship Management system specif
 9. **Streamlined Data Management**: Provide easy data entry, bulk import capabilities, dropdown list management, and data export functionality.
     
 
-The end goal is to create a user-friendly system that helps a sales team of 10-15 users maintain better relationships with customers, track opportunities more effectively, and close more sales through organized follow-up and relationship management in the food service industry.
+The end goal is to create a user-friendly system that helps a sales team of 5-8 users maintain better relationships with customers, track opportunities more effectively, and close more sales through organized follow-up and relationship management in the food service industry.
