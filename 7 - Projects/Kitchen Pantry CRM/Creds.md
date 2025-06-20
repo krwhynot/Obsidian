@@ -1,8 +1,21 @@
 
-● Bash(DB_SERVER_NAME="foodservice-crm-db-1750338802" &&
-DB_NAME="foodservice_crm" &&
-DB_ADMIN_USER="crmadmin" &&
-DB_ADMIN_PASSWORD="CRM@Admin123!" && 
+● krwhynot@Revent1:~$ sudo -u postgres psql
+[sudo] password for krwhynot:
+could not change directory to "/home/krwhynot": Permission denied
+psql (14.18 (Ubuntu 14.18-0ubuntu0.22.04.1))
+Type "help" for help.
+
+postgres=#
+postgres=# CREATE DATABASE foodservice_crm;
+CREATE USER crm_user WITHERROR:  database "foodservice_crm" already exists
+postgres=# CREATE USER crm_user WITH PASSWORD '+LFy1QCCpmSlC9Fv';
+RANT ALL PRIVILEGES ON DATABASE foodservice_crm TO crm_user;
+\qCREATE ROLE
+postgres=# GRANT ALL PRIVILEGES ON DATABASE foodservice_crm TO crm_user;
+GRANT
+postgres=# \q
+krwhynot@Revent1:~$
+
 
 📋 Deployment Summary
 
