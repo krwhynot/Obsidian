@@ -150,95 +150,58 @@
   **Record Handling Capacity (MVP):**
 
   | Metric | MVP Capacity |
-
 |--------|--------------|
-
 | **Active Brokers** | 5 |
-
 | **Customer Records** | 500-1,000 |
-
 | **Daily Visits** | 10-25 |
-
 | **Monthly API Calls** | 5,000-10,000 |
-
 | **Concurrent Users** | 5 |
-
 | **Storage Used** | 2-3GB (plenty of room for growth) |
 
   
-
 **Simple Backup Strategy:**
-
 - **Daily:** Automated PostgreSQL dump to external storage ($5/month)
-
 - **Weekly:** Full server snapshot (manual, for disasters)
-
 - **Retention:** 30 days of daily backups, 12 weeks of weekly backups
 
-  
 
 ### Why This MVP Stack Works for Food Brokers
 
-  
-
 1. **Mobile-Responsive:** Works perfectly on phones without app store complexity
-
 2. **Cost-Effective:** $35/month vs $300+ for enterprise solutions
-
 3. **Quick to Market:** 2-3 months development vs 6+ months for full solution
-
 4. **Simple to Use:** Focused on essential features brokers actually need
-
 5. **Easy to Scale:** Can add features and upgrade server as business grows
-
 6. **Progressive Web App:** Can be "installed" on phones like a native app
-
 7. **Offline Capable:** Basic offline functionality with service workers
-
-  
+ 
 
 ### MVP Implementation Timeline
 
   
-
 **Month 1:** Basic setup and core features
-
 - User authentication and management
-
 - Customer database with forms
-
 - Basic visit logging
-
 - Mobile-responsive design
-
   
 
 **Month 2:** Enhanced features and polish
-
 - Google Maps integration
-
 - Basic reporting dashboard
-
 - Photo upload for visits
-
 - PWA setup for mobile "installation"
 
   
 
 **Month 3:** Testing and deployment
-
 - User testing with real brokers
-
 - Bug fixes and performance optimization
-
 - Server setup and deployment
-
 - Training and documentation
 
   
-
 **Total Development Time:** 3 months with 1-2 developers
-
 **Total Cost to Launch:** $45,000-$75,000 + $35/month operational
 
   
@@ -252,84 +215,54 @@
   
 
 **Drizzle vs Prisma vs TypeORM fAor MVP:**
-
   
 
 | Feature | Drizzle | Prisma | TypeORM |
-
 |---------|---------|--------|---------|
-
 | **Performance** | ⭐⭐⭐⭐⭐ Fastest | ⭐⭐⭐ Good | ⭐⭐⭐ Good |
-
 | **Type Safety** | ⭐⭐⭐⭐⭐ Best | ⭐⭐⭐⭐ Great | ⭐⭐⭐ Good |
-
 | **Bundle Size** | ⭐⭐⭐⭐⭐ Tiny | ⭐⭐ Large | ⭐⭐⭐ Medium |
-
 | **Learning Curve** | ⭐⭐⭐⭐ Easy | ⭐⭐⭐ Medium | ⭐⭐ Complex |
-
 | **Raw SQL Support** | ⭐⭐⭐⭐⭐ Native | ⭐⭐ Limited | ⭐⭐⭐⭐ Good |
-
 | **Migrations** | ⭐⭐⭐⭐⭐ Simple | ⭐⭐⭐⭐ Great | ⭐⭐⭐ Good |
-
-  
+ 
 
 **Drizzle Advantages for MVP:**
-
 - ✅ **20-30% faster** than Prisma in benchmarks
-
 - ✅ **SQL-first approach** - easier to optimize later
-
 - ✅ **Zero runtime overhead** - compiles to efficient SQL
-
 - ✅ **Smallest bundle size** - faster startup times
-
 - ✅ **Best TypeScript integration** - catches errors at compile time
-
 - ✅ **Easy raw SQL** when you need complex queries for reporting
-
   
 
 ### Future Expansion Path
 
-  
 
 **MVP → Full CRM Evolution:**
-
-  
 
 ```
 
 Phase 1: MVP (Current)
-
 ├── Basic contact management
-
 ├── Simple visit tracking
-
 ├── Basic reporting
-
 └── 5 users
 
   
 
 Phase 2: Enhanced CRM (Months 4-6)
-
 ├── Territory management with maps
-
 ├── Product catalog
-
 ├── Sales pipeline tracking
-
 ├── Email integration
-
 ├── Advanced reporting
-
 └── 15-20 users
 
   
 
 Phase 3: Advanced Features (Months 7-12)
-
-├── Mobile app (React Native)
+├──Mobile app (React Native)
 
 ├── Offline sync capabilities
 
