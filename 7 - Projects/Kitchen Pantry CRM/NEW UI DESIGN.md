@@ -287,13 +287,9 @@ font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
 ```css
 
 .font-light    { font-weight: 300; } /* Light - rarely used */
-
 .font-normal   { font-weight: 400; } /* Normal - body text */
-
 .font-medium   { font-weight: 500; } /* Medium - emphasis */
-
 .font-semibold { font-weight: 600; } /* Semibold - headings */
-
 .font-bold     { font-weight: 700; } /* Bold - strong emphasis */
 
 ```
@@ -321,11 +317,8 @@ font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
 <button className="
 
   bg-primary-500 hover:bg-primary-600
-
   text-white font-medium
-
   px-6 py-4 rounded-lg
-
   min-h-[44px] min-w-[44px]
 
   shadow-sm hover:shadow-md
