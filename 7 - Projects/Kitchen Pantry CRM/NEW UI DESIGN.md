@@ -46,23 +46,25 @@
 
   
 
-## 2. Recommended Component Libraries
+## 2. Recommended Free/Open Source Component Libraries
 
   
 
-### 2.1 Primary Library Stack
+### 2.1 Primary Free Stack (Recommended)
 
   
 
-#### **Tailwind UI (Official) - Core Components**
+#### **shadcn/ui - Core Components**
 
 - **Role:** Primary component foundation
 
-- **Cost:** $299 one-time (includes React components + Figma files)
+- **Cost:** 100% Free and open source
 
-- **Why:** Best-in-class design system for business applications
+- **Why:** Modern, accessible, highly customizable components
 
 - **Coverage:** Forms, navigation, cards, modals, tables, layouts
+
+- **GitHub:** 50k+ stars, actively maintained
 
   
 
@@ -70,11 +72,13 @@
 
 - **Role:** Charts and analytics components
 
-- **Cost:** Free and open source
+- **Cost:** 100% Free and open source
 
 - **Why:** Mobile-responsive charts built specifically for dashboards
 
 - **Coverage:** KPI cards, bar charts, line charts, data tables
+
+- **GitHub:** 15k+ stars, Vercel-backed
 
   
 
@@ -82,25 +86,41 @@
 
 - **Role:** Consistent theming and utility components
 
-- **Cost:** Free and open source
+- **Cost:** 100% Free and open source
 
 - **Why:** 60+ components with professional themes
 
-- **Coverage:** Buttons, alerts, badges, loading states
+- **Coverage:** Buttons, alerts, badges, loading states, theming
+
+- **GitHub:** 30k+ stars, very popular
 
   
 
-### 2.2 Alternative Budget Stack
+### 2.2 Alternative Free Stacks
 
   
 
-#### **shadcn/ui + DaisyUI + Tremor**
+#### **Option A: Headless UI + Heroicons + Tremor**
 
-- **Total Cost:** Free
+- **Headless UI:** Unstyled, accessible components by Tailwind team
 
-- **Trade-off:** More setup time but fully customizable
+- **Heroicons:** Beautiful SVG icons (also by Tailwind team)
 
-- **Best for:** Tighter budgets with development time available
+- **Tremor:** Charts and data visualization
+
+- **Total Cost:** 100% Free
+
+  
+
+#### **Option B: Mantine + Tabler Icons**
+
+- **Mantine:** Full-featured component library with Tailwind support
+
+- **Tabler Icons:** 4000+ free SVG icons
+
+- **Total Cost:** 100% Free
+
+- **Note:** More opinionated styling, great for rapid development
 
   
 
@@ -886,7 +906,7 @@ font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
 
   
 
-### 8.1 Chart Components (Using Tremor)
+### 8.1 Chart Components (Using Free Tremor Library)
 
   
 
@@ -894,7 +914,21 @@ font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
 
 ```tsx
 
-import { AreaChart, Area, XAxis, YAxis, ResponsiveContainer } from 'recharts';
+import { AreaChart } from '@tremor/react';
+
+  
+
+const visitData = [
+
+  { date: 'Jan 1', visits: 5 },
+
+  { date: 'Jan 2', visits: 8 },
+
+  { date: 'Jan 3', visits: 12 },
+
+  // ... more data
+
+];
 
   
 
@@ -906,41 +940,21 @@ import { AreaChart, Area, XAxis, YAxis, ResponsiveContainer } from 'recharts';
 
   </h3>
 
-  <ResponsiveContainer width="100%" height={200}>
+  <AreaChart
 
-    <AreaChart data={visitData}>
+    data={visitData}
 
-      <XAxis
+    index="date"
 
-        dataKey="date"
+    categories={["visits"]}
 
-        axisLine={false}
+    colors={["blue"]}
 
-        tickLine={false}
+    yAxisWidth={30}
 
-        tick={{ fontSize: 12 }}
+    className="h-48"
 
-      />
-
-      <YAxis hide />
-
-      <Area
-
-        type="monotone"
-
-        dataKey="visits"
-
-        stroke="#3b82f6"
-
-        fill="#dbeafe"
-
-        strokeWidth={2}
-
-      />
-
-    </AreaChart>
-
-  </ResponsiveContainer>
+  />
 
 </div>
 
@@ -1054,13 +1068,19 @@ import { AreaChart, Area, XAxis, YAxis, ResponsiveContainer } from 'recharts';
 
   
 
-### 11.1 Visit Log Form Component
+### 11.1 Visit Log Form Component (Using Free shadcn/ui)
 
 ```tsx
 
 import React from 'react';
 
 import { useForm } from 'react-hook-form';
+
+import { Button } from '@/components/ui/button';
+
+import { Textarea } from '@/components/ui/textarea';
+
+import { Label } from '@/components/ui/label';
 
   
 
@@ -1086,39 +1106,25 @@ export function VisitLogForm() {
 
     <form className="space-y-6 p-4">
 
-      <div>
+      <div className="space-y-2">
 
-        <label className="block text-sm font-medium text-gray-700 mb-2">
+        <Label htmlFor="notes">Visit Notes</Label>
 
-          Visit Notes
+        <Textarea
 
-        </label>
-
-        <textarea
+          id="notes"
 
           {...register('notes', { required: 'Visit notes are required' })}
 
-          rows={4}
-
-          className="
-
-            block w-full px-4 py-4 text-base
-
-            border border-gray-300 rounded-lg
-
-            focus:ring-2 focus:ring-primary-500 focus:border-primary-500
-
-            placeholder-gray-400 resize-none
-
-          "
-
           placeholder="What happened during this visit?"
+
+          className="min-h-[100px] text-base"
 
         />
 
         {errors.notes && (
 
-          <p className="mt-1 text-sm text-red-600">{errors.notes.message}</p>
+          <p className="text-sm text-destructive">{errors.notes.message}</p>
 
         )}
 
@@ -1128,49 +1134,35 @@ export function VisitLogForm() {
 
       <div className="flex space-x-4">
 
-        <button
+        <Button
 
           type="button"
 
-          className="
+          variant="outline"
 
-            flex-1 py-4 px-6
+          size="lg"
 
-            bg-gray-100 hover:bg-gray-200
-
-            text-gray-700 font-medium
-
-            rounded-lg transition-colors duration-200
-
-          "
+          className="flex-1"
 
         >
 
           Cancel
 
-        </button>
+        </Button>
 
-        <button
+        <Button
 
           type="submit"
 
-          className="
+          size="lg"
 
-            flex-1 py-4 px-6
-
-            bg-primary-500 hover:bg-primary-600
-
-            text-white font-medium
-
-            rounded-lg transition-colors duration-200
-
-          "
+          className="flex-1"
 
         >
 
           Save Visit
 
-        </button>
+        </Button>
 
       </div>
 
@@ -1184,13 +1176,15 @@ export function VisitLogForm() {
 
   
 
-### 11.2 Customer Search Component
+### 11.2 Customer Search Component (Using Free Heroicons)
 
 ```tsx
 
 import React, { useState } from 'react';
 
 import { MagnifyingGlassIcon } from '@heroicons/react/24/outline';
+
+import { Input } from '@/components/ui/input';
 
   
 
@@ -1226,11 +1220,11 @@ export function CustomerSearch({ onSearch, placeholder = "Search customers..." }
 
       <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
 
-        <MagnifyingGlassIcon className="h-5 w-5 text-gray-400" />
+        <MagnifyingGlassIcon className="h-5 w-5 text-muted-foreground" />
 
       </div>
 
-      <input
+      <Input
 
         type="text"
 
@@ -1238,19 +1232,7 @@ export function CustomerSearch({ onSearch, placeholder = "Search customers..." }
 
         onChange={(e) => handleSearch(e.target.value)}
 
-        className="
-
-          block w-full pl-10 pr-4 py-4
-
-          text-base border border-gray-300
-
-          rounded-lg bg-white
-
-          focus:ring-2 focus:ring-primary-500 focus:border-primary-500
-
-          placeholder-gray-400
-
-        "
+        className="pl-10 text-base h-12"
 
         placeholder={placeholder}
 
