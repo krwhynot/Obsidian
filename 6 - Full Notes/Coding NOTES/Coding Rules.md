@@ -1,4 +1,5 @@
 
+Coding Rules:
 1. Write Code Like It’s Going to be Reviewed by Your Future Self
 2. DRY (Don’t Repeat Yourself), but Avoid “Magic”
 3. Comment for the “Why,” Not the “What”
