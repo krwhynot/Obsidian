@@ -45,7 +45,7 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 
 
 ### 2.3 Key Assumptions
-- Brokers have smartphones with internet access
+- Brokers have iPads with internet access
 - Customers (restaurants/stores) are comfortable sharing basic contact information
 - GPS location services work adequately in target areas
 - Brokers will adopt web-based solution over paper/spreadsheet tracking
