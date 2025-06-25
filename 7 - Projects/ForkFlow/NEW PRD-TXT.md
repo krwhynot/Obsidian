@@ -1,20 +1,4 @@
-# Product Requirements Document (PRD)
-
-# MVP Food Broker CRM
-
-  
-
-**Version:** 1.0 
-**Date:** December 24, 2024  
-**Status:** Draft  
-
----
-
-  
-
 ## 1. Executive Summary
-
-  
 
 ### 1.1 Product Overview
 A mobile-friendly web-based CRM system designed specifically for food brokers who visit restaurants, grocery stores, and food service establishments door-to-door. The MVP supports 5 brokers with essential customer relationship management features accessible through any web browser.
@@ -22,7 +6,6 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 ### 1.2 Business Objectives
 - **Primary Goal:** Enable food brokers to efficiently track customer visits and manage relationships
 - **Time to Market:** 3 months from development start
-- **Budget:** $45,000-$75,000 development + $35/month operational
 - **Success Metrics:** 5 active brokers, 500-1,000 customer records, 10-25 daily visits logged
 
 ### 1.3 Target Users
@@ -95,18 +78,15 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 - **VISIT-001:** As a broker, I want to quickly log a visit while at the customer location
 - **VISIT-002:** As a broker, I want to capture GPS location automatically when logging visits
 - **VISIT-003:** As a broker, I want to add notes about what happened during the visit
-- **VISIT-004:** As a broker, I want to upload photos from my visits for documentation
-- **VISIT-005:** As a broker, I want to set follow-up reminders for future visits
-- **VISIT-006:** As a broker, I want to view my visit history for each customer
+- **VISIT-004:** As a broker, I want to set follow-up reminders for future visits
+- **VISIT-005:** As a broker, I want to view my visit history for each customer
 
 #### Acceptance Criteria:
 - One-tap visit logging from customer detail page
 - GPS coordinates captured automatically (with permission)
 - Visit notes field (1000 character limit)
-- Photo upload from mobile camera or gallery (max 5MB per photo)
 - Follow-up reminder system with date/time picker
 - Visit history sorted by most recent first
-- Offline capability for visit logging (sync when online)
 
 ### 3.4 Epic 4: Basic Reporting
 **As a broker and admin, I want to see my activity reports so I can track performance and plan my work.**
@@ -165,7 +145,7 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 - **Backup Security:** Encrypted database backups
 
 ### 4.4 Scalability Requirements
-- **Storage:** Support 1,000 customers, 5,000 visits, 1GB photos
+- **Storage:** Support 1,000 customers, 5,000 visits
 - **User Growth:** Easy expansion from 5 to 15 brokers
 - **Geographic Scale:** No geographic restrictions on usage
 
@@ -211,7 +191,6 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 - Customer name/location
 - Date/time (auto-populated)
 - Notes text area
-- Photo upload area
 - GPS coordinates (auto-captured)
 - "Save Visit" button
 
@@ -285,17 +264,6 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 
 ```
 
-#### 6.1.4 Visit Photos Table
-
-```
-- id (UUID, primary key)
-- visit_id (UUID, foreign key to visits)
-- filename (string)
-- file_path (string)
-- file_size (integer)
-- uploaded_at (timestamp)
-```
-
 #### 6.1.5 Follow-up Reminders Table
 
 ```
@@ -313,7 +281,6 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 - Users have many Customers (created_by relationship)
 - Users have many Visits (broker_id relationship)
 - Customers have many Visits
-- Visits have many Photos
 - Customers have many Follow-up Reminders
 
 ## 7. API Specifications
@@ -363,15 +330,6 @@ GET /api/exports/visits - Export visits to CSV
 
 ```
 
-  
-
-### 7.5 File Upload Endpoints
-
-```
-POST /api/uploads/visit-photos - Upload visit photo
-GET /api/uploads/:filename - Retrieve uploaded file
-
-```
 ## 8. Non-Functional Requirements
 
 ### 8.1 Usability
@@ -380,7 +338,6 @@ GET /api/uploads/:filename - Retrieve uploaded file
 - Form completion time under 2 minutes for visit logging
 - Error messages in plain language
 - Consistent UI patterns across all screens
-
 
 ### 8.2 Reliability
 - 99.5% uptime target
@@ -494,7 +451,6 @@ GET /api/uploads/:filename - Retrieve uploaded file
 
 #### Phase 2 (Month 2): Core Features
 - Visit logging functionality
-- Photo upload capability
 - Maps integration
 - Basic reporting dashboard
 
