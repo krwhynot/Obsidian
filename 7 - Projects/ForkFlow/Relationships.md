@@ -134,33 +134,24 @@
     - Product’s principal        
     - Opportunity’s pipeline stage        
     - Interaction’s type        
-- **User**:
-    
-    - Manages Organizations
-        
-    - Creates Interactions
-        
-    - Owns Opportunities
-        
-    - Generates AuditLogs
-        
+- **User**:    
+    - Manages Organizations        
+    - Creates Interactions        
+    - Owns Opportunities        
+    - Generates AuditLogs       
 
 ---
 
 ### **Key Notes (Domain Context)**
 
-- **Priorities**: A–D (Color-coded: Green, Yellow, Orange, Red)
-    
-- **Segments**: Fine Dining, Fast Food, Healthcare, Catering, Institutional
-    
-- **Distributors**: Sysco, USF, PFG, Direct, Other
-    
-- **Principals**: 11 Food Service Brands
-    
-- **Interaction Types**: Email, Call, In Person, Demo/Sampled, Quoted Price, Follow-up
-    
+- **Priorities**: A–D (Color-coded: Green, Yellow, Orange, Red)    
+- **Segments**: Fine Dining, Fast Food, Healthcare, Catering, Institutional    
+- **Distributors**: Sysco, USF, PFG, Direct, Other    
+- **Principals**: 11 Food Service Brands    
+- **Interaction Types**: Email, Call, In Person, Demo/Sampled, Quoted Price, Follow-up    
 - **Pipeline Stages**: Lead Discovery, Contacted, Sampled/Visited, Follow-up, Close
 
+**LAYOUT**
  Organization (Restaurant Business)
   ├── Contacts (Decision Makers with Influence Levels)
   ├── Opportunities (Product Sales Pipeline)
