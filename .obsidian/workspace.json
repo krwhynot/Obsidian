@@ -11,12 +11,14 @@
             "id": "7035cf4e6353b5f2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md"
+                "file": "7 - Projects/ForkFlow/Relationships.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "Entity Relationship Diagram.mermaid"
+              "icon": "lucide-file",
+              "title": "Relationships"
             }
           }
         ]
@@ -195,6 +197,8 @@
   },
   "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
+    "7 - Projects/ForkFlow/Relationships.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/FileSystem.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/magic-ui.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/Untitled.md",
@@ -220,8 +224,6 @@
     "7 - Projects/Kitchen Pantry CRM/NPM Tools Cheatsheet for Technical Debt Detection.md",
     "7 - Projects/Kitchen Pantry CRM/old user.md",
     "7 - Projects/Kitchen Pantry CRM/Testing.md",
-    "7 - Projects/Kitchen Pantry CRM/task25 plan.md",
-    "7 - Projects/Kitchen Pantry CRM/Untitled.md",
     "6 - Full Notes/Claude-Code/Memories",
     "7 - Projects/Kitchen Pantry CRM/Context",
     "6 - Full Notes/Perplexity - Space",
