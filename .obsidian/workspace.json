@@ -11,14 +11,12 @@
             "id": "7035cf4e6353b5f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Daily Notes/Jun  25, 2025.md",
-                "mode": "source",
-                "source": false
+                "file": "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md"
               },
-              "icon": "lucide-file",
-              "title": "Jun  25, 2025"
+              "icon": "excalidraw-icon",
+              "title": "Entity Relationship Diagram.mermaid"
             }
           }
         ]
@@ -197,8 +195,11 @@
   },
   "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
-    "6 - Full Notes/Coding NOTES/Coding Rules.md",
+    "7 - Projects/MCP Tool Discovery Project/MCP Tools/FileSystem.md",
+    "7 - Projects/MCP Tool Discovery Project/MCP Tools/magic-ui.md",
+    "7 - Projects/MCP Tool Discovery Project/MCP Tools/Untitled.md",
     "Daily Notes/Jun  25, 2025.md",
+    "6 - Full Notes/Coding NOTES/Coding Rules.md",
     "6 - Full Notes/Coding NOTES/General Learning Techniques.md",
     "6 - Full Notes/Coding NOTES/Steps to Fixing Coding Errors.md",
     "6 - Full Notes/Coding NOTES/Untitled.md",
@@ -221,9 +222,6 @@
     "7 - Projects/Kitchen Pantry CRM/Testing.md",
     "7 - Projects/Kitchen Pantry CRM/task25 plan.md",
     "7 - Projects/Kitchen Pantry CRM/Untitled.md",
-    "Daily Notes/Jun  23, 2025.md",
-    "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
-    "7 - Projects/Kitchen Pantry CRM/Creds.md",
     "6 - Full Notes/Claude-Code/Memories",
     "7 - Projects/Kitchen Pantry CRM/Context",
     "6 - Full Notes/Perplexity - Space",
