@@ -160,3 +160,9 @@
 - **Interaction Types**: Email, Call, In Person, Demo/Sampled, Quoted Price, Follow-up
     
 - **Pipeline Stages**: Lead Discovery, Contacted, Sampled/Visited, Follow-up, Close
+
+ Organization (Restaurant Business)
+  ├── Contacts (Decision Makers with Influence Levels)
+  ├── Opportunities (Product Sales Pipeline)
+  │   └── Interactions (6 Types: Email/Call/Visit/Demo/Quote/Follow-up)
+  └── Products (11 Principal Brands)
