@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/Relationships.md",
+                "file": "7 - Projects/ForkFlow/Creds.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Relationships"
+              "title": "Creds"
             }
           }
         ]
@@ -197,6 +197,12 @@
   },
   "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
+    "7 - Projects/ForkFlow/Creds.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/Wireframes & Interface Mockups.html.md",
+    "7 - Projects/ForkFlow/Relationships.md",
     "7 - Projects/Kitchen Pantry CRM/Context/Untitled.md",
     "7 - Projects/ForkFlow/SIte Map/Reports Page.md",
     "7 - Projects/ForkFlow/SIte Map/Product Page.md",
@@ -208,8 +214,6 @@
     "7 - Projects/Kitchen Pantry CRM/Context/User Walkthrough.md",
     "7 - Projects/ForkFlow/SIte Map",
     "Daily Notes/Jun  28, 2025.md",
-    "7 - Projects/ForkFlow/Relationships.md",
-    "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/FileSystem.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/magic-ui.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/Untitled.md",
@@ -220,10 +224,6 @@
     "6 - Full Notes/Coding NOTES/Untitled.md",
     "7 - Projects/ForkFlow/NEW UI DESIGN.md",
     "7 - Projects/ForkFlow/NEW PRD-TXT.md",
-    "7 - Projects/ForkFlow/New Tech Stack Plan.md",
-    "5 -Templates/Coding Project Template/3.Plan & Features.md",
-    "6 - Full Notes/Claude/PROMPT- Issue Analysis & Resolution Request.md",
-    "6 - Full Notes/Claude-Code/Memories/Research Errors.md",
     "7 - Projects/ForkFlow",
     "6 - Full Notes/Claude-Code/Memories",
     "7 - Projects/Kitchen Pantry CRM/Context",
