@@ -1,4 +1,4 @@
-cd /mnt/r/Projects/PantryCRM
+cd /mnt/r/Projects/ForkFlow-crm
 
 **First, let's see what Claude Code is trying to load**
 claude /mcp
