@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/SIte Map/Logon Page.md",
+                "file": "7 - Projects/ForkFlow/SIte Map/Admin Settings Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logon Page"
+              "title": "Admin Settings Page"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
-    "Daily Notes/Jul  02, 2025.md",
     "7 - Projects/ForkFlow/SIte Map/Logon Page.md",
+    "7 - Projects/ForkFlow/SIte Map/Admin Settings Page.md",
+    "Daily Notes/Jul  02, 2025.md",
     "6 - Full Notes/Claude-Code/CheatSheet.md",
     "6 - Full Notes/Claude-Code/Memories/Research Errors.md",
     "7 - Projects/ForkFlow/Creds.md",
@@ -227,7 +228,6 @@
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/FileSystem.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/magic-ui.md",
     "7 - Projects/MCP Tool Discovery Project/MCP Tools/Untitled.md",
-    "Daily Notes/Jun  25, 2025.md",
     "7 - Projects/ForkFlow",
     "6 - Full Notes/Claude-Code/Memories",
     "7 - Projects/Kitchen Pantry CRM/Context",
