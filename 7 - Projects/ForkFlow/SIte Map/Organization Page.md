@@ -1,4 +1,4 @@
-
+using the current tech stack in forkflow create different layouts that would be ideal for view and sorting many organizations, quickly inserting a new organization and easy access to filters
 
 #### **Organization**
 
