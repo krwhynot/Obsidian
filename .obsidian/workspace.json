@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/SIte Map/Organization Page.md",
+                "file": "7 - Projects/ForkFlow/SIte Map/Contact Page.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Organization Page"
-            }
-          },
-          {
-            "id": "027b70fe5dae9fa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Interactions Page"
+              "title": "Contact Page"
             }
           }
         ]
@@ -211,13 +197,13 @@
   },
   "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
-    "7 - Projects/ForkFlow/SIte Map/Admin Settings Page.md",
     "7 - Projects/ForkFlow/SIte Map/Organization Page.md",
+    "7 - Projects/ForkFlow/SIte Map/Contact Page.md",
+    "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
+    "7 - Projects/ForkFlow/SIte Map/Admin Settings Page.md",
     "7 - Projects/Kitchen Pantry CRM/Context/User Walkthrough.md",
     "7 - Projects/ForkFlow/SIte Map/Home Page.md",
     "7 - Projects/ForkFlow/SIte Map/Reports Page.md",
-    "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
-    "7 - Projects/ForkFlow/SIte Map/Contact Page.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",

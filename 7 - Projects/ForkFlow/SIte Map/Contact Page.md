@@ -12,8 +12,22 @@ Clicking a contact opens their detailed profile showing:
 - Organization affiliation
 - Interaction history
 - Notes about preferences or important details
-- Direct links to create new interactions
+- Direct link to create new interactions
 
+**Contacts Info:**
+- Priority/ same as Organization Priority Letter from the Organization Page
+- First and Last Name
+- Organization/ (Dropdown)/ full list comes from the Organization Page
+- Position / (Dropdown)/ List comes from Settings Page
+- Email
+- Phone # 
+- ACCT. MANAGER / (Dropdown)/ one from Employee List
+- Linkedin
+- Street 
+- City 
+- State
+- Zip
+- Notes / Text Field
 
 
 
