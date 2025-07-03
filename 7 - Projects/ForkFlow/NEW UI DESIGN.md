@@ -22,72 +22,21 @@
 ### 1.2 Design Principles
 
 - **Mobile-First:** Optimized for smartphone usage in the field
-
 - **Touch-Friendly:** Large tap targets (minimum 44px) and swipe gestures
-
 - **Fast Loading:** Minimal visual complexity for quick loading on mobile networks
-
 - **Professional:** Clean, business-appropriate aesthetic that builds trust
-
-- **Accessible:** WCAG 2.1 AA compliant for universal usability
-
 - **Consistent:** Unified patterns across all screens and interactions
-
-  
-
----
-
-  
-
-## 2. Recommended Free/Open Source Component Libraries
-
-  
-
-### 2.1 Primary Free Stack (Recommended)
-
-  
-
-#### **shadcn/ui - Core Components**
-
-- **Role:** Primary component foundation
-
-- **Cost:** 100% Free and open source
-
-- **Why:** Modern, accessible, highly customizable components
-
-- **Coverage:** Forms, navigation, cards, modals, tables, layouts
-
-- **GitHub:** 50k+ stars, actively maintained
 
   
 
 #### **Tremor - Data Visualization**
 
 - **Role:** Charts and analytics components
-
 - **Cost:** 100% Free and open source
-
 - **Why:** Mobile-responsive charts built specifically for dashboards
-
 - **Coverage:** KPI cards, bar charts, line charts, data tables
-
 - **GitHub:** 15k+ stars, Vercel-backed
 
-  
-
-#### **DaisyUI - Theme System**
-
-- **Role:** Consistent theming and utility components
-
-- **Cost:** 100% Free and open source
-
-- **Why:** 60+ components with professional themes
-
-- **Coverage:** Buttons, alerts, badges, loading states, theming
-
-- **GitHub:** 30k+ stars, very popular
-
-  
 
 ### 2.2 Alternative Free Stacks
 
@@ -96,28 +45,11 @@
 #### **Option A: Headless UI + Heroicons + Tremor**
 
 - **Headless UI:** Unstyled, accessible components by Tailwind team
-
 - **Heroicons:** Beautiful SVG icons (also by Tailwind team)
-
 - **Tremor:** Charts and data visualization
-
 - **Total Cost:** 100% Free
 
-  
-
-#### **Option B: Mantine + Tabler Icons**
-
-- **Mantine:** Full-featured component library with Tailwind support
-
-- **Tabler Icons:** 4000+ free SVG icons
-
-- **Total Cost:** 100% Free
-
-- **Note:** More opinionated styling, great for rapid development
-
-  
-
----
+    
 
   
 
@@ -132,47 +64,27 @@
 /* Primary Brand Colors */
 
 --color-primary-50: #eff6ff;   /* Very light blue */
-
 --color-primary-100: #dbeafe;  /* Light blue */
-
 --color-primary-500: #3b82f6;  /* Main brand blue */
-
 --color-primary-600: #2563eb;  /* Darker blue */
-
 --color-primary-700: #1d4ed8;  /* Dark blue */
-
---color-primary-900: #1e3a8a;  /* Very dark blue */
-
-  
+--color-primary-900: #1e3a8a;  /* Very dark blue */  
 
 /* Success Colors */
 
 --color-success-50: #f0fdf4;   /* Light green background */
-
 --color-success-500: #22c55e;  /* Success green */
-
---color-success-700: #15803d;  /* Dark success green */
-
-  
+--color-success-700: #15803d;  /* Dark success green */  
 
 /* Warning Colors */
-
 --color-warning-50: #fffbeb;   /* Light amber background */
-
 --color-warning-500: #f59e0b;  /* Warning amber */
-
---color-warning-700: #b45309;  /* Dark warning amber */
-
-  
+--color-warning-700: #b45309;  /* Dark warning amber */  
 
 /* Error Colors */
-
 --color-error-50: #fef2f2;     /* Light red background */
-
 --color-error-500: #ef4444;    /* Error red */
-
 --color-error-700: #c53030;    /* Dark error red */
-
 ```
 
   
@@ -182,27 +94,16 @@
 ```css
 
 /* Gray Scale */
-
 --color-gray-50: #f9fafb;      /* Very light gray */
-
 --color-gray-100: #f3f4f6;     /* Light gray */
-
 --color-gray-200: #e5e7eb;     /* Border gray */
-
 --color-gray-300: #d1d5db;     /* Input border */
-
 --color-gray-400: #9ca3af;     /* Placeholder text */
-
 --color-gray-500: #6b7280;     /* Secondary text */
-
 --color-gray-600: #4b5563;     /* Primary text */
-
 --color-gray-700: #374151;     /* Dark text */
-
 --color-gray-800: #1f2937;     /* Very dark text */
-
 --color-gray-900: #111827;     /* Heading text */
-
 ```
 
   
@@ -210,20 +111,12 @@
 ### 3.3 Usage Guidelines
 
 - **Primary Blue:** Main actions, links, active states
-
 - **Success Green:** Completed visits, successful actions
-
 - **Warning Amber:** Overdue follow-ups, attention needed
-
 - **Error Red:** Failed actions, validation errors
-
 - **Gray Scale:** Text hierarchy, backgrounds, borders
 
-  
-
----
-
-  
+    
 
 ## 4. Typography
 
