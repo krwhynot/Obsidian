@@ -13,6 +13,19 @@ When adding a new interaction, you'll:
 4. Set any follow-up tasks
 5. Update the opportunity status if needed
 
+ 
+PRIORITY (Formula)
+DATE
+INTERACTION  (Dropdown)
+Organizations 
+ACCT.    MANAGER(Dropdown)
+OPPORTUNITY NAME/ Comes from Opportunity Page
+CONTACT  (Dropdown)
+PRINCIPAL
+NOTES
+
+Interaction can
+
 #### **Interaction**
 
 - `id` (Primary Key)    

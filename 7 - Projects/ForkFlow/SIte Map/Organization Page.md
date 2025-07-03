@@ -18,6 +18,7 @@ ORG DATA FIELDS
 - DISTRIBUTOR/ (Dropdown)/ Allowed to choose many
 - PRIMARY ACCT. MANAGER / (Dropdown)/ one from Employee List
 - SECONDARY ACCT. MANAGER / (Dropdown)/ one from Employee List(cant be same as Primary)
+- Principal Checkbox
 - Website
 - Business Phone # 
 - Address
