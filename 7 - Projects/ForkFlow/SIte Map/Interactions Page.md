@@ -24,7 +24,7 @@ CONTACT  (Dropdown)
 PRINCIPAL
 NOTES
 
-Interaction can
+Interaction can have multiple Contacts. Use a method that a principal can be quickly added.
 
 #### **Interaction**
 

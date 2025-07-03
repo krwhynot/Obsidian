@@ -7,11 +7,12 @@
 - STAGE  (Dropdown) List comes from Settings Page
 - EXP. SOLD
 - PROBABILITY
-- PRINCIPAL (Dropdown) List comes from Organization Page If checkbox is checked 
+- PRINCIPAL (Dropdown) List comes from Organization Page with organization that have principal checkbox checked 
 - PRODUCT (Dropdown)List comes from Product Page
 - CASES  Per Week
 - VOLUME
 - DEAL OWNER  (Dropdown) List of Account Manager
+- Interactions history 
 - Notes
 
 

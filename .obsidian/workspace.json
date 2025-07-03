@@ -63,8 +63,7 @@
               "title": "Organization Page"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -238,8 +238,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4f6aa0a56f9cc36e",
+  "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
+    "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
     "7 - Projects/ForkFlow/SIte Map/Opportunities Page.md",
     "7 - Projects/ForkFlow/SIte Map/Organization Page.md",
     "7 - Projects/ForkFlow/SIte Map/Contact Page.md",
@@ -249,7 +250,6 @@
     "7 - Projects/Kitchen Pantry CRM/Context/User Walkthrough.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
     "7 - Projects/ForkFlow/NEW UI DESIGN.md",
-    "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
     "7 - Projects/ForkFlow/SIte Map/Admin Settings Page.md",
     "7 - Projects/ForkFlow/SIte Map/Home Page.md",
     "7 - Projects/ForkFlow/SIte Map/Reports Page.md",
