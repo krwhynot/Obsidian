@@ -1,3 +1,14 @@
+Dashboard (Home Page) When you first log in, you'll land on your personalized dashboard. Here you'll see:
+
+- Your high-priority tasks for the week
+- Recent interactions that need follow-up
+- Upcoming meetings or scheduled interactions
+- A quick view of your A-priority organizations
+- Weekly goals and progress tracking
+
+The dashboard has a clean navigation bar at the top with access to all main sections: Organizations, Contacts, Interactions, and Reports.
+
+-----
 
 
 

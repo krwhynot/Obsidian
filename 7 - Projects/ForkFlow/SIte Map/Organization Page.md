@@ -1,4 +1,46 @@
 using the current tech stack in forkflow create different layouts that would be ideal for view and sorting many organizations, quickly inserting a new organization and easy access to filters
+-
+**Organizations Page** Think of this as your main hub for company management. When you click into Organizations, you'll see a data grid showing all organizations you're managing. You can:
+
+- Sort by priority (A-D)
+- Filter by segment (Fine Dining, Healthcare, etc.)
+- Search by organization name
+- View which distributors they're using
+
+When you click on an organization, you'll see their detailed profile page showing:
+
+**Business Info Section:**
+ORG DATA FIELDS
+(All dropdowns are dynamic and new options can be added from the settings page)
+- Organization Name
+- PRIORITY-FOCUS/ (Dropdown)/ (A-D) A-highest 
+- SEGMENT/ (Dropdown)/ Allowed to choose many
+- DISTRIBUTOR/ (Dropdown)/ Allowed to choose many
+- PRIMARY ACCT. MANAGER / (Dropdown)/ one from Employee List
+- SECONDARY ACCT. MANAGER / (Dropdown)/ one from Employee List(cant be same as Primary)
+- Website
+- Business Phone # 
+- Address
+	- Street
+	- City
+	- State
+	- Zip Code
+- Notes /text field
+
+ **Contact Section:**
+- A list of all contacts within that organization(data will come from Contacts page)
+
+**Interaction Section:**
+- Recent interactions history(data from Interaction page)
+
+**Opportunity Section:**
+- Current opportunities status (data from Opportunities Page)
+
+
+The "Add New Organization" button is prominently displayed for quick data entry.
+
+
+
 
 #### **Organization**
 

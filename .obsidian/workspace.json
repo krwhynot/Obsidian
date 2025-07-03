@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Context/User Walkthrough.md",
+                "file": "7 - Projects/ForkFlow/SIte Map/Organization Page.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "User Walkthrough"
+              "title": "Organization Page"
+            }
+          },
+          {
+            "id": "027b70fe5dae9fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Interactions Page"
             }
           }
         ]
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.01487731933594
+    "width": 200
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -197,6 +211,13 @@
   },
   "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
+    "7 - Projects/ForkFlow/SIte Map/Admin Settings Page.md",
+    "7 - Projects/ForkFlow/SIte Map/Organization Page.md",
+    "7 - Projects/Kitchen Pantry CRM/Context/User Walkthrough.md",
+    "7 - Projects/ForkFlow/SIte Map/Home Page.md",
+    "7 - Projects/ForkFlow/SIte Map/Reports Page.md",
+    "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
+    "7 - Projects/ForkFlow/SIte Map/Contact Page.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
@@ -205,17 +226,11 @@
     "7 - Projects/Kitchen Pantry CRM/Testing.md",
     "7 - Projects/Kitchen Pantry CRM/Creds.md",
     "7 - Projects/ForkFlow/NEW UI DESIGN.md",
-    "7 - Projects/ForkFlow/SIte Map/Organization Page.md",
     "7 - Projects/ForkFlow/Relationships.md",
-    "7 - Projects/ForkFlow/SIte Map/Home Page.md",
     "7 - Projects/ForkFlow/NEW PRD-TXT.md",
     "7 - Projects/ForkFlow/New Tech Stack Plan.md",
-    "7 - Projects/ForkFlow/SIte Map/Admin Settings Page.md",
-    "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
-    "7 - Projects/ForkFlow/SIte Map/Reports Page.md",
     "7 - Projects/ForkFlow/SIte Map/Opportunities Page.md",
     "7 - Projects/ForkFlow/SIte Map/Product Page.md",
-    "7 - Projects/ForkFlow/SIte Map/Contact Page.md",
     "7 - Projects/ForkFlow/SIte Map/Logon Page.md",
     "Daily Notes/Jul  02, 2025.md",
     "6 - Full Notes/Claude-Code/CheatSheet.md",
@@ -226,7 +241,6 @@
     "2 - Source Material/Meta/Attachments",
     "2 - Source Material/Meta",
     "7 - Projects/Kitchen Pantry CRM/Context/Untitled.md",
-    "7 - Projects/Kitchen Pantry CRM/Context/User Walkthrough.md",
     "7 - Projects/ForkFlow/SIte Map",
     "7 - Projects/ForkFlow",
     "6 - Full Notes/Claude-Code/Memories",

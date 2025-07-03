@@ -93,7 +93,6 @@ Search Functionality The global search bar at the top allows you to quickly find
 Profile and Settings Your profile page lets you:
 
 - Update your account information
-- Set notification preferences
 - Customize your dashboard layout
 - Manage your task list
 - Set personal goals and tracking
