@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/Tech/Migration/PROMPT-File Structure.md",
+                "file": "7 - Projects/ForkFlow/File Structure/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PROMPT-File Structure"
+              "title": "Untitled"
             }
           },
           {
@@ -240,9 +240,11 @@
   },
   "active": "52d9ee226bf49d72",
   "lastOpenFiles": [
+    "7 - Projects/ForkFlow/Tech/Migration/PROMPT-File Structure.md",
+    "7 - Projects/ForkFlow/File Structure/Untitled.md",
+    "7 - Projects/ForkFlow/File Structure",
     "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
     "7 - Projects/ForkFlow/Tech/Tech Summary.md",
-    "7 - Projects/ForkFlow/Tech/Migration/PROMPT-File Structure.md",
     "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
     "7 - Projects/ForkFlow/New Tech Stack Plan.md",
     "7 - Projects/ForkFlow/Tech/Current Status.md",
@@ -267,7 +269,6 @@
     "7 - Projects/ForkFlow/SIte Map/Home Page.md",
     "7 - Projects/ForkFlow/SIte Map/Reports Page.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
-    "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629170227.png",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629164136.png",
     "2 - Source Material/Meta/Attachments",
@@ -277,7 +278,6 @@
     "6 - Full Notes/Claude-Code/Memories",
     "7 - Projects/Kitchen Pantry CRM/Context",
     "6 - Full Notes/Perplexity - Space",
-    "6 - Full Notes/Coding NOTES/Code Review",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
