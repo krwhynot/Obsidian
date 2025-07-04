@@ -1,4 +1,4 @@
-Dashboard (Home Page) When you first log in, you'll land on your personalized dashboard. Here you'll see:
+Dashboard (Home Page) When you first log in, you'll land on your personalized Account manager dashboard. Here you'll see:
 
 - Your high-priority tasks for the week
 - Recent interactions that need follow-up
@@ -6,7 +6,7 @@ Dashboard (Home Page) When you first log in, you'll land on your personalized da
 - A quick view of your A-priority organizations
 - Weekly goals and progress tracking
 
-The dashboard has a clean navigation bar at the top with access to all main sections: Organizations, Contacts, Interactions, and Reports.
+The dashboard has a clean navigation bar at the top with access to all main sections: Organizations, Contacts, Opportunities, Interactions, Products and Reports.
 
 -----
 
@@ -18,7 +18,7 @@ AccountManager Dashboard
 - Week's Total Opportunities by Stage Chart- Bar Graph sorted by Principal showing the Week's Total Opportunities per Stage
 - Kanban chart of all the stages. Listed under each stage is Organization Name 
 
-he'll see the AdminDashboard featuring:
+ the AdminDashboard featuring:
 
   - 🔧 Administrator Dashboard header with admin role chip
   - 📊 Deals Chart - Visual analytics
