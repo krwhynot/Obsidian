@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mcp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,12 +116,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -240,8 +240,10 @@
   },
   "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
-    "7 - Projects/ForkFlow/SIte Map/Opportunities Page.md",
+    "6 - Full Notes/Claude-Code/claude-changelog.md.md",
+    "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
     "Daily Notes/Jul  03, 2025.md",
+    "7 - Projects/ForkFlow/SIte Map/Opportunities Page.md",
     "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
     "7 - Projects/ForkFlow/SIte Map/Organization Page.md",
     "7 - Projects/ForkFlow/SIte Map/Contact Page.md",
@@ -264,8 +266,6 @@
     "7 - Projects/ForkFlow/NEW PRD-TXT.md",
     "7 - Projects/ForkFlow/New Tech Stack Plan.md",
     "7 - Projects/ForkFlow/SIte Map/Product Page.md",
-    "7 - Projects/ForkFlow/SIte Map/Logon Page.md",
-    "Daily Notes/Jul  02, 2025.md",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629170227.png",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629164136.png",
     "2 - Source Material/Meta/Attachments",
