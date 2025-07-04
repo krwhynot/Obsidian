@@ -123,54 +123,54 @@ Here is a **full checklist** of all files still importing from `@mui/material` o
 - [x] **src/opportunities/OpportunityShow.tsx**
   - Line 25: `} from '@mui/material';`
   - Line 36: `} from '@mui/icons-material';`
-- [ ] **src/organizations/show/OrganizationShow.tsx**
+- [x] **src/organizations/show/OrganizationShow.tsx**
   - Line 15: `import { Button as MuiButton, Dialog, DialogContent } from '@mui/material';`
   - Line 30: `} from '@mui/icons-material';`
-- [ ] **src/organizations/list/AdvancedOrganizationFilter.tsx**
+- [x] **src/organizations/list/AdvancedOrganizationFilter.tsx**
   - Line 19: `} from '@mui/material';`
   - Line 26: `} from '@mui/icons-material';`
-- [ ] **src/organizations/list/EnhancedOrganizationList.tsx**
+- [x] **src/organizations/list/EnhancedOrganizationList.tsx**
   - Line 15: `import { Stack, Button, Dialog, DialogContent, Box, Chip } from '@mui/material';`
   - Line 20: `} from '@mui/icons-material';`
-- [ ] **src/organizations/list/OrganizationCards.tsx**
+- [x] **src/organizations/list/OrganizationCards.tsx**
   - Line 22: `} from '@mui/icons-material';`
-- [ ] **src/organizations/list/OrganizationEmpty.tsx**
+- [x] **src/organizations/list/OrganizationEmpty.tsx**
   - Line 1: `import BusinessIcon from '@mui/icons-material/Business';`
-- [ ] **src/organizations/list/OrganizationKanban.tsx**
+- [x] **src/organizations/list/OrganizationKanban.tsx**
   - Line 14: `} from '@mui/material';`
   - Line 22: `} from '@mui/icons-material';`
-- [ ] **src/organizations/list/OrganizationList.tsx**
+- [x] **src/organizations/list/OrganizationList.tsx**
   - Line 19: `import { Dialog, DialogContent, useMediaQuery, useTheme } from '@mui/material';`
   - Line 23: `} from '@mui/icons-material';`
-- [ ] **src/organizations/list/OrganizationMapView.tsx**
+- [x] **src/organizations/list/OrganizationMapView.tsx**
   - Line 26: `} from '@mui/material';`
   - Line 44: `} from '@mui/icons-material';`
-- [ ] **src/organizations/list/OrganizationTable.tsx**
+- [x] **src/organizations/list/OrganizationTable.tsx**
   - Line 15: `} from '@mui/material';`
   - Line 20: `} from '@mui/icons-material';`
-- [ ] **src/organizations/list/VirtualizedOrganizationTable.tsx**
+- [x] **src/organizations/list/VirtualizedOrganizationTable.tsx**
   - Line 17: `} from '@mui/material';`
   - Line 22: `} from '@mui/icons-material';`
-- [ ] **src/organizations/form/OrganizationInputs.tsx**
+- [x] **src/organizations/form/OrganizationInputs.tsx**
   - Line 1: `import { Divider, useMediaQuery, useTheme } from '@mui/material';`
   - Line 2: `import { LocationOn as LocationIcon } from '@mui/icons-material';`
-- [ ] **src/organizations/common/VoiceInput.tsx**
+- [x] **src/organizations/common/VoiceInput.tsx**
   - Line 16: `} from '@mui/material';`
   - Line 25: `} from '@mui/icons-material';`
-- [ ] **src/organizations/common/ViewModeRenderer.tsx**
+- [x] **src/organizations/common/ViewModeRenderer.tsx**
   - Line 1: `import { Box, CircularProgress, Fade } from '@mui/material';`
-- [ ] **src/organizations/form/steps/BasicInfoStep.tsx**
+- [x] **src/organizations/form/steps/BasicInfoStep.tsx**
   - Line 8: `} from '@mui/material';`
   - Line 28: `} from '@mui/icons-material';`
-- [ ] **src/organizations/form/steps/BusinessDetailsStep.tsx**
+- [x] **src/organizations/form/steps/BusinessDetailsStep.tsx**
   - Line 9: `} from '@mui/material';`
   - Line 28: `} from '@mui/icons-material';`
-- [ ] **src/organizations/form/steps/ValidationProvider.tsx**
+- [x] **src/organizations/form/steps/ValidationProvider.tsx**
   - Line 10: `} from '@mui/material';`
   - Line 15: `} from '@mui/icons-material';`
-- [ ] **src/organizations/form/steps/ContactDetailsStep.tsx**
+- [x] **src/organizations/form/steps/ContactDetailsStep.tsx**
   - Line 22: `} from '@mui/icons-material';`
-- [ ] **src/organizations/common/SmartKeyboard.tsx**
+- [x] **src/organizations/common/SmartKeyboard.tsx**
   - Line 15: `} from '@mui/material';`
 
 ---
