@@ -38,32 +38,32 @@ Here is a **full checklist** of all files still importing from `@mui/material` o
   - Line 11: `} from '@mui/material';`
 - [ ] **src/tags/TagDialog.tsx**
   - Line 0: `import ContentSave from '@mui/icons-material/Save';`
-- [x] **src/settings/SettingsEdit.tsx**
+- [ ] **src/settings/SettingsEdit.tsx**
   - Line 12: `import { CardContent, Grid } from '@mui/material';`
-- [x] **src/settings/SettingsCreate.tsx**
+- [ ] **src/settings/SettingsCreate.tsx**
   - Line 15: `import { CardContent, Grid, Box, Typography, Alert } from '@mui/material';`
-- [x] **src/settings/SettingsBulkOperations.tsx**
+- [ ] **src/settings/SettingsBulkOperations.tsx**
   - Line 16: `} from '@mui/material';`
   - Line 24: `} from '@mui/icons-material';`
-- [x] **src/settings/SettingsAdminDashboard.tsx**
+- [ ] **src/settings/SettingsAdminDashboard.tsx**
   - Line 13: `} from '@mui/material';`
   - Line 28: `} from '@mui/icons-material';`
-- [x] **src/settings/PrincipalManager.tsx**
+- [ ] **src/settings/PrincipalManager.tsx**
   - Line 26: `} from '@mui/material';`
   - Line 27: `import { DragIndicator, Visibility, VisibilityOff } from '@mui/icons-material';`
-- [x] **src/security/SessionManager.tsx**
+- [ ] **src/security/SessionManager.tsx**
   - Line 29: `} from '@mui/material';`
   - Line 43: `} from '@mui/icons-material';`
-- [x] **src/security/SecurityTestSuite.tsx**
+- [ ] **src/security/SecurityTestSuite.tsx**
   - Line 22: `} from '@mui/material';`
   - Line 38: `} from '@mui/icons-material';`
-- [x] **src/security/SecurityPolicyManager.tsx**
+- [ ] **src/security/SecurityPolicyManager.tsx**
   - Line 27: `} from '@mui/material';`
   - Line 40: `} from '@mui/icons-material';`
-- [x] **src/security/SecurityDashboard.tsx**
+- [ ] **src/security/SecurityDashboard.tsx**
   - Line 15: `} from '@mui/material';`
   - Line 41: `} from '@mui/icons-material';`
-- [x] **src/security/SecurityAuditLog.tsx**
+- [ ] **src/security/SecurityAuditLog.tsx**
   - Line 56: `} from '@mui/icons-material';`
 - [ ] **src/security/MFASetup.tsx**
   - Line 42: `} from '@mui/icons-material';`
@@ -97,9 +97,9 @@ Here is a **full checklist** of all files still importing from `@mui/material` o
   - Line 22: `} from '@mui/icons-material';`
 - [x] **src/products/ProductBulkActions.tsx**
   - Line 12: `} from '@mui/icons-material';`
-- [ ] **src/opportunities/OpportunityCreate.tsx**
+- [x] **src/opportunities/OpportunityCreate.tsx**
   - Line 21: `} from '@mui/material';`
-- [ ] **src/opportunities/OpportunityListFilter.tsx**
+- [x] **src/opportunities/OpportunityListFilter.tsx**
   - Line 9: `import BusinessIcon from '@mui/icons-material/Business';`
   - Line 10: `import PersonIcon from '@mui/icons-material/Person';`
   - Line 11: `import TrendingUpIcon from '@mui/icons-material/TrendingUp';`
@@ -107,20 +107,20 @@ Here is a **full checklist** of all files still importing from `@mui/material` o
   - Line 13: `import AccountCircleIcon from '@mui/icons-material/AccountCircle';`
   - Line 14: `import PercentIcon from '@mui/icons-material/Percent';`
   - Line 15: `import DateRangeIcon from '@mui/icons-material/DateRange';`
-- [ ] **src/opportunities/OpportunityListContent.tsx**
+- [x] **src/opportunities/OpportunityListContent.tsx**
   - Line 1: `import { Box } from '@mui/material';`
-- [ ] **src/opportunities/OpportunityList.tsx**
+- [x] **src/opportunities/OpportunityList.tsx**
   - Line 12: `import { Card, Stack } from '@mui/material';`
-- [ ] **src/opportunities/OpportunityEmpty.tsx**
+- [x] **src/opportunities/OpportunityEmpty.tsx**
   - Line 1: `import TrendingUpIcon from '@mui/icons-material/TrendingUp';`
-- [ ] **src/opportunities/OpportunityEdit.tsx**
+- [x] **src/opportunities/OpportunityEdit.tsx**
   - Line 24: `} from '@mui/material';`
-- [ ] **src/opportunities/OpportunityColumn.tsx**
+- [x] **src/opportunities/OpportunityColumn.tsx**
   - Line 1: `import { Box, Chip, Paper, Typography } from '@mui/material';`
-- [ ] **src/opportunities/OpportunityCard.tsx**
+- [x] **src/opportunities/OpportunityCard.tsx**
   - Line 10: `} from '@mui/material';`
   - Line 17: `} from '@mui/icons-material';`
-- [ ] **src/opportunities/OpportunityShow.tsx**
+- [x] **src/opportunities/OpportunityShow.tsx**
   - Line 25: `} from '@mui/material';`
   - Line 36: `} from '@mui/icons-material';`
 - [ ] **src/organizations/show/OrganizationShow.tsx**
