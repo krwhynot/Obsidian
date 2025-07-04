@@ -6,7 +6,7 @@ This plan is structured for a **website-first** CRM that is highly usable and 
 
 - **Product:** Website-first CRM for food brokers, optimized for both desktop and mobile browsers.   
 - **Tech Stack:** React + react-admin + TypeScript + Tailwind CSS (frontend); Supabase (PostgreSQL, Auth,Storage, REST API) as backend.    
-- **Deployment:** Static frontend (Vercel/Netlify), managed backend (Supabase).    
+- **Deployment:** Static frontend (Vercel/Netlify/Coolify), managed backend (Supabase).    
 - **MVP Target:** 5 brokers, 500-1,000 customers, 10-25 visits/day.    
 
 ## 2. Product Strategy

@@ -10,10 +10,9 @@ Scan the provided codebase and determine the current migration status from Mater
 3. Usage patterns of new components or utility classes (e.g., `@/components/ui-kit`, Tailwind classnames).
 4. Any inconsistencies or mixed usage that may indicate partial migration.
 
-Then, propose which of the following strategies is best based on findings:
+Then, usethe following strategies on findings:
 - A) Complete foundational UI kit first
-- B) Migrate module-by-module
-- C) Migrate by component type
+
 
 Conclude your response with:
 - A summary of your findings

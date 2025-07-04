@@ -11,7 +11,6 @@ ForkFlow-CRM is a web-first, mobile-friendly CRM designed for food brokers who v
   - Modern, component-based UI with strong type safety.
 - **UI Libraries:**  
   - **react-admin:** For admin-style CRUD interfaces and resource management.
-  - **shadcn/ui, DaisyUI, Tremor:** For reusable, accessible UI components and charts.
   - **Tailwind CSS:** Utility-first CSS for rapid, responsive, and mobile-first design.
 - **Maps:**  
   - **Google Maps JavaScript API:** For displaying and interacting with customer locations.
