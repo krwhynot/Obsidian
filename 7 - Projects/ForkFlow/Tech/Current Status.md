@@ -63,19 +63,19 @@ The migration is about 60–70% complete. The foundational UI kit is in place, b
 
 ---
 
-**1. Audit the UI kit**
+X**1. Audit the UI kit**
    - Ensure all foundational components (Button, Card, Typography, Dialog, Chip, Stack, Tooltip, Alert, Avatar, etc.) are implemented.
    - Confirm each supports all required variants, props, and accessibility features.
 
-**2. Document usage patterns**
+X**2. Document usage patterns**
    - Write clear documentation for each UI kit component.
    - Include migration guidelines and code examples for replacing MUI components.
 
-**3. Identify migration targets**
+X**3. Identify migration targets**
    - List all files still importing from `@mui/material` or `@mui/icons-material`.
    - Prioritize files by usage frequency and UI impact.
 
-**4. Migrate component usage**
+X**4. Migrate component usage**
    - For each target file, replace MUI components with UI kit equivalents.
    - Refactor props and styles to match the new system.
    - Remove MUI-specific props (e.g., `variant`, `gutterBottom`).

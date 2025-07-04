@@ -10,7 +10,6 @@ Here is a **full checklist** of all files still importing from `@mui/material` o
 - Refactor props and styles to match the new system.
 - Remove MUI-specific props (e.g., `variant`, `gutterBottom`).
 - After all files are migrated, delete all `@mui/material` and `@mui/icons-material` imports.
-- 
  
 - [ ] **src/visits/VisitShow.tsx**
   - Line 20: `import { Divider } from '@mui/material';`

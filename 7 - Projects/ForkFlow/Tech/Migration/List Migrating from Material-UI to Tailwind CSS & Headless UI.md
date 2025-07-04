@@ -6,26 +6,18 @@
 
 - **Audit current Material-UI usage**[1](https://stackoverflow.com/questions/69517348/can-i-use-tailwind-css-and-material-ui-mui-in-the-same-next-js-project)[2](https://www.reddit.com/r/reactjs/comments/1j75qn2/migrating_from_mui_to_tailwind_shadcn_any/)
     
-    - Create inventory of all MUI components used across the application
-        
-    - Document custom MUI theme configurations and overrides
-        
-    - Identify components with heavy customization using `sx` prop or `makeStyles`
-        
-    - Map out dependency tree and component relationships
-        
+    - Create inventory of all MUI components used across the application        
+    - Document custom MUI theme configurations and overrides        
+    - Identify components with heavy customization using `sx` prop or `makeStyles`        
+    - Map out dependency tree and component relationships        
     - Analyze bundle size impact and performance metrics
         
 - **Define migration strategy**[2](https://www.reddit.com/r/reactjs/comments/1j75qn2/migrating_from_mui_to_tailwind_shadcn_any/)[3](https://www.asserts.ai/blog/migrating-to-tailwind/)
     
-    - Choose between gradual migration vs. complete rewrite approach
-        
-    - Determine migration phases (critical components first vs. feature-by-feature)
-        
-    - Set up parallel development branches for testing
-        
-    - Establish rollback procedures for each migration phase
-        
+    - Choose between gradual migration vs. complete rewrite approach        
+    - Determine migration phases (critical components first vs. feature-by-feature)        
+    - Set up parallel development branches for testing        
+    - Establish rollback procedures for each migration phase        
 
 ## Component Library Selection
 
@@ -41,12 +33,9 @@
         
 - **Evaluate component coverage**[5](https://dev.to/fredy/top-5-free-tailwind-css-component-libraries-for-2024-117b)[8](https://www.radix-ui.com/primitives)
     
-    - Compare available components against current MUI usage
-        
-    - Identify gaps that require custom implementation
-        
-    - Assess accessibility compliance for each alternative
-        
+    - Compare available components against current MUI usage        
+    - Identify gaps that require custom implementation        
+    - Assess accessibility compliance for each alternative        
     - Review documentation quality and community support
         
 
@@ -56,22 +45,16 @@
 
 - **Install Tailwind CSS**[11](https://kir4n.hashnode.dev/mui-with-tailwind-css)[12](https://dev.to/tatleung/using-material-ui-with-nextjs-13-and-tailwind-css-2539)
     
-    - Set up Tailwind CSS with PostCSS configuration
-        
-    - Configure `tailwind.config.js` with project-specific settings
-        
-    - Install and configure chosen headless UI library
-        
+    - Set up Tailwind CSS with PostCSS configuration        
+    - Configure `tailwind.config.js` with project-specific settings        
+    - Install and configure chosen headless UI library        
     - Set up development tools (IntelliSense, extensions)
         
 - **Configure build system**[13](https://mui.com/material-ui/integrations/tailwindcss/tailwindcss-v4/)[1](https://stackoverflow.com/questions/69517348/can-i-use-tailwind-css-and-material-ui-mui-in-the-same-next-js-project)
     
-    - Update webpack/Vite configuration for CSS processing
-        
-    - Set up CSS layer ordering: `@layer theme, base, mui, components, utilities`[13](https://mui.com/material-ui/integrations/tailwindcss/tailwindcss-v4/)
-        
-    - Configure CSS injection order to prevent conflicts[11](https://kir4n.hashnode.dev/mui-with-tailwind-css)
-        
+    - Update webpack/Vite configuration for CSS processing        
+    - Set up CSS layer ordering: `@layer theme, base, mui, components, utilities`[13](https://mui.com/material-ui/integrations/tailwindcss/tailwindcss-v4/)        
+    - Configure CSS injection order to prevent conflicts[11](https://kir4n.hashnode.dev/mui-with-tailwind-css)        
     - Enable CSS optimization and purging for production builds
         
 
