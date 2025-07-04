@@ -6,7 +6,12 @@ Here is a **full checklist** of all files still importing from `@mui/material` o
 **Instructions:**  
 - Check off each file as you migrate it away from MUI.
 - For each line, replace the MUI import with the appropriate UI kit or icon library import, and refactor usage as needed.
+- For each target file, replace MUI components with UI kit equivalents.
+- Refactor props and styles to match the new system.
+- Remove MUI-specific props (e.g., `variant`, `gutterBottom`).
+- After all files are migrated, delete all `@mui/material` and `@mui/icons-material` imports.
 - 
+ 
 - [ ] **src/visits/VisitShow.tsx**
   - Line 20: `import { Divider } from '@mui/material';`
   - Line 26: `} from '@mui/icons-material';`

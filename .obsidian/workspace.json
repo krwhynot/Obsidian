@@ -13,54 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/Tech/Current Status.md",
+                "file": "7 - Projects/ForkFlow/Tech/Migration/Notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Current Status"
+              "title": "Notes"
             }
           },
           {
-            "id": "4f6aa0a56f9cc36e",
+            "id": "2491b996dea71d33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
+                "file": "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Interactions Page"
-            }
-          },
-          {
-            "id": "28b68e2be8c4c53c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Projects/ForkFlow/SIte Map/Contact Page.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Contact Page"
-            }
-          },
-          {
-            "id": "135ef749f222df40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Projects/ForkFlow/SIte Map/Organization Page.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Organization Page"
+              "title": "Checklist"
             }
           }
         ]
@@ -239,10 +211,10 @@
   },
   "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
-    "7 - Projects/ForkFlow/Tech/Summary.md",
-    "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
-    "7 - Projects/ForkFlow/Tech/Migration/Notes.md",
     "7 - Projects/ForkFlow/Tech/Current Status.md",
+    "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
+    "7 - Projects/ForkFlow/Tech/Tech Summary.md",
+    "7 - Projects/ForkFlow/Tech/Migration/Notes.md",
     "7 - Projects/ForkFlow/Tech/Migration",
     "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
     "7 - Projects/ForkFlow/Tech/Migration/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",
