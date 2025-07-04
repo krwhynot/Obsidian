@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/File Structure/Untitled.md",
+                "file": "7 - Projects/ForkFlow/File Structure/SIte Map/Admin Settings Page.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Admin Settings Page"
+            }
+          },
+          {
+            "id": "1c52130d08b290a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Projects/ForkFlow/Personal TODO.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Personal TODO"
             }
           },
           {
@@ -240,40 +254,40 @@
   },
   "active": "52d9ee226bf49d72",
   "lastOpenFiles": [
+    "7 - Projects/ForkFlow/File Structure/Main Structure.md",
+    "7 - Projects/ForkFlow/Personal TODO.md",
     "7 - Projects/ForkFlow/Tech/Migration/PROMPT-File Structure.md",
-    "7 - Projects/ForkFlow/File Structure/Untitled.md",
-    "7 - Projects/ForkFlow/File Structure",
+    "7 - Projects/ForkFlow/Tech/Migration/Notes.md",
     "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
+    "7 - Projects/ForkFlow/Tech/Current Status.md",
     "7 - Projects/ForkFlow/Tech/Tech Summary.md",
+    "7 - Projects/ForkFlow/File Structure",
     "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
     "7 - Projects/ForkFlow/New Tech Stack Plan.md",
-    "7 - Projects/ForkFlow/Tech/Current Status.md",
     "7 - Projects/ForkFlow/Tech/Migration/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",
-    "7 - Projects/ForkFlow/Tech/Migration/Notes.md",
     "7 - Projects/ForkFlow/Tech/Migration",
     "7 - Projects/ForkFlow/Tech",
     "Daily Notes/Jul  03, 2025.md",
     "6 - Full Notes/Claude-Code/claude-changelog.md.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
-    "7 - Projects/ForkFlow/SIte Map/Opportunities Page.md",
-    "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
-    "7 - Projects/ForkFlow/SIte Map/Organization Page.md",
-    "7 - Projects/ForkFlow/SIte Map/Contact Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Opportunities Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Interactions Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Organization Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Contact Page.md",
     "7 - Projects/Kitchen Pantry CRM/Context/CRM.md",
     "7 - Projects/Kitchen Pantry CRM/Context/Raw Context Info.md",
     "7 - Projects/Kitchen Pantry CRM/Context/Untitled.md",
     "7 - Projects/Kitchen Pantry CRM/Context/User Walkthrough.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
     "7 - Projects/ForkFlow/NEW UI DESIGN.md",
-    "7 - Projects/ForkFlow/SIte Map/Admin Settings Page.md",
-    "7 - Projects/ForkFlow/SIte Map/Home Page.md",
-    "7 - Projects/ForkFlow/SIte Map/Reports Page.md",
-    "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Admin Settings Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Reports Page.md",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629170227.png",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629164136.png",
     "2 - Source Material/Meta/Attachments",
     "2 - Source Material/Meta",
-    "7 - Projects/ForkFlow/SIte Map",
+    "7 - Projects/ForkFlow/File Structure/SIte Map",
     "7 - Projects/ForkFlow",
     "6 - Full Notes/Claude-Code/Memories",
     "7 - Projects/Kitchen Pantry CRM/Context",

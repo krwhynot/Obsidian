@@ -1,10 +1,5 @@
-<explanation>
-Here’s a beginner-friendly overview of your project’s file structure, what each part is for, and some improvement ideas.
-
----
-
 **Project Folder Tree**
-
+```
 `ForkFlow-crm/`
 `├── atomic-crm@0.0.2`
 `├── claude_prompt.md`
@@ -85,8 +80,7 @@ Here’s a beginner-friendly overview of your project’s file structure, what e
 `│   ├── setup/`
 `│   └── ...`
 `└── ...`
-
----
+```
 
 **What Each Folder Is For (Beginner-Friendly)**
 
