@@ -13,7 +13,10 @@ The dashboard has a clean navigation bar at the top with access to all main sect
 AccountManager Dashboard
 - Newly Added Contacts- List of the most Recent added Contacts
 - Dashboard Activity Log - System activity tracking
--Newly Added Products- List of the most recent added Products
+- Newly Added Products- List of the most recent added Products
+- Week's Interactions Chart- Filtered by Principal and Week
+- Week's Total Opportunities by Stage Chart- Bar Graph sorted by Principal showing the Week's Total Opportunities per Stage
+- Kanban chart of all the stages. Listed under each stage is Organization Name 
 
 he'll see the AdminDashboard featuring:
 

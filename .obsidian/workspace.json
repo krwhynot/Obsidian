@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "ce49459634f24cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Home Page"
+            }
+          },
+          {
             "id": "1c52130d08b290a8",
             "type": "leaf",
             "state": {
@@ -62,23 +76,9 @@
               "icon": "lucide-file",
               "title": "Personal TODO"
             }
-          },
-          {
-            "id": "49ee0b879393f63c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Projects/ForkFlow/Tech/Tech Summary.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tech Summary"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -252,10 +252,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "52d9ee226bf49d72",
+  "active": "ce49459634f24cff",
   "lastOpenFiles": [
-    "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
     "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Admin Settings Page.md",
     "7 - Projects/ForkFlow/File Structure/Main Structure.md",
     "7 - Projects/ForkFlow/Personal TODO.md",

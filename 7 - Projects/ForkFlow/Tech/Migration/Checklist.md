@@ -174,5 +174,118 @@ Here is a **full checklist** of all files still importing from `@mui/material` o
   - Line 15: `} from '@mui/material';`
 
 ---
+Here’s a **prioritized, grouped checklist** for your remaining MUI-to-UI-kit/Heroicons migration.  
+This order is designed to minimize breakage and maximize efficiency, starting with the most foundational/shared components and high-traffic features.
 
+---
+
+## 🟢 **Highest Priority (Core/Shared & High-Usage Features)**
+
+- [ ] **Shared Components & Utilities**
+  - [ ] `src/components/Typography/Typography.tsx`
+  - [ ] `src/common/LazyLoadingUtils.tsx`
+  - [ ] `src/misc/DialogCloseButton.tsx`
+  - [ ] `src/misc/Status.tsx`
+  - [ ] `src/misc/ContactOption.tsx`
+  - [ ] `src/misc/ImageEditorField.tsx`
+
+- [ ] **Authentication & Login**
+  - [ ] `src/login/UserProfilePage.tsx`
+  - [ ] `src/login/SetNewPasswordPage.tsx`
+  - [ ] `src/login/PasswordResetPage.tsx`
+  - [ ] `src/login/components/ProfileForm.tsx`
+  - [ ] `src/login/components/PasswordChangeForm.tsx`
+  - [ ] `src/login/components/SecuritySettings.tsx`
+
+---
+
+## 🟡 **High Priority (Organizations, Notes, Interactions)**
+
+- [ ] **Organizations**
+  - [ ] `src/organizations/list/OrganizationMapView.tsx`
+  - [ ] `src/organizations/form/steps/ValidationProvider.tsx`
+  - [ ] `src/organizations/form/steps/BusinessDetailsStep.tsx`
+  - [ ] `src/organizations/form/steps/BasicInfoStep.tsx`
+  - [ ] `src/organizations/form/MultiStepOrganizationEdit.tsx`
+  - [ ] `src/organizations/form/MultiStepOrganizationCreate.tsx`
+  - [ ] `src/organizations/form/MobileOrganizationCreate.tsx`
+  - [ ] `src/organizations/common/VoiceInput.tsx`
+  - [ ] `src/organizations/common/SmartKeyboard.tsx`
+  - [ ] `src/organizations/common/MobileFAB.tsx`
+  - [ ] `src/organizations/common/OrganizationCard.tsx`
+  - [ ] `src/organizations/common/LayoutSelector.tsx`
+
+- [ ] **Notes**
+  - [ ] `src/notes/StatusSelector.tsx`
+  - [ ] `src/notes/NotesIterator.tsx`
+  - [ ] `src/notes/NoteInputs.tsx`
+  - [ ] `src/notes/NoteAttachments.tsx`
+  - [ ] `src/notes/Note.tsx`
+
+- [ ] **Interactions**
+  - [ ] `src/interactions/InteractionInputs.tsx`
+  - [ ] `src/interactions/InteractionShow.tsx`
+  - [ ] `src/interactions/InteractionFilters.tsx`
+  - [ ] `src/interactions/components/PerformanceDashboard.tsx`
+  - [ ] `src/interactions/components/InteractionSettings.tsx`
+  - [ ] `src/interactions/InteractionTypeSelector.tsx`
+  - [ ] `src/interactions/InteractionTimeline.tsx`
+  - [ ] `src/interactions/InteractionList.tsx`
+  - [ ] `src/interactions/InteractionEmpty.tsx`
+  - [ ] `src/interactions/InteractionCreate.tsx`
+  - [ ] `src/interactions/InteractionCard.tsx`
+  - [ ] `src/interactions/__tests__/InteractionCreate.test.tsx`
+
+---
+
+## 🟠 **Medium Priority (Dashboard, Deals, Customers, Companies)**
+
+- [ ] **Dashboard**
+  - [ ] `src/dashboard/NeedsVisitList.tsx`
+  - [ ] `src/dashboard/VisitTrends.tsx`
+  - [ ] `src/dashboard/LatestNotes.tsx`
+  - [ ] `src/dashboard/FollowUpRemindersWidget.tsx`
+  - [ ] `src/dashboard/InteractionMetricsCard.tsx`
+  - [ ] `src/dashboard/PrincipalPerformanceChart.tsx`
+
+- [ ] **Deals**
+  - [ ] `src/deals/OnlyMineInput.tsx`
+  - [ ] `src/deals/DealShow.tsx`
+  - [ ] `src/deals/DealInputs.tsx`
+  - [ ] `src/deals/DealEmpty.tsx`
+  - [ ] `src/deals/DealCreate.tsx`
+  - [ ] `src/deals/DealArchivedList.tsx`
+  - [ ] `src/deals/ContactList.tsx`
+
+- [ ] **Customers**
+  - [ ] `src/customers/CustomerImportButton.tsx`
+
+- [ ] **Companies**
+  - [ ] `src/companies/CompanyAside.tsx`
+
+---
+
+## 🟣 **Lower Priority (Navigation, Security, Miscellaneous)**
+
+- [ ] **Navigation**
+  - [ ] `src/components/navigation/RelationshipBreadcrumbs.tsx`
+  - [ ] `src/components/navigation/RelatedEntitiesSection.tsx`
+  - [ ] `src/components/TerritoryDisplay.tsx`
+
+- [ ] **Security**
+  - [ ] `src/components/security/SessionTimeout.tsx`
+  - [ ] `src/components/security/SecurityDashboard.tsx`
+  - [ ] `src/components/auth/AuthStatusIndicator.tsx`
+
+---
+
+## ✅ **How to Use This Checklist**
+
+- Work from top to bottom for the smoothest migration.
+- Check off each file as you migrate and test it.
+- After all are complete, you can safely remove MUI from your dependencies.
+
+---
+
+Would you like to start with the **Shared Components & Utilities** batch, or focus on a different group first?
 
