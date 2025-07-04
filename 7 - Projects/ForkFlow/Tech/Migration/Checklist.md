@@ -1,0 +1,174 @@
+Here is a **full checklist** of all files still importing from `@mui/material` or `@mui/icons-material`, including the specific lines where the imports occur. You can use this as a migration tracker:
+
+---
+
+### 📝 Migration Checklist: Remove MUI Imports
+**Instructions:**  
+- Check off each file as you migrate it away from MUI.
+- For each line, replace the MUI import with the appropriate UI kit or icon library import, and refactor usage as needed.
+- 
+- [ ] **src/visits/VisitShow.tsx**
+  - Line 20: `import { Divider } from '@mui/material';`
+  - Line 26: `} from '@mui/icons-material';`
+- [ ] **src/visits/VisitList.tsx**
+  - Line 25: `} from '@mui/icons-material';`
+- [ ] **src/visits/VisitCreate.tsx**
+  - Line 24: `} from '@mui/material';`
+  - Line 29: `} from '@mui/icons-material';`
+- [ ] **src/users/UserProfileDashboard.tsx**
+  - Line 39: `} from '@mui/icons-material';`
+- [ ] **src/users/UserListFilter.tsx**
+  - Line 24: `} from '@mui/icons-material';`
+- [ ] **src/users/UserList.tsx**
+  - Line 54: `} from '@mui/icons-material';`
+- [ ] **src/users/UserEmpty.tsx**
+  - Line 3: `import { People as PeopleIcon } from '@mui/icons-material';`
+- [ ] **src/users/UserEdit.tsx**
+  - Line 41: `} from '@mui/icons-material';`
+- [ ] **src/users/UserCreate.tsx**
+  - Line 35: `} from '@mui/icons-material';`
+- [ ] **src/users/UserActivityTracker.tsx**
+  - Line 15: `} from '@mui/icons-material';`
+- [ ] **src/tasks/AddTask.tsx**
+  - Line 0: `import ControlPointIcon from '@mui/icons-material/ControlPoint';`
+  - Line 11: `} from '@mui/material';`
+- [ ] **src/tags/TagDialog.tsx**
+  - Line 0: `import ContentSave from '@mui/icons-material/Save';`
+- [ ] **src/settings/SettingsEdit.tsx**
+  - Line 12: `import { CardContent, Grid } from '@mui/material';`
+- [ ] **src/settings/SettingsCreate.tsx**
+  - Line 15: `import { CardContent, Grid, Box, Typography, Alert } from '@mui/material';`
+- [ ] **src/settings/SettingsBulkOperations.tsx**
+  - Line 16: `} from '@mui/material';`
+  - Line 24: `} from '@mui/icons-material';`
+- [ ] **src/settings/SettingsAdminDashboard.tsx**
+  - Line 13: `} from '@mui/material';`
+  - Line 28: `} from '@mui/icons-material';`
+- [ ] **src/settings/PrincipalManager.tsx**
+  - Line 26: `} from '@mui/material';`
+  - Line 27: `import { DragIndicator, Visibility, VisibilityOff } from '@mui/icons-material';`
+- [ ] **src/security/SessionManager.tsx**
+  - Line 29: `} from '@mui/material';`
+  - Line 43: `} from '@mui/icons-material';`
+- [ ] **src/security/SecurityTestSuite.tsx**
+  - Line 22: `} from '@mui/material';`
+  - Line 38: `} from '@mui/icons-material';`
+- [ ] **src/security/SecurityPolicyManager.tsx**
+  - Line 27: `} from '@mui/material';`
+  - Line 40: `} from '@mui/icons-material';`
+- [ ] **src/security/SecurityDashboard.tsx**
+  - Line 15: `} from '@mui/material';`
+  - Line 41: `} from '@mui/icons-material';`
+- [ ] **src/security/SecurityAuditLog.tsx**
+  - Line 56: `} from '@mui/icons-material';`
+- [ ] **src/security/MFASetup.tsx**
+  - Line 42: `} from '@mui/icons-material';`
+- [ ] **src/security/ComplianceDocumentation.tsx**
+  - Line 33: `} from '@mui/material';`
+  - Line 52: `} from '@mui/icons-material';`
+- [ ] **src/reminders/ReminderShow.tsx**
+  - Line 8: `} from '@mui/icons-material';`
+  - Line 17: `} from '@mui/material';`
+- [ ] **src/reminders/ReminderList.tsx**
+  - Line 24: `} from '@mui/material';`
+  - Line 32: `} from '@mui/icons-material';`
+- [ ] **src/reminders/ReminderDashboard.tsx**
+  - Line 11: `} from '@mui/material';`
+  - Line 18: `} from '@mui/icons-material';`
+- [ ] **src/reminders/ReminderCreate.tsx**
+  - Line 11: `import { Card, CardContent, Typography, Box, Chip, Alert } from '@mui/material';`
+  - Line 16: `} from '@mui/icons-material';`
+- [ ] **src/products/ProductComparison.tsx**
+  - Line 12: `} from '@mui/material';`
+  - Line 26: `} from '@mui/icons-material';`
+- [ ] **src/products/ProductShow.tsx**
+  - Line 16: `import { Grid, Divider } from '@mui/material';`
+  - Line 27: `} from '@mui/icons-material';`
+- [ ] **src/products/ProductList.tsx**
+  - Line 29: `import { Grid } from '@mui/material';`
+  - Line 30: `import { Edit as EditIcon, Visibility as ViewIcon } from '@mui/icons-material';`
+- [ ] **src/products/ProductEdit.tsx**
+  - Line 24: `} from '@mui/icons-material';`
+- [ ] **src/products/ProductCreate.tsx**
+  - Line 22: `} from '@mui/icons-material';`
+- [ ] **src/products/ProductBulkActions.tsx**
+  - Line 12: `} from '@mui/icons-material';`
+- [ ] **src/opportunities/OpportunityCreate.tsx**
+  - Line 21: `} from '@mui/material';`
+- [ ] **src/opportunities/OpportunityListFilter.tsx**
+  - Line 9: `import BusinessIcon from '@mui/icons-material/Business';`
+  - Line 10: `import PersonIcon from '@mui/icons-material/Person';`
+  - Line 11: `import TrendingUpIcon from '@mui/icons-material/TrendingUp';`
+  - Line 12: `import FlagIcon from '@mui/icons-material/Flag';`
+  - Line 13: `import AccountCircleIcon from '@mui/icons-material/AccountCircle';`
+  - Line 14: `import PercentIcon from '@mui/icons-material/Percent';`
+  - Line 15: `import DateRangeIcon from '@mui/icons-material/DateRange';`
+- [ ] **src/opportunities/OpportunityListContent.tsx**
+  - Line 1: `import { Box } from '@mui/material';`
+- [ ] **src/opportunities/OpportunityList.tsx**
+  - Line 12: `import { Card, Stack } from '@mui/material';`
+- [ ] **src/opportunities/OpportunityEmpty.tsx**
+  - Line 1: `import TrendingUpIcon from '@mui/icons-material/TrendingUp';`
+- [ ] **src/opportunities/OpportunityEdit.tsx**
+  - Line 24: `} from '@mui/material';`
+- [ ] **src/opportunities/OpportunityColumn.tsx**
+  - Line 1: `import { Box, Chip, Paper, Typography } from '@mui/material';`
+- [ ] **src/opportunities/OpportunityCard.tsx**
+  - Line 10: `} from '@mui/material';`
+  - Line 17: `} from '@mui/icons-material';`
+- [ ] **src/opportunities/OpportunityShow.tsx**
+  - Line 25: `} from '@mui/material';`
+  - Line 36: `} from '@mui/icons-material';`
+- [ ] **src/organizations/show/OrganizationShow.tsx**
+  - Line 15: `import { Button as MuiButton, Dialog, DialogContent } from '@mui/material';`
+  - Line 30: `} from '@mui/icons-material';`
+- [ ] **src/organizations/list/AdvancedOrganizationFilter.tsx**
+  - Line 19: `} from '@mui/material';`
+  - Line 26: `} from '@mui/icons-material';`
+- [ ] **src/organizations/list/EnhancedOrganizationList.tsx**
+  - Line 15: `import { Stack, Button, Dialog, DialogContent, Box, Chip } from '@mui/material';`
+  - Line 20: `} from '@mui/icons-material';`
+- [ ] **src/organizations/list/OrganizationCards.tsx**
+  - Line 22: `} from '@mui/icons-material';`
+- [ ] **src/organizations/list/OrganizationEmpty.tsx**
+  - Line 1: `import BusinessIcon from '@mui/icons-material/Business';`
+- [ ] **src/organizations/list/OrganizationKanban.tsx**
+  - Line 14: `} from '@mui/material';`
+  - Line 22: `} from '@mui/icons-material';`
+- [ ] **src/organizations/list/OrganizationList.tsx**
+  - Line 19: `import { Dialog, DialogContent, useMediaQuery, useTheme } from '@mui/material';`
+  - Line 23: `} from '@mui/icons-material';`
+- [ ] **src/organizations/list/OrganizationMapView.tsx**
+  - Line 26: `} from '@mui/material';`
+  - Line 44: `} from '@mui/icons-material';`
+- [ ] **src/organizations/list/OrganizationTable.tsx**
+  - Line 15: `} from '@mui/material';`
+  - Line 20: `} from '@mui/icons-material';`
+- [ ] **src/organizations/list/VirtualizedOrganizationTable.tsx**
+  - Line 17: `} from '@mui/material';`
+  - Line 22: `} from '@mui/icons-material';`
+- [ ] **src/organizations/form/OrganizationInputs.tsx**
+  - Line 1: `import { Divider, useMediaQuery, useTheme } from '@mui/material';`
+  - Line 2: `import { LocationOn as LocationIcon } from '@mui/icons-material';`
+- [ ] **src/organizations/common/VoiceInput.tsx**
+  - Line 16: `} from '@mui/material';`
+  - Line 25: `} from '@mui/icons-material';`
+- [ ] **src/organizations/common/ViewModeRenderer.tsx**
+  - Line 1: `import { Box, CircularProgress, Fade } from '@mui/material';`
+- [ ] **src/organizations/form/steps/BasicInfoStep.tsx**
+  - Line 8: `} from '@mui/material';`
+  - Line 28: `} from '@mui/icons-material';`
+- [ ] **src/organizations/form/steps/BusinessDetailsStep.tsx**
+  - Line 9: `} from '@mui/material';`
+  - Line 28: `} from '@mui/icons-material';`
+- [ ] **src/organizations/form/steps/ValidationProvider.tsx**
+  - Line 10: `} from '@mui/material';`
+  - Line 15: `} from '@mui/icons-material';`
+- [ ] **src/organizations/form/steps/ContactDetailsStep.tsx**
+  - Line 22: `} from '@mui/icons-material';`
+- [ ] **src/organizations/common/SmartKeyboard.tsx**
+  - Line 15: `} from '@mui/material';`
+
+---
+
+

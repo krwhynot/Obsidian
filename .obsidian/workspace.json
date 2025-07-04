@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/Tech/Migration/Notes.md",
+                "file": "7 - Projects/ForkFlow/Tech/Current Status.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Current Status"
             }
           },
           {
@@ -239,9 +239,10 @@
   },
   "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
-    "7 - Projects/ForkFlow/Tech/Current Status.md",
     "7 - Projects/ForkFlow/Tech/Summary.md",
+    "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
     "7 - Projects/ForkFlow/Tech/Migration/Notes.md",
+    "7 - Projects/ForkFlow/Tech/Current Status.md",
     "7 - Projects/ForkFlow/Tech/Migration",
     "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
     "7 - Projects/ForkFlow/Tech/Migration/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",

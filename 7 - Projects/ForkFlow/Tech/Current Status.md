@@ -54,27 +54,10 @@
   - Documenting migration patterns and usage guidelines.
   - Systematically replacing MUI imports/usages with UI kit equivalents across the codebase.
 
-**Why not B or C?**
-- **Module-by-module** (B) or **component-type** (C) migration would be less efficient now, since the foundational kit is mostly done and the main issue is inconsistent usage, not missing components.
-
----
-
-**Checklist of Migration Candidates**
-
-- [ ] Remove all `@mui/material` and `@mui/icons-material` imports.
-- [ ] Replace all MUI `Button`, `Card`, `Typography`, `Dialog`, `Chip`, `Stack`, `Tooltip`, `Alert`, etc. with UI kit equivalents.
-- [ ] Audit for MUI-specific props and refactor to Tailwind/UI kit patterns.
-- [ ] Standardize icon usage (replace MUI icons if desired).
-- [ ] Update documentation and usage examples.
-- [ ] Run a design review to catch any visual/UX inconsistencies.
-
----
-
 **Conclusion:**  
 The migration is about 60–70% complete. The foundational UI kit is in place, but the codebase needs a focused, systematic sweep to eliminate remaining MUI usage and ensure consistency. Prioritize finishing the migration to the UI kit and Tailwind, then remove MUI dependencies entirely.
 
 </analysis>
-
 
 **Here is a detailed TODO list for Strategy A (Complete foundational UI kit first):**
 
