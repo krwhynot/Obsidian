@@ -10,7 +10,10 @@ The dashboard has a clean navigation bar at the top with access to all main sect
 
 -----
 
-
+AccountManager Dashboard
+- Newly Added Contacts- List of the most Recent added Contacts
+- Dashboard Activity Log - System activity tracking
+- 
 
 he'll see the AdminDashboard featuring:
 

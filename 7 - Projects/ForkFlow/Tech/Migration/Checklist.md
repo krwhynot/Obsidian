@@ -38,64 +38,64 @@ Here is a **full checklist** of all files still importing from `@mui/material` o
   - Line 11: `} from '@mui/material';`
 - [ ] **src/tags/TagDialog.tsx**
   - Line 0: `import ContentSave from '@mui/icons-material/Save';`
-- [ ] **src/settings/SettingsEdit.tsx**
+- [x] **src/settings/SettingsEdit.tsx**
   - Line 12: `import { CardContent, Grid } from '@mui/material';`
-- [ ] **src/settings/SettingsCreate.tsx**
+- [x] **src/settings/SettingsCreate.tsx**
   - Line 15: `import { CardContent, Grid, Box, Typography, Alert } from '@mui/material';`
-- [ ] **src/settings/SettingsBulkOperations.tsx**
+- [x] **src/settings/SettingsBulkOperations.tsx**
   - Line 16: `} from '@mui/material';`
   - Line 24: `} from '@mui/icons-material';`
-- [ ] **src/settings/SettingsAdminDashboard.tsx**
+- [x] **src/settings/SettingsAdminDashboard.tsx**
   - Line 13: `} from '@mui/material';`
   - Line 28: `} from '@mui/icons-material';`
-- [ ] **src/settings/PrincipalManager.tsx**
+- [x] **src/settings/PrincipalManager.tsx**
   - Line 26: `} from '@mui/material';`
   - Line 27: `import { DragIndicator, Visibility, VisibilityOff } from '@mui/icons-material';`
-- [ ] **src/security/SessionManager.tsx**
+- [x] **src/security/SessionManager.tsx**
   - Line 29: `} from '@mui/material';`
   - Line 43: `} from '@mui/icons-material';`
-- [ ] **src/security/SecurityTestSuite.tsx**
+- [x] **src/security/SecurityTestSuite.tsx**
   - Line 22: `} from '@mui/material';`
   - Line 38: `} from '@mui/icons-material';`
-- [ ] **src/security/SecurityPolicyManager.tsx**
+- [x] **src/security/SecurityPolicyManager.tsx**
   - Line 27: `} from '@mui/material';`
   - Line 40: `} from '@mui/icons-material';`
-- [ ] **src/security/SecurityDashboard.tsx**
+- [x] **src/security/SecurityDashboard.tsx**
   - Line 15: `} from '@mui/material';`
   - Line 41: `} from '@mui/icons-material';`
-- [ ] **src/security/SecurityAuditLog.tsx**
+- [x] **src/security/SecurityAuditLog.tsx**
   - Line 56: `} from '@mui/icons-material';`
 - [ ] **src/security/MFASetup.tsx**
   - Line 42: `} from '@mui/icons-material';`
 - [ ] **src/security/ComplianceDocumentation.tsx**
   - Line 33: `} from '@mui/material';`
   - Line 52: `} from '@mui/icons-material';`
-- [ ] **src/reminders/ReminderShow.tsx**
+- [x] **src/reminders/ReminderShow.tsx**
   - Line 8: `} from '@mui/icons-material';`
   - Line 17: `} from '@mui/material';`
-- [ ] **src/reminders/ReminderList.tsx**
+- [x] **src/reminders/ReminderList.tsx**
   - Line 24: `} from '@mui/material';`
   - Line 32: `} from '@mui/icons-material';`
-- [ ] **src/reminders/ReminderDashboard.tsx**
+- [x] **src/reminders/ReminderDashboard.tsx**
   - Line 11: `} from '@mui/material';`
   - Line 18: `} from '@mui/icons-material';`
-- [ ] **src/reminders/ReminderCreate.tsx**  X
+- [x] **src/reminders/ReminderCreate.tsx**  X
   - Line 11: `import { Card, CardContent, Typography, Box, Chip, Alert } from '@mui/material';`
   - Line 16: `} from '@mui/icons-material';`
-- [ ] **src/products/ProductComparison.tsx**
+- [x] **src/products/ProductComparison.tsx**
   - Line 12: `} from '@mui/material';`
   - Line 26: `} from '@mui/icons-material';`
-- [ ] **src/products/ProductShow.tsx**
+- [x] **src/products/ProductShow.tsx**
   - Line 16: `import { Grid, Divider } from '@mui/material';`
   - Line 27: `} from '@mui/icons-material';`
-- [ ] **src/products/ProductList.tsx**
+- [x] **src/products/ProductList.tsx**
   - Line 29: `import { Grid } from '@mui/material';`
   - Line 30: `import { Edit as EditIcon, Visibility as ViewIcon } from '@mui/icons-material';`
-- [ ] **src/products/ProductEdit.tsx**
+- [x] **src/products/ProductEdit.tsx**
   - Line 24: `} from '@mui/icons-material';`
-- [ ] **src/products/ProductCreate.tsx**
+- [x] **src/products/ProductCreate.tsx**
   - Line 22: `} from '@mui/icons-material';`
-- [ ] **src/products/ProductBulkActions.tsx**
+- [x] **src/products/ProductBulkActions.tsx**
   - Line 12: `} from '@mui/icons-material';`
 - [ ] **src/opportunities/OpportunityCreate.tsx**
   - Line 21: `} from '@mui/material';`

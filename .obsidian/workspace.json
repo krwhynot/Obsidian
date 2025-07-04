@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/File Structure/SIte Map/Admin Settings Page.md",
+                "file": "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Admin Settings Page"
+              "title": "Home Page"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,8 +252,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "52d9ee226bf49d72",
+  "active": "2491b996dea71d33",
   "lastOpenFiles": [
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Admin Settings Page.md",
     "7 - Projects/ForkFlow/File Structure/Main Structure.md",
     "7 - Projects/ForkFlow/Personal TODO.md",
     "7 - Projects/ForkFlow/Tech/Migration/PROMPT-File Structure.md",
@@ -280,8 +282,6 @@
     "7 - Projects/Kitchen Pantry CRM/Context/User Walkthrough.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
     "7 - Projects/ForkFlow/NEW UI DESIGN.md",
-    "7 - Projects/ForkFlow/File Structure/SIte Map/Admin Settings Page.md",
-    "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Reports Page.md",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629170227.png",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629164136.png",
