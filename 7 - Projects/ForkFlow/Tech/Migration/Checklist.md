@@ -11,27 +11,27 @@ Here is a **full checklist** of all files still importing from `@mui/material` o
 - Remove MUI-specific props (e.g., `variant`, `gutterBottom`).
 - After all files are migrated, delete all `@mui/material` and `@mui/icons-material` imports.
  
-- [ ] **src/visits/VisitShow.tsx**
+- [x] **src/visits/VisitShow.tsx**
   - Line 20: `import { Divider } from '@mui/material';`
   - Line 26: `} from '@mui/icons-material';`
-- [ ] **src/visits/VisitList.tsx**
+- [x] **src/visits/VisitList.tsx**
   - Line 25: `} from '@mui/icons-material';`
-- [ ] **src/visits/VisitCreate.tsx**
+- [x] **src/visits/VisitCreate.tsx**
   - Line 24: `} from '@mui/material';`
   - Line 29: `} from '@mui/icons-material';`
-- [ ] **src/users/UserProfileDashboard.tsx**
+- [x] **src/users/UserProfileDashboard.tsx**
   - Line 39: `} from '@mui/icons-material';`
-- [ ] **src/users/UserListFilter.tsx**
+- [x] **src/users/UserListFilter.tsx**
   - Line 24: `} from '@mui/icons-material';`
-- [ ] **src/users/UserList.tsx**
+- [x] **src/users/UserList.tsx**
   - Line 54: `} from '@mui/icons-material';`
-- [ ] **src/users/UserEmpty.tsx**
+- [x] **src/users/UserEmpty.tsx**
   - Line 3: `import { People as PeopleIcon } from '@mui/icons-material';`
-- [ ] **src/users/UserEdit.tsx**
+- [x] **src/users/UserEdit.tsx**
   - Line 41: `} from '@mui/icons-material';`
-- [ ] **src/users/UserCreate.tsx**
+- [x] **src/users/UserCreate.tsx**
   - Line 35: `} from '@mui/icons-material';`
-- [ ] **src/users/UserActivityTracker.tsx**
+- [x] **src/users/UserActivityTracker.tsx**
   - Line 15: `} from '@mui/icons-material';`
 - [ ] **src/tasks/AddTask.tsx**
   - Line 0: `import ControlPointIcon from '@mui/icons-material/ControlPoint';`
@@ -79,7 +79,7 @@ Here is a **full checklist** of all files still importing from `@mui/material` o
 - [ ] **src/reminders/ReminderDashboard.tsx**
   - Line 11: `} from '@mui/material';`
   - Line 18: `} from '@mui/icons-material';`
-- [ ] **src/reminders/ReminderCreate.tsx**
+- [ ] **src/reminders/ReminderCreate.tsx**  X
   - Line 11: `import { Card, CardContent, Typography, Box, Chip, Alert } from '@mui/material';`
   - Line 16: `} from '@mui/icons-material';`
 - [ ] **src/products/ProductComparison.tsx**
