@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Jul  03, 2025.md",
+                "file": "7 - Projects/ForkFlow/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jul  03, 2025"
+              "title": "List Migrating from Material-UI to Tailwind CSS & Headless UI"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mcp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +116,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,9 +239,10 @@
   },
   "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
+    "Daily Notes/Jul  03, 2025.md",
+    "7 - Projects/ForkFlow/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",
     "6 - Full Notes/Claude-Code/claude-changelog.md.md",
     "7 - Projects/Kitchen Pantry CRM/Project Analysis/25 Prompt to Evaluation the Project.md",
-    "Daily Notes/Jul  03, 2025.md",
     "7 - Projects/ForkFlow/SIte Map/Opportunities Page.md",
     "7 - Projects/ForkFlow/SIte Map/Interactions Page.md",
     "7 - Projects/ForkFlow/SIte Map/Organization Page.md",
@@ -265,7 +265,6 @@
     "7 - Projects/ForkFlow/Relationships.md",
     "7 - Projects/ForkFlow/NEW PRD-TXT.md",
     "7 - Projects/ForkFlow/New Tech Stack Plan.md",
-    "7 - Projects/ForkFlow/SIte Map/Product Page.md",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629170227.png",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629164136.png",
     "2 - Source Material/Meta/Attachments",
