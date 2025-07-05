@@ -1,10 +1,10 @@
 - **teach claude to use your tools** 
 ```markdown
 
-<Task> Convert the output of `perplexity mcp server --help` into clear, project-relevant Markdown documentation and write it to `claude.md`. </Task>
+<Task> Convert the output of `exa mcp server --help` into clear, project-relevant Markdown documentation and write it to `claude.md`. </Task>
 <Inputs> {$HELP_OUTPUT} </Inputs>
 <Instructions> Use the given help text to create a well-structured Markdown reference. Your documentation should include: 
-- Title: `Perplexity MCP Server – Help Reference` 
+- Title: `exa MCP Server – Help Reference` 
 - Brief intro 
 - **Usage** section 
 - **Commands** (if present) 
