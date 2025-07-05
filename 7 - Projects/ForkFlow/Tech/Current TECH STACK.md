@@ -26,7 +26,6 @@ Here is a comprehensive list of your current dependencies and similar tech stack
   - `@heroicons/react`: SVG icon set
   - `@radix-ui/react-checkbox`: Accessible checkbox
   - `@tremor/react`: Data visualization components
-  - `@nivo/bar`, `@nivo/core`: Charting
   - `tailwindcss`, `@tailwindcss/forms`, `@tailwindcss/typography`: Utility-first CSS framework and plugins
   - `tailwind-merge`: Utility class merging
   - `clsx`: Conditional classNames
@@ -51,9 +50,8 @@ Here is a comprehensive list of your current dependencies and similar tech stack
   - `ra-supabase`: React-admin data provider for Supabase
 
 - **Other**
-  - `dotenv`: Environment variable management
+  - `.env`: Environment variable management
   - `faker`, `@faker-js/faker`: Fake data generation
-  - `prop-types`: Runtime type checking
   - `serve`: Static file serving
 
 ---
@@ -105,7 +103,7 @@ Here is a comprehensive list of your current dependencies and similar tech stack
 - **Maps**
   - `@googlemaps/react-wrapper`, `@react-google-maps/api`
 - **Drag & Drop**
-  - `@dnd-kit/core`, `@dnd-kit/sortable`, `@hello-pangea/dnd`
+  - `@dnd-kit/core`, `@dnd-kit/sortable`
 
 ---
 
