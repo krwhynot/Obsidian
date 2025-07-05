@@ -77,7 +77,8 @@
               "title": "Personal TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.01487731933594
+    "width": 333.01487731933594,
+    "collapsed": true
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -251,14 +253,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7035cf4e6353b5f2",
+  "active": "ce49459634f24cff",
   "lastOpenFiles": [
+    "7 - Projects/ForkFlow/Personal TODO.md",
+    "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
     "7 - Projects/ForkFlow/Tech/Current Status.md",
     "6 - Full Notes/Claude-Code/Notes-TODO.md",
     "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
-    "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
     "7 - Projects/ForkFlow/Tech/Current TECH STACK.md",
-    "7 - Projects/ForkFlow/Personal TODO.md",
     "7 - Projects/ForkFlow/New Tech Stack Plan.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Organization Page.md",
     "7 - Projects/ForkFlow/Tech/Migration/PROMPT-File Structure.md",
