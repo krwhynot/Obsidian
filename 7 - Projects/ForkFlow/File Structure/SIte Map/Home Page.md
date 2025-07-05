@@ -1,4 +1,4 @@
-Dashboard (Home Page) When you first log in, you'll land on your personalized Account manager dashboard. Here you'll see:
+Home Page When you first log in, you'll land on your personalized Account manager dashboard. Here you'll see:
 
 - Your high-priority tasks for the week
 - Recent interactions that need follow-up
