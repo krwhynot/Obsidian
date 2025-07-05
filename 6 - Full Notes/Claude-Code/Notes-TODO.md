@@ -1,0 +1,2 @@
+- teach claude to use your tools 
+-  "here is the 'perplexity mcp server' run -help, then take what you learn then put it in claude.md "
