@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Feature Specification.md",
+                "file": "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Feature Specification"
+              "title": "Home Page"
             }
           },
           {
@@ -254,6 +254,7 @@
   },
   "active": "ce49459634f24cff",
   "lastOpenFiles": [
+    "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Feature Specification.md",
     "7 - Projects/ForkFlow/Tech/Tech Summary.md",
     "7 - Projects/ForkFlow/Tech/Current TECH STACK.md",
     "7 - Projects/ForkFlow/Tech/PROMPT-Tech Sta.md",
@@ -268,7 +269,6 @@
     "7 - Projects/ForkFlow/Tech/Migration/PROMPT-File Structure.md",
     "7 - Projects/ForkFlow/Tech/Migration/Notes.md",
     "7 - Projects/ForkFlow/Tech/Migration/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",
-    "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Feature Specification.md",
     "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Architecture Brainstorming Template.md",
     "6 - Full Notes/Coding Project Planning/Project Workflow.md",
     "6 - Full Notes/Coding Project Planning/Visual Templates/Templates list.md",
