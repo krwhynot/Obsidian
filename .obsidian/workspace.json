@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Claude-Code/Notes-TODO.md",
+                "file": "7 - Projects/ForkFlow/Tech/Current TECH STACK.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Notes-TODO"
+              "title": "Current TECH STACK"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "remove mcp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,12 +252,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e3d3afac55a86486",
+  "active": "ce49459634f24cff",
   "lastOpenFiles": [
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Layout.md",
+    "6 - Full Notes/Claude-Code/Notes-TODO.md",
     "7 - Projects/ForkFlow/Personal TODO.md",
     "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
     "7 - Projects/ForkFlow/Tech/Current Status.md",
-    "6 - Full Notes/Claude-Code/Notes-TODO.md",
     "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
     "7 - Projects/ForkFlow/Tech/Current TECH STACK.md",
     "7 - Projects/ForkFlow/New Tech Stack Plan.md",
@@ -280,7 +280,6 @@
     "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Interactions Page.md",
     "7 - Projects/ForkFlow/NEW UI DESIGN.md",
-    "Daily Notes/May  28, 2025.md",
     "7 - Projects/ForkFlow/File Structure",
     "7 - Projects/ForkFlow/Tech/Migration",
     "7 - Projects/ForkFlow/Tech",
