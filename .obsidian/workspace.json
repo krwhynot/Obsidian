@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deploy",
+                "query": "remove mcp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,12 +131,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 333.01487731933594,
-    "collapsed": true
+    "width": 333.01487731933594
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -253,7 +253,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce49459634f24cff",
+  "active": "e3d3afac55a86486",
   "lastOpenFiles": [
     "7 - Projects/ForkFlow/Personal TODO.md",
     "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
