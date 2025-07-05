@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/Tech/Current Status.md",
+                "file": "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Current Status"
+              "title": "Prompt - Migration Tailwind CSS & Headless UI"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "Personal TODO"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.01487731933594,
-    "collapsed": true
+    "width": 333.01487731933594
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -253,10 +251,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce49459634f24cff",
+  "active": "7035cf4e6353b5f2",
   "lastOpenFiles": [
-    "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
+    "7 - Projects/ForkFlow/Tech/Current Status.md",
     "6 - Full Notes/Claude-Code/Notes-TODO.md",
+    "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
     "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
     "7 - Projects/ForkFlow/Tech/Current TECH STACK.md",
     "7 - Projects/ForkFlow/Personal TODO.md",
@@ -280,7 +279,6 @@
     "7 - Projects/ForkFlow/File Structure/SIte Map/Interactions Page.md",
     "7 - Projects/ForkFlow/NEW UI DESIGN.md",
     "Daily Notes/May  28, 2025.md",
-    "7 - Projects/Old Projects/---MasterLink CRM Project---/Master Food Brokers CRM System.md",
     "7 - Projects/ForkFlow/File Structure",
     "7 - Projects/ForkFlow/Tech/Migration",
     "7 - Projects/ForkFlow/Tech",
