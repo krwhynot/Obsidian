@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/Tech/PROMPT-Tech Sta.md",
+                "file": "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Feature Specification.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PROMPT-Tech Sta"
+              "title": "Feature Specification"
             }
           },
           {
@@ -255,8 +255,8 @@
   "active": "ce49459634f24cff",
   "lastOpenFiles": [
     "7 - Projects/ForkFlow/Tech/Tech Summary.md",
-    "7 - Projects/ForkFlow/Tech/PROMPT-Tech Sta.md",
     "7 - Projects/ForkFlow/Tech/Current TECH STACK.md",
+    "7 - Projects/ForkFlow/Tech/PROMPT-Tech Sta.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Layout.md",
     "6 - Full Notes/Claude-Code/Notes-TODO.md",
     "7 - Projects/ForkFlow/Personal TODO.md",

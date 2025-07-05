@@ -63,7 +63,7 @@ Markdown
 * **Feature Goal:** [Concise statement of the feature's primary objective.]
 * **Any API relationships:** [List any APIs this feature depends on or exposes, and how they interact.]
 * **Detailed feature requirements:** [Bullet points of specific functional and non-functional requirements.]
-* **Detailed implementation guide:** [Step-by-step instructions for implementation, very granular. Can include pseudocode if necessary for clarity in a technical situation.]
+* **Detailed implementation guide:** [Step-by-step instructions for implementation, very granular. Can only include pseudocode if necessary for clarity in a technical situation.]
 
 #### 1. System Architecture Overview
 * **High-level architecture diagram/description:** [Textual description of how this feature fits into the overall system architecture, including which layers and components it touches.]
