@@ -1,2 +1,20 @@
-- teach claude to use your tools 
--  "here is the 'perplexity mcp server' run -help, then take what you learn then put it in claude.md "
+- **teach claude to use your tools** 
+```markdown
+
+<Task> Convert the output of `perplexity mcp server --help` into clear, project-relevant Markdown documentation and write it to `claude.md`. </Task>
+<Inputs> {$HELP_OUTPUT} </Inputs>
+<Instructions> Use the given help text to create a well-structured Markdown reference. Your documentation should include: 
+- Title: `Perplexity MCP Server – Help Reference` 
+- Brief intro 
+- **Usage** section 
+- **Commands** (if present) 
+- **Flags/Options** 
+- **Examples** — always include simple, realistic examples based on current project context 
+- Optional **Notes**
+
+Write the final Markdown inside `<markdown>` tags and save it by modifying `claude.md`.  
+</Instructions>
+
+```
+
+
