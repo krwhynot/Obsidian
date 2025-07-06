@@ -1,3 +1,7 @@
+<Task> Perform a full CSS and style dependency analysis of the current project, including layout hierarchy, stylesheet imports, utility usage, and component style relationships. Use the tools listed below for targeted insights across SCSS, Tailwind, CSS Modules, and styled-components. </Task>
+
+<Instructions> You are analyzing a modern React project using multiple styling methodologies (Sass, CSS Modules, Tailwind, Styled Components, etc.). Use the tools below to generate a comprehensive dependency map that includes stylesheet relationships, utility usage, layout component structure, and bundle size impact.
+
 ### 🧰 Tools & Usage Instructions
 
 #### ✅ Sass Graph (SCSS/Sass `@import` Dependencies)
