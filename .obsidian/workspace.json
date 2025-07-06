@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/Tech/PROMPT-Perform a full CSS and style dependency analysis.md",
+                "file": "7 - Projects/ForkFlow/Relationships.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PROMPT-Perform a full CSS and style dependency analysis"
+              "title": "Relationships"
             }
           },
           {
@@ -254,8 +254,13 @@
   },
   "active": "52d9ee226bf49d72",
   "lastOpenFiles": [
-    "7 - Projects/ForkFlow/Tech/PROMPT- Dependency Mapping.md",
+    "7 - Projects/Kitchen Pantry CRM/Context/PRD File.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
+    "7 - Projects/ForkFlow/Relationships.md",
     "7 - Projects/ForkFlow/Tech/PROMPT-Perform a full CSS and style dependency analysis.md",
+    "7 - Projects/ForkFlow/Tech/PROMPT- Dependency Mapping.md",
     "7 - Projects/ForkFlow/PROMPT-Create Page.md",
     "7 - Projects/ForkFlow/Tech/Current TECH STACK.md",
     "7 - Projects/ForkFlow/Tech/PROMPT-Tech Sta.md",
@@ -275,11 +280,6 @@
     "7 - Projects/ForkFlow/Tech/Migration/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",
     "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Architecture Brainstorming Template.md",
     "6 - Full Notes/Coding Project Planning/Project Workflow.md",
-    "6 - Full Notes/Coding Project Planning/Visual Templates/Templates list.md",
-    "6 - Full Notes/Coding Project Planning/Vibe Coding/Pillars of Vibe Coding.md",
-    "6 - Full Notes/Coding Project Planning/Vibe Coding/Steps/Phase 4 - Polish & Deploy.md",
-    "6 - Full Notes/Coding Project Planning/Vibe Coding/Steps/Phase 3 - Build & Iterate.md",
-    "6 - Full Notes/Coding Project Planning/Vibe Coding/Steps/Phase 2 - Design & Blueprint.md",
     "7 - Projects/ForkFlow/File Structure",
     "7 - Projects/ForkFlow/Tech/Migration",
     "7 - Projects/ForkFlow/Tech",

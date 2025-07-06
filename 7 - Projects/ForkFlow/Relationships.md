@@ -122,7 +122,7 @@
 
 ---
 
-### **Relationships (Described Verbally)**
+### **Relationships**
 
 - **Organization** has many **Contacts**, **Interactions**, and **Opportunities**    
 - **Contact** has many **Interactions** and **Opportunities**    
