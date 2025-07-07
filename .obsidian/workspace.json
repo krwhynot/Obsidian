@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Claude-Code/Commands/Architecture Review.md",
+                "file": "6 - Full Notes/Claude-Code/OLD/claude-changelog.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Architecture Review"
+              "title": "claude-changelog.md"
+            }
+          },
+          {
+            "id": "7caf3c63ab03d62e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Claude-Code/CheatSheet.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CheatSheet"
             }
           },
           {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -252,18 +266,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "52d9ee226bf49d72",
+  "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
-    "6 - Full Notes/Claude-Code/Commands/Automated Testing Analysis.md",
-    "6 - Full Notes/Claude-Code/Commands/Adv Code Review.md",
-    "6 - Full Notes/Claude-Code/Commands/Code Review.md",
-    "6 - Full Notes/Claude-Code/Commands/Create Feature.md",
-    "6 - Full Notes/Claude-Code/Commands/Project Planning.md",
-    "6 - Full Notes/Claude-Code/Commands/Architecture Review.md",
-    "6 - Full Notes/Claude-Code/Commands/design_itterate.md",
+    "6 - Full Notes/Claude-Code/OLD/claude-performance.md.md",
+    "6 - Full Notes/Claude-Code/OLD/Claude-debug.md.md",
+    "6 - Full Notes/Claude-Code/OLD/claude-changelog.md.md",
     "6 - Full Notes/Claude-Code/CheatSheet.md",
+    "6 - Full Notes/Claude-Code/OLD",
+    "6 - Full Notes/Claude-Code/Custom Commands/Architecture Review.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Automated Testing Analysis.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Adv Code Review.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Code Review.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Create Feature.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Project Planning.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/design_itterate.md",
     "7 - Projects/ForkFlow/Relationships.md",
-    "6 - Full Notes/Claude-Code/Commands",
+    "6 - Full Notes/Claude-Code/Custom Commands",
     "7 - Projects/ForkFlow/Tech/PROMPT- Dependency Mapping.md",
     "7 - Projects/Kitchen Pantry CRM/Context/PRD File.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
@@ -273,14 +291,11 @@
     "7 - Projects/ForkFlow/PROMPT-Create Page.md",
     "7 - Projects/ForkFlow/Tech/Current TECH STACK.md",
     "7 - Projects/ForkFlow/Tech/PROMPT-Tech Sta.md",
-    "6 - Full Notes/Claude-Code/Notes-TODO.md",
+    "6 - Full Notes/Claude-Code/OLD/Notes-TODO.md",
     "7 - Projects/ForkFlow/Tech/Migration/Checklist.md",
     "7 - Projects/ForkFlow/Personal TODO.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
     "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Feature Specification.md",
-    "7 - Projects/ForkFlow/Tech/Tech Summary.md",
-    "7 - Projects/ForkFlow/File Structure/SIte Map/Layout.md",
-    "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
     "7 - Projects/ForkFlow/File Structure",
     "7 - Projects/ForkFlow/Tech/Migration",
     "7 - Projects/ForkFlow/Tech",
@@ -291,7 +306,6 @@
     "7 - Projects/ForkFlow/File Structure/SIte Map",
     "7 - Projects/ForkFlow",
     "6 - Full Notes/Claude-Code/Memories",
-    "7 - Projects/Kitchen Pantry CRM/Context",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
