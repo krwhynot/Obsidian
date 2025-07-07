@@ -53,12 +53,14 @@
             "id": "7caf3c63ab03d62e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md"
+                "file": "7 - Projects/ForkFlow/File Structure/SIte Map/Opportunities Page.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "Entity Relationship Diagram.mermaid"
+              "icon": "lucide-file",
+              "title": "Opportunities Page"
             }
           },
           {
@@ -122,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "principal checkb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.01487731933594,
-    "collapsed": true
+    "width": 333.01487731933594
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -267,9 +268,20 @@
   },
   "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Prototype.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Contact Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Admin Settings Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Organization Page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Tech Stack.md",
+    "7 - Projects/---Wordle Project---/Phases/two AZ Apps.md",
+    "7 - Projects/ForkFlow/Tech/Migration/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md/Claude.md.md",
+    "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Feature Specification.md",
+    "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Architecture Brainstorming Template.md",
+    "7 - Projects/Kitchen Pantry CRM/Context/Raw Context Info.md",
+    "6 - Full Notes/Coding NOTES/Coding Flow.md",
+    "7 - Projects/Kitchen Pantry CRM/Context/User Walkthrough.md",
+    "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Prototype.md",
     "7 - Projects/ForkFlow/Tech/Tech Summary.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md",
     "7 - Projects/ForkFlow/Tech/Current Status.md",
@@ -283,19 +295,8 @@
     "6 - Full Notes/Claude-Code/CheatSheet.md",
     "6 - Full Notes/Claude-Code/OLD/claude-performance.md.md",
     "6 - Full Notes/Claude-Code/OLD/Claude-debug.md.md",
-    "6 - Full Notes/Claude-Code/OLD/claude-changelog.md.md",
     "6 - Full Notes/Claude-Code/OLD",
-    "6 - Full Notes/Claude-Code/Custom Commands/Architecture Review.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/Adv Code Review.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/Code Review.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/Project Planning.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/design_itterate.md",
-    "7 - Projects/ForkFlow/Relationships.md",
     "6 - Full Notes/Claude-Code/Custom Commands",
-    "7 - Projects/Kitchen Pantry CRM/Context/PRD File.md",
-    "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
-    "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
-    "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
     "7 - Projects/ForkFlow/File Structure",
     "7 - Projects/ForkFlow/Tech/Migration",
     "7 - Projects/ForkFlow/Tech",
