@@ -1,0 +1,51 @@
+### ✅ **Frontend**
+- **React** (with **TypeScript**)    
+- **Vite** as the build tool    
+- **Tailwind CSS** for utility-first styling    
+- **@headlessui/react** for accessible UI primitives    
+- **@heroicons/react** for icons    
+- **@tremor/react** for data visualizations    
+- **@radix-ui/react-checkbox** for form components    
+- **react-admin** for CRUD admin UI    
+- **@tanstack/react-query** for data fetching & caching    
+- **react-hook-form** for form management    
+- **zod** + `@hookform/resolvers` for schema validation    
+- **react-router-dom** for routing    
+- **react-error-boundary** for graceful error handling    
+- **react-window** & **react-window-infinite-loader** for virtual lists    
+- **react-intersection-observer** for viewport detection    
+- **use-debounce** for debouncing input/events    
+- **@dnd-kit/core** & **@dnd-kit/sortable** for drag-and-drop    
+- **clsx** and **tailwind-merge** for class management    
+- **date-fns** for date handling    
+- **lodash** for utility functions    
+- **papaparse** for CSV parsing    
+- **Google Maps API**    
+    - `@googlemaps/react-wrapper`        
+    - `@react-google-maps/api`        
+    - `@types/google.maps`
+---
+### ✅ **Backend**
+- **Supabase**    
+    - PostgreSQL (DB)        
+    - Supabase Auth        
+    - Supabase Storage        
+    - RLS policies        
+    - Edge Functions _(for advanced logic)_
+        
+- **@supabase/supabase-js** client SDK    
+- **ra-supabase** (data provider for `react-admin`)
+---
+### ✅ **Tooling & Dev Experience**
+- **TypeScript** in strict mode    
+- **eslint** + **prettier** + **lint-staged**    
+- **vite-plugin-dts** for type declarations    
+- **vite-plugin-eslint** _(optional but recommended)_    
+- **rollup-plugin-visualizer** for bundle analysis    
+- **vite-plugin-inspect** _(optional for module graph debugging)_
+---
+### ✅ **Testing**
+- **vitest** for unit tests    
+- **@testing-library/react**, `jest-dom`, `user-event` for component testing    
+- **@playwright/test** for end-to-end testing    
+- **@axe-core/playwright** for accessibility testing
