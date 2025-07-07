@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Claude-Code/CheatSheet.md",
+                "file": "6 - Full Notes/Claude-Code/Commands/Code Review.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CheatSheet"
+              "title": "Code Review"
             }
           },
           {
@@ -254,8 +254,12 @@
   },
   "active": "52d9ee226bf49d72",
   "lastOpenFiles": [
+    "6 - Full Notes/Claude-Code/Commands/Create Feature.md",
+    "6 - Full Notes/Claude-Code/Commands/Code Review.md",
+    "6 - Full Notes/Claude-Code/Commands/Project Planning.md",
+    "6 - Full Notes/Claude-Code/Commands/Architecture Review.md",
     "6 - Full Notes/Claude-Code/Commands/design_itterate.md",
-    "6 - Full Notes/Claude-Code/Commands/project_settings.md",
+    "6 - Full Notes/Claude-Code/CheatSheet.md",
     "7 - Projects/ForkFlow/Relationships.md",
     "6 - Full Notes/Claude-Code/Commands",
     "7 - Projects/ForkFlow/Tech/PROMPT- Dependency Mapping.md",
@@ -277,10 +281,6 @@
     "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
     "7 - Projects/ForkFlow/Tech/Current Status.md",
     "7 - Projects/ForkFlow/New Tech Stack Plan.md",
-    "7 - Projects/ForkFlow/File Structure/SIte Map/Organization Page.md",
-    "7 - Projects/ForkFlow/Tech/Migration/PROMPT-File Structure.md",
-    "7 - Projects/ForkFlow/Tech/Migration/Notes.md",
-    "7 - Projects/ForkFlow/Tech/Migration/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",
     "7 - Projects/ForkFlow/File Structure",
     "7 - Projects/ForkFlow/Tech/Migration",
     "7 - Projects/ForkFlow/Tech",
