@@ -43,6 +43,8 @@ add memories with the `#`
 **Multi-session workflows** benefit from implementation planning documents that maintain context across conversation boundaries Creating handoff folders with structured context transfer enables complex projects to span multiple sessions without losing critical information.
 
 
+
+
 claude  --dangerously-skip-permissions
 
 
