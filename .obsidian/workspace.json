@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Claude-Code/Commands/Code Review.md",
+                "file": "6 - Full Notes/Claude-Code/Commands/Architecture Review.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Code Review"
+              "title": "Architecture Review"
             }
           },
           {
@@ -254,8 +254,10 @@
   },
   "active": "52d9ee226bf49d72",
   "lastOpenFiles": [
-    "6 - Full Notes/Claude-Code/Commands/Create Feature.md",
+    "6 - Full Notes/Claude-Code/Commands/Automated Testing Analysis.md",
+    "6 - Full Notes/Claude-Code/Commands/Adv Code Review.md",
     "6 - Full Notes/Claude-Code/Commands/Code Review.md",
+    "6 - Full Notes/Claude-Code/Commands/Create Feature.md",
     "6 - Full Notes/Claude-Code/Commands/Project Planning.md",
     "6 - Full Notes/Claude-Code/Commands/Architecture Review.md",
     "6 - Full Notes/Claude-Code/Commands/design_itterate.md",
@@ -279,8 +281,6 @@
     "7 - Projects/ForkFlow/Tech/Tech Summary.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Layout.md",
     "7 - Projects/ForkFlow/Tech/Migration/Prompt - Migration Tailwind CSS & Headless UI.md",
-    "7 - Projects/ForkFlow/Tech/Current Status.md",
-    "7 - Projects/ForkFlow/New Tech Stack Plan.md",
     "7 - Projects/ForkFlow/File Structure",
     "7 - Projects/ForkFlow/Tech/Migration",
     "7 - Projects/ForkFlow/Tech",
