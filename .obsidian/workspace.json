@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Claude-Code/Commands/design_itterate.md",
+                "file": "6 - Full Notes/Claude-Code/CheatSheet.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "design_itterate"
+              "title": "CheatSheet"
             }
           },
           {
@@ -254,8 +254,8 @@
   },
   "active": "52d9ee226bf49d72",
   "lastOpenFiles": [
-    "6 - Full Notes/Claude-Code/Commands/project_settings.md",
     "6 - Full Notes/Claude-Code/Commands/design_itterate.md",
+    "6 - Full Notes/Claude-Code/Commands/project_settings.md",
     "7 - Projects/ForkFlow/Relationships.md",
     "6 - Full Notes/Claude-Code/Commands",
     "7 - Projects/ForkFlow/Tech/PROMPT- Dependency Mapping.md",
