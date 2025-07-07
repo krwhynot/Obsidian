@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/Relationships.md",
+                "file": "6 - Full Notes/Claude-Code/Commands/design_itterate.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Relationships"
+              "title": "design_itterate"
             }
           },
           {
@@ -254,13 +254,16 @@
   },
   "active": "52d9ee226bf49d72",
   "lastOpenFiles": [
+    "6 - Full Notes/Claude-Code/Commands/project_settings.md",
+    "6 - Full Notes/Claude-Code/Commands/design_itterate.md",
+    "7 - Projects/ForkFlow/Relationships.md",
+    "6 - Full Notes/Claude-Code/Commands",
+    "7 - Projects/ForkFlow/Tech/PROMPT- Dependency Mapping.md",
     "7 - Projects/Kitchen Pantry CRM/Context/PRD File.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/User Flow Diagrams.mermaid.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/System Architecture.mermaid.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
-    "7 - Projects/ForkFlow/Relationships.md",
     "7 - Projects/ForkFlow/Tech/PROMPT-Perform a full CSS and style dependency analysis.md",
-    "7 - Projects/ForkFlow/Tech/PROMPT- Dependency Mapping.md",
     "7 - Projects/ForkFlow/PROMPT-Create Page.md",
     "7 - Projects/ForkFlow/Tech/Current TECH STACK.md",
     "7 - Projects/ForkFlow/Tech/PROMPT-Tech Sta.md",
@@ -278,8 +281,6 @@
     "7 - Projects/ForkFlow/Tech/Migration/PROMPT-File Structure.md",
     "7 - Projects/ForkFlow/Tech/Migration/Notes.md",
     "7 - Projects/ForkFlow/Tech/Migration/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",
-    "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Architecture Brainstorming Template.md",
-    "6 - Full Notes/Coding Project Planning/Project Workflow.md",
     "7 - Projects/ForkFlow/File Structure",
     "7 - Projects/ForkFlow/Tech/Migration",
     "7 - Projects/ForkFlow/Tech",
@@ -291,7 +292,6 @@
     "7 - Projects/ForkFlow",
     "6 - Full Notes/Claude-Code/Memories",
     "7 - Projects/Kitchen Pantry CRM/Context",
-    "6 - Full Notes/Perplexity - Space",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
