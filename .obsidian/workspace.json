@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/NEW PRD-TXT.md",
+                "file": "6 - Full Notes/Claude-Code/OLD/claude-global-config.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NEW PRD-TXT"
+              "title": "claude-global-config.md"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PRODUCTS",
+                "query": "- help",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,8 +224,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7caf3c63ab03d62e",
+  "active": "e3d3afac55a86486",
   "lastOpenFiles": [
+    "6 - Full Notes/Coding NOTES/3.Development Tools and Utilities Guide.md",
+    "7 - Projects/---LogoCraft Project---/2.Tools & Setup.md",
+    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/C++/--Prompt--.md",
+    "6 - Full Notes/Claude-Code/OLD/MCP Setup.md",
+    "6 - Full Notes/Claude-Code/CheatSheet.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Adv Code Review.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md/Claude.md.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
+    "7 - Projects/ForkFlow/NEW PRD-TXT.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Core Features-home page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Tech Stack.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Prototype.md",
@@ -236,7 +246,6 @@
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Contact page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page.md",
-    "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map",
     "7 - Projects/Old Projects/---MasterLink CRM Project---/Project Structure/1 Current System Analysis & Foundational Improvements.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Reports Page.md",
@@ -244,14 +253,6 @@
     "7 - Projects/ForkFlow/File Structure/SIte Map/Logon Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Organization Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Product Page.md",
-    "7 - Projects/ForkFlow/File Structure/SIte Map/Admin Settings Page.md",
-    "7 - Projects/ForkFlow/File Structure/SIte Map/Contact Page.md",
-    "7 - Projects/ForkFlow/File Structure/SIte Map/Interactions Page.md",
-    "7 - Projects/---Wordle Project---/Phases/two AZ Apps.md",
-    "7 - Projects/ForkFlow/Tech/Migration/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md/Claude.md.md",
-    "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Feature Specification.md",
-    "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Architecture Brainstorming Template.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---",
     "6 - Full Notes/Claude-Code/OLD",
     "6 - Full Notes/Claude-Code/Custom Commands",
