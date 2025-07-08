@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Contact page.md",
+                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contact page"
+              "title": "Home Page"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Core Features"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,12 +223,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "819341028f981fdd",
+  "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Contact page.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Core Features.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Prototype.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map",
