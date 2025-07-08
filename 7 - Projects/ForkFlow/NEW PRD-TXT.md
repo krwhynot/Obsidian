@@ -10,7 +10,7 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 
 ### 1.3 Target Users
 - **Primary:** 5 food brokers who visit customers in the field
-- **Secondary:** CRM administrator/manager for reporting and oversight
+- **Secondary:** CRM administrator/ account managers for reporting and oversight
 
 ## 2. Product Strategy
 
