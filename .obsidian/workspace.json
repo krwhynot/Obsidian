@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/Old Projects/---MasterLink CRM Project---/Project Structure/1 Current System Analysis & Foundational Improvements.md",
+                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1 Current System Analysis & Foundational Improvements"
+              "title": "Home Page"
             }
           },
           {
@@ -145,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -269,7 +268,11 @@
   },
   "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Prototype.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Tech Stack.md",
+    "7 - Projects/Old Projects/---MasterLink CRM Project---/Project Structure/1 Current System Analysis & Foundational Improvements.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Reports Page.md",
     "7 - Projects/ForkFlow/File Structure/Main Structure.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Logon Page.md",
@@ -289,13 +292,10 @@
     "6 - Full Notes/Coding NOTES/Coding Flow.md",
     "7 - Projects/Kitchen Pantry CRM/Context/User Walkthrough.md",
     "7 - Projects/Kitchen Pantry CRM/Diagrams/Entity Relationship Diagram.mermaid.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Prototype.md",
     "7 - Projects/ForkFlow/Tech/Tech Summary.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md",
     "7 - Projects/ForkFlow/Tech/Current Status.md",
-    "7 - Projects/ForkFlow/Tech/Current TECH STACK.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---",
-    "7 - Projects/ForkFlow/Tech/PROMPT- Dependency Mapping.md",
     "6 - Full Notes/Claude-Code/OLD",
     "6 - Full Notes/Claude-Code/Custom Commands",
     "7 - Projects/ForkFlow/File Structure",
@@ -306,7 +306,6 @@
     "2 - Source Material/Meta/Attachments",
     "2 - Source Material/Meta",
     "7 - Projects/ForkFlow/File Structure/SIte Map",
-    "7 - Projects/ForkFlow",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
     "2 - Source Material/Meta/Attachments/python_NDsuUUY0Yd.png",
     "2 - Source Material/Meta/Attachments/python_APSd85st22.png",
