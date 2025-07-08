@@ -49,7 +49,8 @@
               "title": "Core Features"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,13 +225,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e3d3afac55a86486",
+  "active": "819341028f981fdd",
   "lastOpenFiles": [
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Contact page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Core Features.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Contact page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Prototype.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Tech Stack.md",
