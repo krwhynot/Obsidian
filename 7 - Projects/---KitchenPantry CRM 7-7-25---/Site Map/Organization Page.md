@@ -1,4 +1,4 @@
-You are an expert CRM UI/UX designer with deep expertise in organization management interfaces and enterprise application design. Your task is to design a comprehensive CRM Organization page with an "Add New Organization" feature that incorporates the most effective characteristics of top-rated CRM systems while maintaining visual consistency with the existing CRM Mission Control Dashboard color scheme.
+You are an expert CRM UI/UX designer with deep expertise in organization management interfaces and enterprise application design. Your task is to design and produce a **working HTML demo** of a comprehensive CRM Organization page with an "Add New Organization" feature that incorporates the most effective characteristics of top-rated CRM systems while maintaining visual consistency with the existing CRM Mission Control Dashboard color scheme
 
 ## DESIGN REQUIREMENTS
 
@@ -7,15 +7,16 @@ You are an expert CRM UI/UX designer with deep expertise in organization managem
 - **Professional & Trustworthy**: Use design elements that convey reliability and data security
 - **Consistent & Organized**: Maintain logical information architecture with clear visual hierarchy
 - **Touch-Optimized**: Follow WCAG 2.1 AA standards with 48px minimum touch targets
+
 ### Mission Control Dashboard Color Palette Consistency
 Based on modern CRM dashboard design patterns, use this established color scheme:
-- **Primary Blue**: #1C79D7 (Bright Navy Blue) - for primary actions and navigation
-- **Light Blue**: #78BCF6 (Very Light Azure) - for secondary elements and highlights
-- **Dark Blue**: #245C94 (Lapis Lazuli) - for headers and emphasis
-- **Neutral Blue**: #809AAF (Weldon Blue) - for supporting text
-- **Accent Green**: #BDCFA2 (Light Moss Green) - for positive actions and success states
-- **Background**: #F1F1F1 (Light Grey) - for main background areas
-- **Text**: #202020 (Dark Grey) - for primary text content
+- **Primary Blue**: #1C79D7 (Bright Navy Blue) - for primary actions, navigation, and trust-building elements
+- **Light Blue**: #78BCF6 (Very Light Azure) - for secondary elements, highlights, and interactive states
+- **Dark Blue**: #245C94 (Lapis Lazuli) - for headers, emphasis, and important data points
+- **Neutral Blue**: #809AAF (Weldon Blue) - for supporting text and secondary information
+- **Accent Green**: #BDCFA2 (Light Moss Green) - for positive actions, success states, and confirmations
+- **Background**: #F1F1F1 (Light Grey) - for main background areas and content separation
+- **Text**: #202020 (Dark Grey) - for primary text content and readability
 
 ### Typography & Hierarchy
 - **Font**: Clean sans-serif (Inter, Roboto, or system fonts)
@@ -28,43 +29,42 @@ Based on modern CRM dashboard design patterns, use this established color scheme
 ### Layout Pattern: Sidebar + Master-Detail View
 Design using the proven master-detail pattern with these components:
 
-1. **Left Panel - Organization List (35% width)**
-   - Searchable organization list with real-time filtering
-   - Card-based layout with organization avatars and key metrics
-   - Quick filter chips: "All", "Active", "Prospects", "Customers"
-   - Alphabetical navigation (A-Z quick jump)
-   - "Add New Organization" floating action button
+#### Left Panel - Organization List (35% width)
+- **Searchable organization list** with real-time filtering
+- **Card-based layout** with organization avatars and key metrics
+- **Quick filter chips**: "All", "Active", "Prospects", "Customers"
+- **Alphabetical navigation** (A-Z quick jump)
+- **"Add New Organization"** floating action button with primary blue background
 
-2. **Right Panel - Organization Details (65% width)**
-   - Tabbed interface: "Overview", "Contacts", "Interactions", "Opportunities"
-   - Organization header with company logo, name, and status
-   - Key metrics cards: Revenue, Deal Count, Last Interaction
-   - Interactions timeline with interaction history
+#### Right Panel - Organization Details (65% width)
+- **Tabbed interface**: "Overview", "Contacts", "Activities", "Opportunities"
+- **Organization header** with company logo, name, and status
+- **Key metrics cards**: Revenue, Deal Count, Last Activity
+- **Activity timeline** with interaction history
 
-### Organization List Components
+### Organization List Components Implementation
 - **Search Bar**: Global search with autocomplete suggestions
 - **Filter Controls**: Industry, Size, Location, Status dropdown filters
-- **Organization Cards**: Include company logo, name, industry, contact count
+- **Organization Cards**: Include company logo, name, industry, revenue, contact count
 - **List Actions**: Bulk selection, export, delete options
 - **Pagination**: Show 50 organizations per page with "Load More" option
-
 ### Organization Detail Components
 - **Header Section**: Company name, logo, status badge, primary contact
-- **Quick Actions**: Edit, Delete, Add Contact, Create Opportunities buttons
+- **Quick Actions**: Edit, Delete, Add Contact, Create Deal buttons
 - **Information Grid**: Address, phone, website, industry, employee count
-- **Recent Interaction: Timeline of calls, emails, meetings, notes
+- **Recent Activity**: Timeline of calls, emails, meetings, notes
 - **Contact List**: Associated contacts with roles and last contact date
-- **Opportunity Pipeline**: Visual pipeline of Interactions in progress
+- **Opportunity Pipeline**: Visual pipeline of deals in progress
 
 ## ADD NEW ORGANIZATION FORM SPECIFICATIONS
 
 ### Form Design Pattern: Progressive Modal
-Create a multi-step modal form following these best practices:
+Create a multi-step modal form following modern CRM best practices:
 
 #### Step 1: Basic Information
 - **Company Name** (required, text input, auto-suggestion from database)
 - **Industry** (dropdown with common industries)
-- **Company Size** (dropdown: 1-10, 11-50, 51-200, 201-1000, 1000+)
+- **Company Size** (dropdown: 1-10, 11-50, 51-200, 201-1000)
 - **Website** (URL input with validation)
 
 #### Step 2: Contact Details
@@ -77,9 +77,9 @@ Create a multi-step modal form following these best practices:
 - **Annual Revenue** (currency input with formatting)
 - **Description** (textarea for company notes)
 - **Tags** (multi-select for categorization)
-- **Lead Source** (dropdown: Website, Referral, Cold Call, Food Show, etc.)
+- **Lead Source** (dropdown: Website, Referral, Cold Call, Trade Show, etc.)
 
-### Form Design Best Practices Implementation
+### Modern Form Design Best Practices Implementation
 - **Single Column Layout**: Vertical form structure for optimal completion
 - **Field Grouping**: Logical sections with clear visual separation
 - **Smart Defaults**: Pre-populate fields when possible
@@ -87,45 +87,62 @@ Create a multi-step modal form following these best practices:
 - **Progress Indicator**: Step counter and progress bar
 - **Touch-Friendly Inputs**: 48px height inputs with 16px font
 
-### Form Interaction Patterns
-- **Auto-save**: Save draft data to prevent loss
-- **Smart Suggestions**: Company data enrichment from external sources
-- **Duplicate Detection**: Warn if similar organization exists
-- **Conditional Fields**: Show additional fields based on selections
-- **Quick Actions**: "Save & Add Contact", "Save & Create Deal" options
+## HTML DEMO DELIVERABLE
 
-## RESPONSIVE BEHAVIOR & ACCESSIBILITY
+Produce a **single self-contained HTML file** (with embedded CSS and minimal vanilla JavaScript) that demonstrates:
 
-### Responsive Design
-- **Mobile (<640px)**: Single column layout, collapsible navigation, touch-optimized
-- **Tablet (640-1024px)**: Responsive grid, collapsible detail panel
-- **Desktop (>1024px)**: Full master-detail view with persistent navigation
+### 1. **Organization Management Interface**
+- Master-detail layout with organization list and detail pane
+- Search functionality with real-time filtering
+- Organization cards with avatars, names, industries, and key metrics
+- Tabbed detail view with organization information and activity timeline
 
-### Accessibility Requirements
-- **Screen Reader Support**: Proper ARIA labels and semantic HTML
-- **Keyboard Navigation**: Full functionality without mouse
-- **Color Contrast**: Minimum 4.5:1 ratio for all text
-- **Touch Targets**: 48px minimum for all interactive elements
+### 2. **Add New Organization Modal**
+- Progressive disclosure form with 3 steps
+- Real-time form validation with helpful error messages
+- Smart duplicate detection warnings
+- Touch-optimized inputs with 48px minimum height
 
-## INTERACTION PATTERNS & MICRO-ANIMATIONS
+### 3. **Interactive Features**
+- **Functional search bar** with live filtering of organization list
+- **Working tab navigation** in organization detail view
+- **Modal form with step-by-step progression**
+- **Hover states and visual feedback** for all interactive elements
 
-### List View Interactions
-- **Hover States**: Subtle elevation and highlighting on organization cards
-- **Quick Preview**: Hover tooltip with key organization metrics
-- **Drag Gestures**: Swipe actions for mobile (edit, delete, favorite)
-- **Loading States**: Skeleton screens while fetching data
+### 4. **Sample Data Integration**
+- **10-15 realistic organization records** with varied information
+- **Organization avatars** (using placeholder services or company initials)
+- **Recent activity entries** with different interaction types
+- **Industry associations and revenue ranges**
 
-### Form Interactions
-- **Field Focus**: Blue border highlight matching primary color
-- **Validation Feedback**: Real-time validation with green checkmarks
-- **Error Handling**: Red border with helpful error message below field
-- **Success States**: Green confirmation with next action suggestions
+### 5. **Responsive Design**
+- **Mobile-first responsive layout** with breakpoints
+- **Touch-friendly interactions** on mobile devices
+- **Collapsible navigation** for smaller screens
+- **Optimized typography and spacing** across device sizes
 
-### Navigation Transitions
-- **Smooth Animations**: 200ms ease transitions between states
-- **Modal Animations**: Slide-up from bottom on mobile, center fade on desktop
-- **Tab Switching**: Smooth content transitions with loading indicators
-- **Data Updates**: Optimistic UI with rollback on errors
+## IMPLEMENTATION NOTES
+
+### Technical Requirements
+- **HTML5 Semantic Structure**: Use proper heading hierarchy, semantic elements, and ARIA labels
+- **Embedded CSS**: Include all styles within `<style>` tags in the HTML head
+- **Vanilla JavaScript**: Minimal JavaScript for interactions (search, tabs, modal, form validation)
+- **No External Dependencies**: Self-contained file that works offline
+- **Cross-Browser Compatibility**: Works in all modern browsers
+
+### Interactive Functionality
+- **Search Implementation**: Filter organizations by name, industry, location, or status
+- **Tab Switching**: Smooth transitions between organization detail tabs
+- **Modal Management**: Open/close add organization form with backdrop interaction
+- **Form Validation**: Real-time validation with visual feedback
+- **Organization Selection**: Click organization cards to view details in right pane
+
+### Visual Design Elements
+- **Modern Card Design**: Clean organization cards with subtle shadows and hover effects
+- **Professional Icons**: Use Unicode symbols or CSS-created icons for actions
+- **Consistent Color Scheme**: Implement Mission Control dashboard colors throughout
+- **Typography Hierarchy**: Clear visual hierarchy with proper font sizing
+- **Loading States**: Visual feedback for form submissions and data updates
 
 ## MODERN CRM FEATURES INTEGRATION
 
@@ -141,32 +158,32 @@ Create a multi-step modal form following these best practices:
 - **Export Options**: CSV, Excel, PDF export with custom field selection
 - **Integration Hooks**: Connect with email, calendar, and communication tools
 
-## PERFORMANCE OPTIMIZATIONS
+## SUCCESS CRITERIA
 
-### Data Loading Strategies
-- **Lazy Loading**: Load organization details on selection
-- **Virtual Scrolling**: Handle large organization lists efficiently
-- **Caching**: Store frequently accessed organization data locally
-- **Optimistic Updates**: Immediate UI feedback with server confirmation
+### Functional Requirements
+- **Complete Organization Management**: View, search, and add organizations functionality
+- **Responsive Layout**: Works seamlessly across desktop, tablet, and mobile
+- **Form Validation**: Prevents invalid data entry with helpful error messages
+- **Professional Appearance**: Matches quality of commercial CRM interfaces
 
-### Form Performance
-- **Auto-save Debouncing**: Save draft every 2 seconds after input stops
-- **Progressive Enhancement**: Load form sections as needed
-- **Validation Throttling**: Validate after user stops typing (500ms delay)
-- **Image Optimization**: Compress and resize company logos automatically
+### User Experience Goals
+- **Intuitive Navigation**: Users can operate without instructions
+- **Fast Performance**: Smooth interactions and instant visual feedback
+- **Professional Feel**: Interface conveys trust and reliability
+- **Touch-Friendly**: All elements easily accessible on touch devices
 
-## SUCCESS METRICS & USER EXPERIENCE GOALS
+### Code Quality Standards
+- **Clean HTML Structure**: Well-organized, semantic markup
+- **Efficient CSS**: Organized stylesheets with consistent naming conventions
+- **Minimal JavaScript**: Only essential functionality, well-commented
+- **Developer-Ready**: Code structure suitable for further development
 
-### Key Performance Indicators
-- **Form Completion Rate**: Target 85%+ completion rate for new organization forms
-- **Data Quality**: Ensure 90%+ of required fields are accurately completed
-- **User Efficiency**: Reduce time to create new organization by 40%
-- **Error Reduction**: Minimize validation errors through smart design
+## DELIVERABLE OUTPUT
 
-### User Experience Objectives
-- **Intuitive Navigation**: Users should find organizations without training
-- **Efficient Data Entry**: Minimize clicks and keystrokes for common tasks
-- **Contextual Information**: Show relevant data based on user's current focus
-- **Mobile Optimization**: Full functionality on tablets and smartphones
+Return the complete HTML demo file followed by a brief implementation guide summarizing:
+- **Key Design Choices**: Color scheme implementation and layout decisions
+- **Interactive Features**: How search, tabs, and form validation work
+- **Responsive Behavior**: Breakpoint strategy and mobile optimizations
+- **Extension Options**: How to add features or integrate with backend systems
 
-Your design should demonstrate mastery of modern CRM organization management principles while creating an interface that feels both professional and efficient. Focus on reducing cognitive load while providing powerful functionality for managing customer relationships, and ensure the design maintains perfect visual consistency with the established Mission Control dashboard color scheme and design language.
+The HTML demo should feel like a professional CRM organization management interface that stakeholders can immediately interact with to evaluate the proposed design and functionality, incorporating the latest 2025 CRM best practices for data management, user experience, and enterprise-grade interface design.
