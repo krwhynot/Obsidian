@@ -157,14 +157,11 @@ Produce a **single self-contained HTML file** (with embedded CSS and minimal van
 
 ### Advanced Product Management
 - **Smart Product Organization**: Automatic categorization and intelligent product grouping
-- **Inventory Intelligence**: Real-time stock tracking with low-stock alerts and reorder suggestions
 - **Price Management**: Dynamic pricing with cost analysis and profit margin calculations
 - **Product Lifecycle**: Track products from concept to discontinuation with status workflows
 
 ### Sales Integration
 - **Deal Association**: Link products to opportunities and sales transactions
-- **Quote Generation**: Automatic quote creation with product pricing and configurations
-- **Revenue Analytics**: Track product performance and sales metrics
 - **Customer Insights**: Analyze product preferences and buying patterns
 
 ### E-commerce Integration
