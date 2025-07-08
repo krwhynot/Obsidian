@@ -5,35 +5,13 @@
 
 #### 1.1 Core Data Sheets
 The workbook currently maintains five primary data management sheets:
-
-1. Organizations (Used: 787 rows x 14 columns)
-   - Protected sheet
-   - Contains merged range D2:J2
-   - Has complex conditional formatting rules
-   - Primary client tracking sheet
-
-2. Contacts (Used: 1328 rows x 14 columns)
-   - Unprotected sheet
-   - Multiple conditional formatting rules
-   - Extensive data validation setup
-
-3. Opportunities (Used: 642 rows x 14 columns)
-   - Protected sheet
-   - Two merged ranges (E2:L2, A2:C2)
-   - Three conditional formatting rule sets
-   - Critical for sales pipeline tracking
-
-4. Interactions (Used: 383 rows x 10 columns)
-   - Unprotected sheet
-   - Single merged range (E2:I2)
-   - Three conditional formatting sets
-   - Used for activity tracking
-
-5. Products (Used: 14 rows x 17 columns)
-   - Unprotected sheet
-   - Two merged ranges (H2:R2, B2:C2)
-   - Single conditional formatting rule
-   - Frozen panes at A5
+Must have these 6 pages
+1. Organizations 
+2. Contacts
+3. Opportunities
+4. Interactions 
+5. Products 
+6. Reporting
 
 #### 1.2 Reporting Sheets
 

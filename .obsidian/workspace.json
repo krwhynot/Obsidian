@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/File Structure/SIte Map/Reports Page.md",
+                "file": "7 - Projects/Old Projects/---MasterLink CRM Project---/Project Structure/1 Current System Analysis & Foundational Improvements.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Reports Page"
+              "title": "1 Current System Analysis & Foundational Improvements"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "principal checkb",
+                "query": "PRODUCTS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -268,8 +269,9 @@
   },
   "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
-    "7 - Projects/ForkFlow/File Structure/Main Structure.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Tech Stack.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Reports Page.md",
+    "7 - Projects/ForkFlow/File Structure/Main Structure.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Logon Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Organization Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Product Page.md",
@@ -278,7 +280,6 @@
     "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Interactions Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Opportunities Page.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Tech Stack.md",
     "7 - Projects/---Wordle Project---/Phases/two AZ Apps.md",
     "7 - Projects/ForkFlow/Tech/Migration/List Migrating from Material-UI to Tailwind CSS & Headless UI.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md/Claude.md.md",
