@@ -36,25 +36,25 @@ Design using the proven master-detail pattern with these components:
    - "Add New Organization" floating action button
 
 2. **Right Panel - Organization Details (65% width)**
-   - Tabbed interface: "Overview", "Contacts", "Activities", "Opportunities"
+   - Tabbed interface: "Overview", "Contacts", "Interactions", "Opportunities"
    - Organization header with company logo, name, and status
-   - Key metrics cards: Revenue, Deal Count, Last Activity
-   - Activity timeline with interaction history
+   - Key metrics cards: Revenue, Deal Count, Last Interaction
+   - Interactions timeline with interaction history
 
 ### Organization List Components
 - **Search Bar**: Global search with autocomplete suggestions
 - **Filter Controls**: Industry, Size, Location, Status dropdown filters
-- **Organization Cards**: Include company logo, name, industry, revenue, contact count
+- **Organization Cards**: Include company logo, name, industry, contact count
 - **List Actions**: Bulk selection, export, delete options
 - **Pagination**: Show 50 organizations per page with "Load More" option
 
 ### Organization Detail Components
 - **Header Section**: Company name, logo, status badge, primary contact
-- **Quick Actions**: Edit, Delete, Add Contact, Create Deal buttons
+- **Quick Actions**: Edit, Delete, Add Contact, Create Opportunities buttons
 - **Information Grid**: Address, phone, website, industry, employee count
-- **Recent Activity**: Timeline of calls, emails, meetings, notes
+- **Recent Interaction: Timeline of calls, emails, meetings, notes
 - **Contact List**: Associated contacts with roles and last contact date
-- **Opportunity Pipeline**: Visual pipeline of deals in progress
+- **Opportunity Pipeline**: Visual pipeline of Interactions in progress
 
 ## ADD NEW ORGANIZATION FORM SPECIFICATIONS
 
@@ -77,7 +77,7 @@ Create a multi-step modal form following these best practices:
 - **Annual Revenue** (currency input with formatting)
 - **Description** (textarea for company notes)
 - **Tags** (multi-select for categorization)
-- **Lead Source** (dropdown: Website, Referral, Cold Call, etc.)
+- **Lead Source** (dropdown: Website, Referral, Cold Call, Food Show, etc.)
 
 ### Form Design Best Practices Implementation
 - **Single Column Layout**: Vertical form structure for optimal completion
