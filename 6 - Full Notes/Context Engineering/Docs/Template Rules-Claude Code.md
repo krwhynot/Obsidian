@@ -1,5 +1,5 @@
 <Task> Optimize a Markdown file for Claude Code AI parsing and comprehension. </Task> 
-<Inputs> /home/krwhynot/Projects/KitchenPantry/Docs/Business Logic and Workflow Management.md</Inputs> 
+<Inputs>/home/krwhynot/Projects/KitchenPantry/Docs/Performance Optimization and Monitoring.md</Inputs> 
 <Instructions> You are provided with a Markdown file named `<filename>`. Your task is to optimize this file for **Claude Code AI** by applying Claude-friendly formatting and — if necessary — breaking it into smaller, modular files.
 
 Please follow the guidelines below:
@@ -19,7 +19,7 @@ Output clean, Claude Code–ready Markdown content inside the new modular struct
 
 Here is the source file:  
 <document>  
-/home/krwhynot/Projects/KitchenPantry/Docs/Business Logic and Workflow Management.md 
+/home/krwhynot/Projects/KitchenPantry/Docs/Performance Optimization and Monitoring.md 
 </document>
 
 Begin formatting and modularizing now.  
