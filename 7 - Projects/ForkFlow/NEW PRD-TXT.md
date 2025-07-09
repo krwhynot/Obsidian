@@ -10,13 +10,13 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 
 ### 1.3 Target Users
 - **Primary:** 5 food brokers who visit customers in the field
-- **Secondary:** CRM administrator/ account managers for reporting and oversight
+- **Secondary:**  one CRM administrator for reporting and oversight
 
 ## 2. Product Strategy
 
 
 ### 2.1 Vision Statement
-"Empower food brokers with a simple, mobile-friendly CRM that works anywhere, helping them build stronger customer relationships and track their sales activities efficiently."
+"Empower food brokers with a simple, mobile-friendly CRM that works anywhere, helping them build stronger customer relationships and track their sales activities efficiently and easily report back to a principal on the activity(Opportunities & Interactions) of their product."
 
 
 ### 2.2 Success Criteria
@@ -97,6 +97,8 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 - **RPT-003:** As an admin, I want to see overall team activity across all brokers
 - **RPT-004:** As a user, I want to export data to CSV for external analysis
 - **RPT-005:** As a broker, I want to see my upcoming follow-up reminders
+- **RPT-006:** As a broker, I want to see my Opportunities and Interactions grouped by Principal by week. 
+- **RPT-006:** As an user , I want to see all Opportunities and Interactions grouped by Principal by week. 
 
 #### Acceptance Criteria:
 - Dashboard showing visits per day/week/month
@@ -124,9 +126,6 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 ## 4. Technical Requirements
 
 ### 4.1 Platform Requirements
-- **Frontend:** Mobile-first responsive web application
-- **Browser Support:** iOS Safari 14+, Android Chrome 90+, Desktop Chrome/Firefox/Edge
-- **Backend:** RESTful API with JSON responses
 - **Database:** PostgreSQL for data persistence
 - **Authentication:** JWT token-based authentication
 
@@ -139,8 +138,6 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 
 ### 4.3 Security Requirements
 - **Authentication:** Secure login with password requirements
-- **Data Encryption:** HTTPS/TLS 1.3 for all communications
-- **Session Management:** Secure JWT tokens with proper expiration
 - **Data Privacy:** User data isolated by broker account
 - **Backup Security:** Encrypted database backups
 
