@@ -60,3 +60,8 @@ Here is the source file:
 
 Begin formatting and modularizing now.  
 </Instructions>
+
+
+
+-remove docker
+-remove te
