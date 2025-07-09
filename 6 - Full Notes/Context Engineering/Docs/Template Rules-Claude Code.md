@@ -1,30 +1,21 @@
-Create a `UI_UX_doc.md` file for this project that is optimized for Claude Code AI’s contextual understanding.
+Rewrite the project’s **API Specifications and Endpoints** into clean, Claude Code AI–optimized documentation.
 
-The file should follow Claude-friendly formatting standards to ensure clarity, parsing efficiency, and effective code AI utilization.
+The output should be in **Markdown format**, broken into **multiple modular files** (e.g. `auth_api.md`, `user_api.md`, `errors.md`) **if needed to stay within 2,000–4,000 token segments**, ideal for Claude's context window and parsing efficiency.
 
-**If the content exceeds optimal context length**, break it into clearly named multiple Markdown files (e.g. `UI_components.md`, `Accessibility_standards.md`, etc.) to preserve full fidelity without loss of detail.
+🔧 Claude Parsing & Formatting Best Practices:
+- Use **clear and consistent section headers** (`##`, `###`)    
+- Limit each section to **under 400 tokens (~300–500 words)**    
+- Use **bullet points, bolded text, and code blocks** for clarity    
+- Prefer **short summaries** before technical blocks    
+- Avoid raw HTML, embedded images, or overly long inline code    
 
-Please structure each file using these best practices:
+🔍 Each endpoint definition must include:
+- **Endpoint**: HTTP method + route    
+- **Purpose**: Brief explanation    
+- **Request Parameters**: In **TypeScript interface** format    
+- **Response Format**: In **TypeScript interface** format    
+- **Example Usage**: Show `curl`, `fetch`, or `axios` request    
+- **Example Response**: Realistic JSON structure    
+- **Error Handling**: List common errors and how to handle them    
 
-- Use **clear section headers** (`##`, `###`)    
-- Keep individual sections **under ~400 tokens**    
-- Use **bullet points or numbered lists** rather than dense paragraphs    
-- Emphasize key points with **bold** or _italic_ text    
-- Begin complex sections with a **1–2 sentence summary**    
-- Avoid embedded images, raw HTML, or overly nested formatting    
-
-The documentation must include the following sections (split into separate files if needed):
-
-- **Design System Specifications**    
-- **UI Component Guidelines*    
-- **User Experience Flow Diagrams** (textual summaries)    
-- **Responsive Design Requirements**    
-- **Accessibility Standards*    
-- **Style Guide and Branding**    
-- **Component Library Organization**    
-- **User Journey Maps**    
-- **Wireframe References**    
-- **Design Tool Integration Instructions**
-    
-
-Output everything as clean, semantic Markdown, ready for Claude Code AI consumption.
+📦 Deliver the output in **clean Markdown**, logically segmented and ready for Claude Code AI to parse effectively.
