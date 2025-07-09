@@ -15,7 +15,7 @@
               "state": {
                 "file": "6 - Full Notes/Context Engineering/Docs/Template Rules-Claude Code.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Template Rules-Claude Code"
@@ -196,7 +196,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e3d3afac55a86486",
+  "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
     "6 - Full Notes/Context Engineering/Docs/Implementation.md.md",
     "6 - Full Notes/Context Engineering/Docs/project_structure.md.md",
