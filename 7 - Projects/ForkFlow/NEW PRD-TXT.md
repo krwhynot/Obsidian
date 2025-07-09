@@ -208,124 +208,18 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 
 ### 6.1 Core Entities
 
-#### 6.1.1 Users Table
-
-```
-- id (UUID, primary key)
-- username (string, unique)
-- email (string, unique)
-- password_hash (string)
-- first_name (string)
-- last_name (string)
-- role (enum: broker, admin)
-- created_at (timestamp)
-- updated_at (timestamp)
-- is_active (boolean)
-
-```
-#### 6.1.2 Customers Table
-
-```
-- id (UUID, primary key)
-- business_name (string, required)
-- contact_person (string)
-- phone (string)
-- email (string)
-- address_line_1 (string)
-- address_line_2 (string)
-- city (string)
-- state (string)
-- zip_code (string)
-- business_type (enum: restaurant, grocery, distributor, other)
-- notes (text, 500 char limit)
-- latitude (decimal)
-- longitude (decimal)
-- created_by (UUID, foreign key to users)
-- created_at (timestamp)
-- updated_at (timestamp)
-
-```
-
-#### 6.1.3 Visits Table
-
-```
-- id (UUID, primary key)
-- customer_id (UUID, foreign key to customers)
-- broker_id (UUID, foreign key to users)
-- visit_date (timestamp)
-- notes (text, 1000 char limit)
-- latitude (decimal)
-- longitude (decimal)
-- created_at (timestamp)
-- updated_at (timestamp)
-
-```
-
-#### 6.1.5 Follow-up Reminders Table
-
-```
-- id (UUID, primary key)
-- customer_id (UUID, foreign key to customers)
-- broker_id (UUID, foreign key to users)
-- reminder_date (timestamp)
-- notes (text, 500 char limit)
-- is_completed (boolean)
-- created_at (timestamp)
-- completed_at (timestamp)
-```
-
-### 6.2 Data Relationships
-- Users have many Customers (created_by relationship)
-- Users have many Visits (broker_id relationship)
-- Customers have many Visits
-- Customers have many Follow-up Reminders
 
 ## 7. API Specifications
 
 ### 7.1 Authentication Endpoints
 
-```
-
-POST /api/auth/login
-POST /api/auth/logout
-POST /api/auth/refresh-token
-POST /api/auth/forgot-password
-POST /api/auth/reset-password
-
-```
 ### 7.2 Customer Endpoints
-
-```
-GET /api/customers - List customers with pagination
-POST /api/customers - Create new customer
-GET /api/customers/:id - Get customer details
-PUT /api/customers/:id - Update customer
-DELETE /api/customers/:id - Delete customer
-GET /api/customers/search?q=query - Search customers
-```
 
 ### 7.3 Visit Endpoints
 
-```
-GET /api/visits - List visits with pagination
-POST /api/visits - Create new visit
-GET /api/visits/:id - Get visit details
-PUT /api/visits/:id - Update visit
-DELETE /api/visits/:id - Delete visit
-GET /api/customers/:id/visits - Get visits for specific customer
-
-```
 
 ### 7.4 Reporting Endpoints
 
-```
-GET /api/reports/dashboard - Dashboard summary data
-GET /api/reports/visits?start_date&end_date - Visit reports
-GET /api/reports/customers/needs-visit - Customers needing visits
-GET /api/exports/customers - Export customers to CSV
-GET /api/exports/visits - Export visits to CSV
-
-```
 
 ## 8. Non-Functional Requirements
 
@@ -374,7 +268,7 @@ GET /api/exports/visits - Export visits to CSV
 - Must work on standard mobile browsers
 - No native mobile app development
 ### 9.2 Business Constraints
-- Maximum 5 broker users for MVP
+- Maximum 5-8 broker users for MVP
 - 3-month development timeline
 - Development budget: $45,000-$75,000
 - No integration with external CRM systems initially
@@ -470,61 +364,3 @@ GET /api/exports/visits - Export visits to CSV
 - **Data Migration:** Customer data import tools
 - **User Training:** 2-hour training session per broker
 - **Support Plan:** Email support with 24-hour response time
-## 13. Post-Launch Support
-
-### 13.1 Monitoring
-
-- **Application Performance:** Response times and error rates
-- **User Activity:** Login patterns and feature usage
-- **System Health:** Server resources and database performance
-- **Business Metrics:** Visit frequency and customer growth
-
-
-### 13.2 Maintenance Schedule
-- **Weekly:** Database backups verification
-- **Monthly:** Security updates and patches
-- **Quarterly:** Performance optimization review
-- **Annually:** Technology stack evaluation
-
-### 13.3 Support Channels
-
-- **Primary:** Email support (support@yourcrm.com)
-- **Secondary:** Phone support during business hours
-- **Documentation:** Online help center and user guides
-- **Training:** Refresher sessions as needed
-
-
-## 14. Future Roadmap (Post-MVP)
-
-  
-### 14.1 Short-term Enhancements (Months 4-6)
-
-- Territory management with boundary mapping
-- Product catalog integration
-- Email integration for customer communication
-- Advanced reporting and analytics
-
-
-### 14.2 Medium-term Features (Months 7-12)
-
-- Native mobile app development
-- Offline-first architecture
-- Integration with accounting software
-- Multi-company/tenant support
-
-### 14.3 Long-term Vision (Year 2+)
-
-- AI-powered customer insights
-- Automated workflow triggers
-- Third-party marketplace integrations
-- White-label solution offering
- 
-**Document Approval:**
-- [ ] Product Manager
-- [ ] Engineering Lead  
-- [ ] UX/UI Designer
-- [ ] Business Stakeholder
-- [ ] QA Lead
-
-**Last Updated:** December 24, 2024  
-**Next Review:** January 15, 2025
