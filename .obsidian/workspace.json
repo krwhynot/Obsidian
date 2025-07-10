@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md/Claude.md.md",
+                "file": "Daily Notes/Jul  09, 2025.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Claude.md"
+              "title": "Jul  09, 2025"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fac",
+                "query": "phase2_data_models",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,9 +198,10 @@
   },
   "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Project Reference.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md/Claude.md.md",
     "6 - Full Notes/Context Engineering/Docs/Template Rules-Claude Code.md",
     "6 - Full Notes/Claude-Code/MCP.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Project Reference.md",
     "6 - Full Notes/Claude-Code/Prompt/Untitled.md",
     "6 - Full Notes/Claude-Code/Prompt",
     "6 - Full Notes/Context Engineering/Docs/Implementation.md.md",
@@ -227,7 +229,6 @@
     "7 - Projects/---LogoCraft Project---/2.Tools & Setup.md",
     "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/C++/--Prompt--.md",
     "6 - Full Notes/Claude-Code/Custom Commands/Adv Code Review.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md/Claude.md.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map",
     "7 - Projects/---KitchenPantry CRM 7-7-25---",
     "6 - Full Notes/Claude-Code/OLD",
