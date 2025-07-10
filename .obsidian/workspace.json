@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/Project Reference.md",
+                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md/Claude.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Project Reference"
+              "title": "Claude.md"
             }
           }
         ]
@@ -197,9 +197,10 @@
   },
   "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
-    "6 - Full Notes/Claude-Code/Prompt/Untitled.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Project Reference.md",
     "6 - Full Notes/Context Engineering/Docs/Template Rules-Claude Code.md",
+    "6 - Full Notes/Claude-Code/MCP.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Project Reference.md",
+    "6 - Full Notes/Claude-Code/Prompt/Untitled.md",
     "6 - Full Notes/Claude-Code/Prompt",
     "6 - Full Notes/Context Engineering/Docs/Implementation.md.md",
     "6 - Full Notes/Context Engineering/Docs/project_structure.md.md",
@@ -227,7 +228,6 @@
     "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/C++/--Prompt--.md",
     "6 - Full Notes/Claude-Code/Custom Commands/Adv Code Review.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md/Claude.md.md",
-    "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map",
     "7 - Projects/---KitchenPantry CRM 7-7-25---",
     "6 - Full Notes/Claude-Code/OLD",
