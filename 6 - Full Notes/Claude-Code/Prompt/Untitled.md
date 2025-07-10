@@ -3,7 +3,7 @@
 
 <Instructions> You are provided with:
 
-1. A collection of `.md` files located in a `Docs/` folder    
+1. A collection of `.md` files located in a @Docs/ folder    
 2. An existing `CLAUDE.md` file that already contains structured content    
 
 Your task is to:
