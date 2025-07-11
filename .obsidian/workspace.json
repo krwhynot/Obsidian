@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Jul  09, 2025.md",
+                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/Core Features-home page.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Jul  09, 2025"
+              "title": "Core Features-home page"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phase2_data_models",
+                "query": "mcp tool help",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,10 +197,25 @@
   },
   "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Project Reference.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Core UI Elements.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/CLAUDE.md/Claude.md.md",
-    "6 - Full Notes/Context Engineering/Docs/Template Rules-Claude Code.md",
+    "6 - Full Notes/Claude-Code/MCP-Help.md",
     "6 - Full Notes/Claude-Code/MCP.md",
+    "6 - Full Notes/Claude-Code/OLD/Notes-TODO.md",
+    "3 - References & Resources/MCP Tools/shrimp task manager MCP.md",
+    "6 - Full Notes/Claude-Code/Memories/Research Errors.md",
+    "6 - Full Notes/Coding NOTES/Coding Rules.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Code Review.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Architecture Review.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Adv Code Review.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Create Feature.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Project Planning.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/design_itterate.md",
+    "6 - Full Notes/Claude-Code/Custom Commands/Automated Testing Analysis.md",
+    "Daily Notes/Jul  09, 2025.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Project Reference.md",
+    "6 - Full Notes/Context Engineering/Docs/Template Rules-Claude Code.md",
     "6 - Full Notes/Claude-Code/Prompt/Untitled.md",
     "6 - Full Notes/Claude-Code/Prompt",
     "6 - Full Notes/Context Engineering/Docs/Implementation.md.md",
@@ -213,22 +227,7 @@
     "6 - Full Notes/Context Engineering/Context.md",
     "7 - Projects/ForkFlow/NEW PRD-TXT.md",
     "2 - Source Material/Meta/Attachments/Pasted image 20250709091917.png",
-    "Daily Notes/Jul  09, 2025.md",
     "6 - Full Notes/Context Engineering",
-    "7 - Projects/Kitchen Pantry CRM/Creds.md",
-    "6 - Full Notes/Claude-Code/CheatSheet.md",
-    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/GUI/brainstorming.md",
-    "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Architecture Brainstorming Template.md",
-    "Daily Notes/Apr  24, 2025.md",
-    "7 - Projects/Kitchen Pantry CRM/Context/1.Objective.md",
-    "6 - Full Notes/Claude-Code/Memories/Research Errors.md",
-    "6 - Full Notes/Claude-Code/OLD/mcp-json file.md",
-    "6 - Full Notes/Claude-Code/OLD/MCP Setup.md",
-    "6 - Full Notes/Claude-Code/OLD/claude-global-config.md.md",
-    "6 - Full Notes/Coding NOTES/3.Development Tools and Utilities Guide.md",
-    "7 - Projects/---LogoCraft Project---/2.Tools & Setup.md",
-    "7 - Projects/Old Projects/CHAT (Call Handling & Analysis Tool) Project/C++/--Prompt--.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/Adv Code Review.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map",
     "7 - Projects/---KitchenPantry CRM 7-7-25---",
     "6 - Full Notes/Claude-Code/OLD",
