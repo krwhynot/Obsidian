@@ -123,6 +123,7 @@ A mobile-friendly web-based CRM system designed specifically for food brokers wh
 - "Near Me" view showing customers within configurable radius
 - Integration with device GPS for current location
 
+
 ## 4. Technical Requirements
 
 ### 4.1 Platform Requirements
