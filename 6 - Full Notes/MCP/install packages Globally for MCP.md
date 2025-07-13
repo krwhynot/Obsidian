@@ -43,4 +43,6 @@ test-mcp-servers() {
 ```
 
 sbp_2e0685253d140230d4e57766a522208a3e9f6b39
-export SUPABASE_ACCESS_TOKEN="sbp_2e0685253d140230d4e57766a522208a3e9f6b39"
+
+                "EXA_API_KEY": "${EXA_API_KEY}"
+export EXA_API_KEY="a9b28749-adac-4675-ac21-b6d6afbb65f1"
