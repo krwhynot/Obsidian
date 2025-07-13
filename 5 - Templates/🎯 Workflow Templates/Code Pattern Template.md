@@ -1,4 +1,4 @@
-﻿created: {{date}} 
+created: {{date}} 
 type: pattern 
 tags: [pattern, #{{technology}}, full-note] 
 confidence: 🟢 high 

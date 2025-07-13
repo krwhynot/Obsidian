@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page/Components.md",
+                "file": "6 - Full Notes/MCP/How to install.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Components"
+              "title": "How to install"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mcp tool help",
+                "query": "depen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,10 +195,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f7bfc7afc47490b8",
+  "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page/Organization Page.md",
+    "5 -Templates/Index.md",
+    "6 - Full Notes/MCP/How to install.md",
+    "6 - Full Notes/MCP",
+    "5 -Templates/Workflow Templates/Weekly Review.md.md",
+    "5 -Templates/Workflow Templates/Debug Session.md.md",
+    "5 -Templates/Workflow Templates/Daily Planning.md.md",
+    "5 -Templates/Workflow Templates/Concept Capture.md.md",
+    "5 -Templates/Workflow Templates/Code Patterns.md.md",
+    "5 -Templates/Coding Project Template/4.Code Sketches.md",
+    "5 - Templates/PRD-Template.md",
+    "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
+    "5 - Templates/🎯 Workflow Templates/Code Pattern Template.md",
+    "5 -Templates/Coding Project Template/0.Instructions Example.md",
+    "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Architecture Brainstorming Template.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page/Components.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page/Organization Page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page",
     "7 - Projects/ForkFlow/NEW PRD-TXT.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Tech Stack.md",
@@ -211,20 +225,7 @@
     "6 - Full Notes/Claude-Code/OLD/Notes-TODO.md",
     "3 - References & Resources/MCP Tools/shrimp task manager MCP.md",
     "6 - Full Notes/Claude-Code/Memories/Research Errors.md",
-    "6 - Full Notes/Coding NOTES/Coding Rules.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/Code Review.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/Architecture Review.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/Adv Code Review.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/Create Feature.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/Project Planning.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/design_itterate.md",
-    "6 - Full Notes/Claude-Code/Custom Commands/Automated Testing Analysis.md",
-    "Daily Notes/Jul  09, 2025.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Project Reference.md",
-    "6 - Full Notes/Context Engineering/Docs/Template Rules-Claude Code.md",
-    "6 - Full Notes/Claude-Code/Prompt/Untitled.md",
     "6 - Full Notes/Claude-Code/Prompt",
-    "6 - Full Notes/Context Engineering/Docs/Implementation.md.md",
     "6 - Full Notes/Context Engineering/Rules",
     "6 - Full Notes/Context Engineering/Docs",
     "2 - Source Material/Meta/Attachments/Pasted image 20250709091917.png",
@@ -233,7 +234,6 @@
     "7 - Projects/---KitchenPantry CRM 7-7-25---",
     "6 - Full Notes/Claude-Code/OLD",
     "6 - Full Notes/Claude-Code/Custom Commands",
-    "7 - Projects/ForkFlow/File Structure",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629170227.png",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629164136.png",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
