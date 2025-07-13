@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/ForkFlow/NEW PRD-TXT.md",
+                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page/Components.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "NEW PRD-TXT"
+              "title": "Components"
             }
           }
         ]
@@ -195,8 +195,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7caf3c63ab03d62e",
+  "active": "f7bfc7afc47490b8",
   "lastOpenFiles": [
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page/Organization Page.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page/Components.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page",
+    "7 - Projects/ForkFlow/NEW PRD-TXT.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Tech Stack.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Core Features-home page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Core UI Elements.md",
@@ -221,9 +225,6 @@
     "6 - Full Notes/Claude-Code/Prompt/Untitled.md",
     "6 - Full Notes/Claude-Code/Prompt",
     "6 - Full Notes/Context Engineering/Docs/Implementation.md.md",
-    "6 - Full Notes/Context Engineering/Docs/project_structure.md.md",
-    "6 - Full Notes/Context Engineering/Docs/UI_UX_doc.md.md",
-    "6 - Full Notes/Context Engineering/Rules/Workflow.md",
     "6 - Full Notes/Context Engineering/Rules",
     "6 - Full Notes/Context Engineering/Docs",
     "2 - Source Material/Meta/Attachments/Pasted image 20250709091917.png",
@@ -233,7 +234,6 @@
     "6 - Full Notes/Claude-Code/OLD",
     "6 - Full Notes/Claude-Code/Custom Commands",
     "7 - Projects/ForkFlow/File Structure",
-    "7 - Projects/ForkFlow/Tech/Migration",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629170227.png",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629164136.png",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
