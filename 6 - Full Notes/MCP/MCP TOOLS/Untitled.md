@@ -1,7 +1,6 @@
 ## Overview
 
 The **@itseasy21/mcp-knowledge-graph** is a persistent memory server that enables Claude Code and other MCP-compatible AI tools to remember information across conversations using a local knowledge graph. This guide focuses on using it effectively in coding projects to enhance your development workflow.
-
 ### How to Install for Project:
 
 ```bash
