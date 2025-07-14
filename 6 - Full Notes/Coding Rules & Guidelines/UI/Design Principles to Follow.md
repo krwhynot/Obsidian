@@ -1,0 +1,8 @@
+- Aesthetic Usability 
+- Hick's Law
+- Jakob's Law
+- Fitts's Law
+- Law of Proximity
+- Zeigarnik Effect
+- Goal-Gradient
+- Law of Similarity

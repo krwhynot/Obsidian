@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/Walk-Through Reveiws/Review 7-13-2025.md",
+                "file": "6 - Full Notes/Coding Rules & Guidelines/UI/Design Principles to Follow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review 7-13-2025"
+              "title": "Design Principles to Follow"
             }
           }
         ]
@@ -195,10 +195,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7caf3c63ab03d62e",
+  "active": "f7bfc7afc47490b8",
   "lastOpenFiles": [
-    "Daily Notes/Jul  13, 2025.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Walk-Through Reveiws/Review 7-13-2025.md",
+    "6 - Full Notes/Coding Rules & Guidelines/UI/Design Principles to Follow.md",
+    "6 - Full Notes/Coding Rules & Guidelines/UI",
+    "6 - Full Notes/Coding Rules & Guidelines",
+    "Daily Notes/Jul  13, 2025.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Principals.md",
     "6 - Full Notes/MCP/install packages Globally for MCP.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Walk-Through Reveiws",
@@ -226,14 +229,11 @@
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Tech Stack.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Core Features-home page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Core UI Elements.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page.md",
     "6 - Full Notes/Claude-Code/Prompt",
     "6 - Full Notes/Context Engineering/Rules",
     "6 - Full Notes/Context Engineering/Docs",
     "2 - Source Material/Meta/Attachments/Pasted image 20250709091917.png",
     "6 - Full Notes/Context Engineering",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629170227.png",
     "2 - Source Material/Meta/Attachments/Pasted image 20250629164136.png",
     "2 - Source Material/Meta/Attachments/strwinclt_7t6kBpRMML.png",
