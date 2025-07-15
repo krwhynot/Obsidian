@@ -49,15 +49,15 @@ NEW STAGES:
 ## Kanban Style Pipeline 
 Purpose: Kanban-style CRM board showing sales opportunities organized by stages. This is for Account Managers who are presenting products on behalf of Principals. User is wanting to know how many Opportunities are in each stage and the last time an interaction was done for that Opportunity for that stage. Revenue or volume being sold should not be concerned or mentioned. I will need two versions of this pipeline:
 1. For the Opportunity Page, which will be a fully detailed version that will be the the main focus if not the only focus on this Page. 
-2. For 
+2. To replace 4 KPI Cards/Widgets on the Dashboard Page
 ### Kanban Card Components Design:
 
 **Essential Information Display:**
 Each opportunity card should contain **7 key fields maximum** to avoid cognitive overload (**Miller's Law**)
 
 **Opportunity card Info:**
-1. Organization Name
-2. Principal Name *(prominently displayed)*
+1. Organization Name *(prominently displayed)*
+2. Principal Name 
 3. Account Manager
 4. Priority Level
 5. Days since last Interaction for this Opportunity
@@ -74,6 +74,12 @@ Cards must implement **Aesthetic-Usability Effect** through:
 - **Generous whitespace** around elements for clarity    
 - **Clear typography hierarchy** with readable fonts
 
+##### Filter Option
+Be able to filter cards by one or any combo of the following:
+- Principal Name
+- Account Manager
+- Priority Level
+- Days since last Interaction(Options: 7days, 14 days, 30 days, 60 days, 90 days)
 ###  UI Flow and Interaction Design
 #### Drag-and-Drop Functionality
 The system should optimize for **Fitts's Law** by ensuring:
@@ -93,7 +99,6 @@ Use horizontal **swimlanes** to categorize opportunities by:
 - **Lead source** (channel attribution)    
 - **Deal size** (strategic vs. transactional)    
 - **Industry vertical** (sector-specific tracking)
-
 ### Psychological Optimization Features
 #### Tesler's Law (Complexity Management)
 **Automate routine tasks** to reduce user cognitive load:
