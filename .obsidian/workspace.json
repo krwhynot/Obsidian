@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page/Kanban Style Pipeline.md",
+                "file": "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page/Misc..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kanban Style Pipeline"
+              "title": "Misc."
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
-    "6 - Full Notes/Coding Rules & Guidelines/UI/Design Principles to Follow.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page/Kanban Style Pipeline.md",
+    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page/Misc..md",
+    "6 - Full Notes/Coding Rules & Guidelines/UI/Design Principles to Follow.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Home Page",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Opportunities Page.md",
     "7 - Projects/ForkFlow/File Structure/SIte Map/Organization Page.md",
@@ -228,7 +229,6 @@
     "5 -Templates/Workflow Templates/Concept Capture.md.md",
     "5 -Templates/Workflow Templates/Code Patterns.md.md",
     "5 -Templates/Coding Project Template/4.Code Sketches.md",
-    "5 - Templates/PRD-Template.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page",
     "6 - Full Notes/Claude-Code/Prompt",
     "6 - Full Notes/Context Engineering/Rules",
