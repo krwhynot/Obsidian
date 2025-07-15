@@ -57,11 +57,12 @@ Each opportunity card should contain **7 key fields maximum** to avoid cogniti
 
 **Opportunity card Info:**
 1. Organization Name *(prominently displayed)*
-2. Principal Name 
-3. Account Manager
-4. Priority Level
-5. Days since last Interaction for this Opportunity
-6. Link to notes *(if there are any Opportunity notes)*
+2. Opportunity Name
+3. Principal Name 
+4. Account Manager
+5. Priority Level
+6. Days since last Interaction for this Opportunity
+7. Link to notes *(if there are any Opportunity notes)*
 
 ##### Card Views
 **Collapsed View**: Organization name, Principal, Account Manager, priority indicator,  Days since last Interaction for this Opportunity
