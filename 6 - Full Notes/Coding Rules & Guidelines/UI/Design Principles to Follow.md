@@ -7,8 +7,35 @@
 - Goal-Gradient
 - Law of Similarity
 
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+# UI/UX Design Principles Cheatsheet
 
+| Principle                      | Brief Meaning                                      | Application Example                                                     |
+| :----------------------------- | :------------------------------------------------- | :---------------------------------------------------------------------- |
+| **Jakob's Law**                | Users expect familiar patterns from other apps     | Keep search in top-right, navigation in left sidebar like standard CRMs |
+| **Hick's Law**                 | More choices increase decision time                | Limit main menu to 5-7 items, hide advanced options under 'More'        |
+| **Fitts's Law**                | Larger, closer targets are easier to hit           | Make primary 'Order Now' button large and prominently placed            |
+| **Aesthetic-Usability Effect** | Beautiful interfaces feel more usable              | Use high-quality food photos and consistent branding colors             |
+| **Law of Proximity**           | Related elements should be grouped together        | Group price, description, and add button for each menu item             |
+| **Progressive Disclosure**     | Show only what's needed now, reveal more on demand | Show menu categories first, expand to show individual dishes            |
+| **Miller's Law**               | People can hold 7±2 items in short-term memory     | Limit dashboard widgets to 5-7 key metrics                              |
+| **Doherty Threshold**          | System response under 400ms feels instant          | Show loading placeholders while search results load                     |
+| **Law of Similarity**          | Similar-looking elements feel related              | Use same icon style for all edit buttons across the interface           |
+| **Zeigarnik Effect**           | People remember incomplete tasks                   | Show progress bar: '3 of 5 required fields completed'                   |
+| **Goal-Gradient Effect**       | Motivation increases near goal completion          | Display 'Order 2 more items for free delivery' progress                 |
+| **Von Restorff Effect**        | Different items stand out and are remembered       | Highlight 'Chef's Special' in red among regular black menu items        |
+| **Tesler's Law**               | Complexity can't be eliminated, only moved         | Auto-fill delivery address from user profile to simplify checkout       |
+| **Peak-End Rule**              | Experiences judged by peak moment and ending       | Ensure order confirmation and email receipt are delightful              |
+| **Serial Position Effect**     | First and last items are remembered best           | Place 'Home' first and 'Contact' last in navigation                     |
+| **Consistency Principle**      | Similar actions should work the same way           | Use identical button styles and placement across all forms              |
+| **Feedback Principle**         | Every action needs clear response                  | Show 'Added to cart' toast message when item is selected                |
+| **Forgiveness Principle**      | Make errors easy to recover from                   | Provide 'Undo' option after deleting items from cart                    |
+| **Anchoring Bias**             | First information influences all decisions         | Show premium menu items first to make others seem reasonable            |
+| **Framing Effect**             | How information is presented affects decisions     | Present combo meals as 'Save \$3' instead of individual pricing         |
+| **Loss Aversion**              | People fear losing more than gaining               | Show 'Limited time: 20% off expires in 2 hours'                         |
+| **Social Proof**               | People follow others' behavior                     | Display '127 people ordered this today' under popular items             |
+| **Reciprocity Principle**      | People feel obligated to return favors             | Offer free appetizer sample to encourage main course purchase           |
+| **Scarcity Principle**         | Limited availability increases desire              | Show 'Only 3 tables left for 7 PM reservation'                          |
+| **Commitment Consistency**     | People align actions with stated commitments       | Ask users to confirm dietary preferences, then highlight matching items |
 # Essential UI Principles for Designing a CRM
 
 Designers juggle many heuristics, but a handful deliver outsized impact in customer-facing dashboards and record views. Below is a ranked “cheat sheet” of 13 principles—each defined in one crisp sentence, illustrated in a CRM context, and ordered by how strongly they influence task success, learnability, and conversion in business software.

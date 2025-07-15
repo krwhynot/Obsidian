@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Jul  14, 2025.md",
+                "file": "6 - Full Notes/Coding Rules & Guidelines/UI/Design Principles to Follow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jul  14, 2025"
+              "title": "Design Principles to Follow"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "depen",
+                "query": "kaban",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.01487731933594
+    "width": 333.01487731933594,
+    "collapsed": true
   },
   "right": {
     "id": "ed6c79baa265e16f",
@@ -197,18 +198,26 @@
   },
   "active": "7caf3c63ab03d62e",
   "lastOpenFiles": [
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Opportunities Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Organization Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Reports Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Product Page.md",
+    "7 - Projects/ForkFlow/File Structure/SIte Map/Home Page.md",
     "6 - Full Notes/Coding Rules & Guidelines/UI/Design Principles to Follow.md",
+    "6 - Full Notes/MCP/install packages Globally for MCP.md",
+    "6 - Full Notes/MCP/-MCP Server Quick Reference Notes-.md",
+    "6 - Full Notes/MCP/MCP TOOLS/knowledge-graph.md",
+    "6 - Full Notes/Claude-Code/MCP.md",
+    "6 - Full Notes/Claude-Code/MCP-Help.md",
+    "6 - Full Notes/Claude-Code/CheatSheet.md",
     "Daily Notes/Jul  14, 2025.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Walk-Through Reveiws/Review 7-13-2025.md",
     "6 - Full Notes/Coding Rules & Guidelines/UI",
     "6 - Full Notes/Coding Rules & Guidelines",
     "Daily Notes/Jul  13, 2025.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Principals.md",
-    "6 - Full Notes/MCP/install packages Globally for MCP.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Walk-Through Reveiws",
     "6 - Full Notes/MCP/Installing MCP in Claude Code.md",
-    "6 - Full Notes/MCP/-MCP Server Quick Reference Notes-.md",
-    "6 - Full Notes/MCP/MCP TOOLS/knowledge-graph.md",
     "6 - Full Notes/MCP/MCP TOOLS",
     "5 -Templates/Index.md",
     "6 - Full Notes/MCP",
@@ -220,15 +229,7 @@
     "5 -Templates/Coding Project Template/4.Code Sketches.md",
     "5 - Templates/PRD-Template.md",
     "5 - Templates/🎯 Workflow Templates/Concept Capture Template.md",
-    "5 - Templates/🎯 Workflow Templates/Code Pattern Template.md",
-    "5 -Templates/Coding Project Template/0.Instructions Example.md",
-    "6 - Full Notes/Coding Project Planning/Vibe Coding/OLD/Architecture Brainstorming Template.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page/Components.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page/Organization Page.md",
     "7 - Projects/---KitchenPantry CRM 7-7-25---/Site Map/Organization Page",
-    "7 - Projects/ForkFlow/NEW PRD-TXT.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Tech Stack.md",
-    "7 - Projects/---KitchenPantry CRM 7-7-25---/Core Features-home page.md",
     "6 - Full Notes/Claude-Code/Prompt",
     "6 - Full Notes/Context Engineering/Rules",
     "6 - Full Notes/Context Engineering/Docs",
