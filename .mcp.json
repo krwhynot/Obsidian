@@ -1,0 +1,52 @@
+{
+    "mcpServers": {
+        "knowledge-graph": {
+            "command": "mcp-knowledge-graph",
+            "args": [
+                "--memory-path",
+                "./.knowledge"
+            ]
+        },
+        "exa": {
+            "command": "exa-mcp-server",
+            "args": [
+                "--tools=web_search_exa,research_paper_search,company_research,crawling,competitor_finder,linkedin_search,wikipedia_search_exa,github_search"
+            ],
+            "env": {
+                "EXA_API_KEY": "a9b28749-adac-4675-ac21-b6d6afbb65f1"
+            }
+        },
+        "supabase": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@supabase/mcp-server-supabase@latest",
+                "--project-ref=fxeznuvwwhdrbevymfuf"
+            ],
+            "env": {
+                "SUPABASE_ACCESS_TOKEN": "sbp_2e0685253d140230d4e57766a522208a3e9f6b39"
+            }
+        },
+        "sequential-thinking": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-sequential-thinking@latest",
+                "--max-thoughts=15",
+                "--branch-limit=2",
+                "--detail-level=low",
+                "--revision-depth=3"
+            ],
+            "env": {
+                "DISABLE_THOUGHT_LOGGING": "false"
+            }
+        },
+        "Context7": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@upstash/context7-mcp"
+            ]
+        }
+    }
+}

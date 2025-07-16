@@ -1,0 +1,1 @@
+Use the sequential-thinking MCP tool whenever you face a problem that requires structured, step-by-step reasoning, especially if you anticipate needing to revise your plan, explore alternatives, or want tool recommendations tailored to each stage of your workflow

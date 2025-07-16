@@ -1,0 +1,55 @@
+- API Integration (api_client.py):
+    - Authentication handling
+    - API request management
+    - OrderID validation
+    - MP3 file retrieval
+    - Error handling and retry logic
+- Audio Processing (audio_processor.py):
+    - MP3 file handling
+    - Silence detection algorithm
+    - Audio quality validation
+    - Temporary file management
+    - Batch processing coordination
+- Transcription System (transcriber.py):
+    - Speech-to-text conversion
+    - Keyword ("oops") detection
+    - Timestamp tracking
+    - Transcription optimization
+    - Error handling and recovery
+- Queue Management (queue_manager.py):
+    - Batch job scheduling
+    - Progress tracking
+    - State persistence
+    - Resource management
+    - Error recovery
+- GUI Components:
+    - Main Window (main_window.py):
+        - File input handling
+        - Control buttons (Start, Pause, Resume, Cancel)
+        - Configuration options
+        - Status display
+    - Progress Window (progress_window.py):
+        - Real-time progress monitoring
+        - Batch status tracking
+        - Error reporting
+        - Resource usage display
+- Report Generation (html_generator.py):
+    - HTML template management
+    - Data aggregation
+    - Sorting and filtering implementation
+    - Interactive report features
+    - Export functionality
+- Utility Components:
+    - Configuration Management (config.py):
+        - Settings storage
+        - User preferences
+        - System configurations
+    - Logging System (logger.py):
+        - Error tracking
+        - Activity monitoring
+        - Debug information
+        - Log rotation
+    - File Operations (file_handler.py):
+        - Temporary file management
+        - Directory handling
+        - Cleanup operations
